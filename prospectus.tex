@@ -1,5 +1,436 @@
-\documentclass{article}
+\documentclass[%
+%   draft       % draft: filename in the header of every page, the date of
+               %        printing follows the author's name, there is 
+               %        no last page for the advisors signatures, and
+               %        document spacing defaults to 2, both the abstract
+               %        and the main body of the text.
+   final       % final: the filename does not appear anywhere, same for the
+               %        date of printing, the abstract (if exists) is in
+               %        the single spacing, and the spacing of the main body
+               %        of the text is determined by \LineSpacing, there is
+               %        an additional (last) page with the places where the
+               %        signatures of the advisory commettee go
+]{prospectus}
+
+\LineSpacing{1.5}% this can be a number between 1.5 and 2, to your choosing
+                 % though it appears only in the final version, the draft
+                 % is in double spacing
 
 \begin{document}
+\bibliographystyle{prsty}
+
+\title{Theory of Atom-Molecule Bose Einstein Condensates}
+\author{Marijan Ko\v{s}trun}
+\MajorAdvisor{Juha Javanainen}     % these appear if the version is final
+\AssociateAdvisorA{Robin C\^ot\'e} % on the last page with the place for
+\AssociateAdvisorB{ ?/?}   % their signatures
+
+% optional abstract of the prospectus, if not needed remove the whole
+% environment
+\abstract{%
+  A quasi-continuum model of photo-association assumes an atomic Bose Einstein
+  condensate (BEC) coherently coupled to a single mode (diatomic) molecular
+  system in the presence of the laser field.
+  In the ``mean-field'' formalism the Atom-Molecule Bose Einstein Condensate
+  (AMBEC) is described by a system of two Gross-Pitaevskii equations,
+  one for each BEC. Their interaction captures the coherent
+  photo-associative/photo-dissociative  exchange of particles between the
+  condensates: two atoms form a molecule, and a molecule splits into two
+  atoms. We propose to analyze this system of equations numerically and
+  theoretically. We expect our analytical
+  research to reveal the general properties of the coupled AMBEC system,
+  while the numerics should allow detailed analysis of any configuration of
+  interest.
+  It is our goal to find the extent to which the relevant physics is
+  mirrored in our simple mathematical model, in particular, whether
+  the model captures the experimentally observed collapse of a
+  BEC as reported in J. Roberts et al., in Phys. Rev. Lett. 86, 4211
+  (2001).
+  }
+
+\maketitle % creates a header of the document. but does not put it on a 
+           % separate page
+
+\section*{Background}
+
+In 1924 and 1925, Bose and Einstein concluded that the ideal gas of
+identical bosonic particles undergoes phase transition, 
+if cooled to or below a critical temperature. 
+At critical temperature the average 
+particle's thermal (de Broglie) wavelength becomes comparable to the 
+average interparticle spacing \cite{Bose1924,Einstein1925}. 
+Further lowering of the temperature of the bosonic system causes particles to 
+condense in the system's ground state, thus creating a macroscopic
+quantum-mechanical object, a Bose-Einstein Condensate (BEC).
+
+Seventy years later in 1995, the first experimental observations of
+Bose Einstein condensation in dilute low-temperature atomic vapors were
+reported \cite{Andersonetal1995,Davisetal1995}. 
+These and subsequent experimental results have heightened the interest in the
+theory of BEC.
+
+\section*{Mean Field Theory of BEC}
+
+The two pillars of the theory of BEC are the mean-field approximation by 
+Bogoliubov \cite{Bogoliubov1947}, and the Gross-Pitaevskii equation.
+
+The mean-field approximation is a theoretical approach present in many
+branches of physics. It allows insight into the
+behavior of the system in terms of parameters with clear physical meaning,
+while avoiding heavy numerics associated with the more exact calculations
+
+The mean-field theory of BEC was developed to tackle
+a many-body problem of a large system of bosonic particles trapped in 
+an external potential at the temperature of absolute zero. Such a system, is
+ideally described by many-body Hamiltonian $\hat H$,
+\begin{equation}
+  \label{eq:nbodyproblem}
+  \begin{array}[t]{rl}
+  \hat H & = \int d {\bf r } \ \hat \Psi^{\dagger}( {\bf r} )
+  \left( - \frac {\hbar^2} {2 \ m} \nabla^2 + V_{0}
+    \right) \Psi ( {\bf r} ) \\
+  & + \frac 1 2 \int d {\bf r }\ d {\bf r' } \ 
+  \hat \Psi^{\dagger}( {\bf r} ) \ \hat \Psi^{\dagger}( {\bf r'} ) \ 
+  V( {\bf r} - {\bf r'}) \ \hat \Psi( {\bf r'} ) \ \hat \Psi( {\bf r'} ),
+  \end{array}
+\end{equation}
+where $\hat \Psi( {\bf r} )$ and $\hat \Psi^{\dagger} ( {\bf r} )$ are
+the boson annihilation and creation field operators, and
+$V( {\bf r} - {\bf r'})$ is a two-body interatomic
+potential.  Equation (\ref{eq:nbodyproblem}), as is, is impossible to solve
+analytically for any physically relevant number of particles ($10^6$ and 
+higher). 
+
+\noindent In Eq. (\ref{eq:nbodyproblem}) let us assume the following: the
+bosonic system has undergone the Bose-Einstein condensation,
+meaning that a quantum ground state contains the majority (if not all) of the 
+system particles, and let the system be in thermodynamic limit, that is 
+$N \rightarrow \infty$ and $V \rightarrow \infty$ but the limit
+$\rho = \frac N V \rightarrow \rho_0$ exists, where $N$ is the number of 
+particles and $V$ volume of the system.
+These assumptions justify separation of the bosonic field operator
+$\hat \Psi$ into two components: one pertaining to
+the ground state, and the other describing the rest of the system.
+The thermodynamic limit allows the operator corresponding to the ground state
+to be replaced by a complex number. The general name of this complex number in
+the language of the ``mean-field'' theories is ``order parameter'', and in
+the case of BEC it is interpreted as ``density amplitude''.
+The mean-field theory of BEC subsequently allows a development of the
+``first-order'' theory for excitations in gaseous BEC,
+\cite{Abrikosovetal1963}.
+
+Consider further simplifications of the mean-field equations for the ground
+state, that is, let us in Eq.(\ref{eq:nbodyproblem}) replace the
+interaction potential 
+$V({\bf r} - {\bf r'})$ 
+by 
+$U_0 \ \delta({\bf r} - {\bf r'})$. This yields a
+ ``zeroth-order'' (or semiclassical) equation for the order parameter
+$\Phi$, a BEC density amplitude, 
+\begin{equation}
+  \label{eq:gpe}
+  i \hbar \frac {\partial \Phi( {\bf r}, t)}{\partial t} = \
+  \left( - \frac {\hbar^2} {2 m} \nabla^2 + V_{0}({\bf r},t) \right)
+  \Phi( {\bf r}, t) + 
+  N U_0 \left| \Phi ({\bf r},t) \right|^2 \Phi( {\bf r}, t),
+\end{equation}
+where $m$ is the mass of a single particle while $N$ is the number of them.
+This is known as the Gross-Pitaevskii (GP) equation
+\cite{Gross1961,Pitaevskii1961,Gross1963}. It is valid
+providing that the $s$-wave scattering length $a_0$, related to $U_0$ via
+\begin{equation}
+  \label{eq:1s}
+  U_0 = \frac {4 \pi \hbar^2 a_0} {m}
+\end{equation}
+is much larger then the average distance between the atoms, and the
+number of atoms in the condensate is
+much larger than one \cite{Abrikosovetal1963,LifshitzPitaevskii1980}.
+This condition is fulfilled in the dilute low-temperature atomic vapors.
+
+If the atom-atom interaction in the above model is assumed repulsive,
+$U_0 > 0$, the ground state and its properties can be calculated, 
+(e.g., particle distribution and chemical potential),
+see \cite{ParkinsandWalls1998} and the references therein.
+In the opposite case, when the atom-atom interactions are attractive, 
+$U_0 < 0$, 
+it is known that for most of the confining geometries there exists a critical
+number of particles that may be held in a metastable state. If the number
+of particles is larger than the critical value, a collapse of the BEC
+distribution to the trap center is predicted.
+
+\section*{Recent Results}
+
+
+Recent experiments \cite{Robertsetal2001,Robertsetal2001B,Cornishetal2000}
+have achieved a high accuracy in tuning of the $s$-wave scattering
+length in trapped
+$^{85}$Rb BECs. In all the experiments the control over the scattering length
+was obtained using Feshbach resonances, \cite{Feshbach1950,Child1974},
+in an external magnetic field. In
+particular, Ref. \cite{Robertsetal2001B} reports on the existence of
+$(i)$ a critical magnetic field at which a $s$-wave scattering length 
+reaches a critical negative value, and $(ii)$ a phenomenon the authors termed
+``collapse'' that occurs upon decreasing the magnetic field below the 
+threshold. As a result of the collapse the number of atoms in BEC decreases
+substantially, while the ratio of axial to radial width varies erratically
+from the initial ratio.
+The authors
+concluded that as a result of the collapse, the condensate oscillates in a
+highly excited state, while loosing an undetermined number of the most
+energetic particles.
+
+Apparently, the properties of the collapse obtained by solving a simple
+Gross-Pitaevskii equation differ from those observed
+experimentally. This inadequacy of GPE is emphasized further by the
+results of Ref. \cite{glc}. There it was shown that a quantum 
+many-body system of particles described
+by GPE (\ref{eq:gpe}) with the attractive atom-atom interaction, $U_0 < 0$,
+undergoes a gas-liquid phase transition. This intuitively plausible result
+claims, in plain words, that the collapse of a BEC, according to GPE,
+produces a droplet of liquid.
+
+\section*{Proposed Research}
+
+All experimental realizations of BEC in atomic vapors were done with
+atoms of group $IA$ in the periodic table.  A pair of these atoms may form a
+molecule, and the theory of formation of such diatomic molecules has been
+extensively studied. 
+More recently, a production of the molecules in ultracold atomic collisions 
+became the focus of theoretical research, 
+\cite{Tiesingaetal1993,Moerdijketal1995}. 
+Typically, such a molecule creation process is analyzed in
+terms of Feshbach resonances, i.e., the bound motion in one
+degree of freedom (molecule) is coupled weakly to and can decay into unbound
+motion in another degree of freedom (pair of atoms) 
+\cite{friedrich94:feshbach}. 
+The mechanism of Feshbach resonances has been suggested to be applicable
+for the case of atomic BEC in an external magnetic field, where it produces
+molecules which are both
+Bose condensed and in coherence with the atomic BEC. This conjecture allows
+the GPE to be written for the combined system of atom-molecule BEC
+(AMBEC) \cite{Timmermansetal1999}.
+
+As an alternative to Feshbach resonances, the quasi-continuum
+photo-association based on quantum field theory 
+(QCPA) was suggested, \cite{jjonpa1998}. In this approach,
+one considers a quasi-continuum (QC) of free states coupled to a single bound
+state in the presence of a detuned laser field. 
+In Feshbach resonances 
+molecules are Bose condensed in the trap's ground state, while in QCPA
+the phase of the  molecules is modulated by a factor $e^{i \, {\bf q \, x}}$,
+as a result of the recoil of PA photon with momentum {\bf q}. 
+The phase modulation is not all that important, 
+because the nature of molecular BEC does not change, i.e., a single
+quantum state (with momentum ${\bf q}$) is
+macroscopically occupied.
+Finally, the QCPA, unlike Feshbach resonances, allows easier identification of
+the relevant physical parameters in a simple model of AMBEC:
+$K$, the atom-molecule coupling strength and
+$\delta$, the laser energy mismatch from resonance.
+
+While both approaches result in a formally identical coupled two-mode system
+of GP equations, we choose the formalism and terminology of
+QCPA for the reasons mentioned above. This said, the system of equations 
+describing a simple model of AMBEC is:
+\begin{equation}
+  \label{eq:ambec}
+  \begin{array}[t]{rcl}
+  i \hbar \frac {\partial \varphi}{\partial t} &=&
+  H_{0,a} \varphi - K \varphi^* \psi, \\
+  i \hbar \frac {\partial \psi}{\partial t} &= &
+  \left( H_{0,m}-\delta \right)  \psi - 
+  \frac K 2 \varphi^2,
+  \end{array}
+\end{equation}
+where $H_{0,a}$ and $H_{0,m}$ are the Hamiltonians for atomic and molecular
+harmonic-oscillator like trapping potentials, respectively. The important
+aspect of  Eq. (\ref{eq:gpe}) is that the adiabatic expansion
+with respect to detuning $\delta$ allows elimination of the molecular field
+$\psi$, yielding the GPE for atomic BEC only,
+\begin{equation}
+  \label{eq:adiabatic}
+  i \hbar \frac {\partial \varphi}{\partial t} \simeq
+  H_{0,a} \varphi - \frac {K^2} {\delta}  |\varphi|^2 \varphi.
+\end{equation}
+This expression indicates the possibility of changing the effective
+$s$-wave scattering length of the BEC atoms by changing the
+detuning $\delta$ and the atom-molecule coupling strength $K$. Even the sign
+change of the $s$-wave scattering length is possible
+by simply changing the sign of detuning. 
+Naturally, the question arises if and how Eq. (\ref{eq:ambec}) relates to
+the problem of collapse: is it in accord with experimentally 
+observed phenomena of Refs.
+\cite{Robertsetal2001,Robertsetal2001B,Cornishetal2000}, or perhaps follows
+the collapse path of the single GPE (\ref{eq:gpe}) discussed earlier?
+
+We propose to examine these questions analytically and numerically.
+
+For the numerical part of the problem,  we have developed a novel
+time-integration method for the nonlinear Hamiltonians \cite{Kostrun2001:DS}. 
+The method, called the {\it DS-method},
+can be modified to calculate the ground state, by integrating in 
+complex instead of the real time. Our intention
+to explore the $\{ \delta, K \}$ parameter space of
+the Eq.(\ref{eq:ambec}) is motivated by our preliminary results for
+the one-dimensional problem, where we found a puzzling lack of any collapse
+whatsoever.
+We would like to determine whether the same holds for
+two- and three-dimensional systems, and for different initial configurations
+of the AMBEC. 
+In parallel, we intend to extend our numerical work, written mainly in
+combination of RLaB and C/C++, as to allow the detuning $\delta$ to be time
+dependent and for PA matrix element $K$ to depend both on time and the
+position.
+The goal we have in mind is to determine whether these results confirm
+the predictions stemming from adiabatic expansion (\ref{eq:adiabatic}) 
+or not.
+
+While numerical results should provide the details of time evolution
+of any particular AMBEC configuration, we surmise that certain general laws
+can be deduced about the system. We distinguish between the of free and
+trapped AMBEC.
+
+For the trapped system, our main concern is the structural stability of
+the system (\ref{eq:ambec}), i.e., whether it collapses or not. 
+In order to perform this analysis, we will first determine
+the equations of motion of the functional $\eta$ given by
+\begin{equation}
+  \label{eq:eta}
+  \eta(\tau) = 
+  \left< \varphi | {\bf x}^2 | \varphi \right> +
+  \left< \psi    | {\bf x}^2 | \psi  \right>,
+\end{equation}
+from (\ref{eq:ambec}). This procedure will result in 
+differential equations from which general results might be
+obtained. 
+Our approach is an extension of the work on the collapse of a single component
+BEC, \cite{Wadatietal1998}, that utilizes the Zakharov's collapse analysis
+method, Refs. \cite{Zakharov1972,Zakharovetal1975}.
+In the formalism of this method, a collapse happens when
+$\eta \rightarrow 0$.
+
+In the case of free condensates, we intend to extend the known results
+from the GP theory of the single component BEC \cite{Drummondetal1998}.
+Primarily, a repulsive atom-atom interaction makes a condensate structurally
+unstable and prone to modulation instability, while conversely, an
+attractive atom-atom interaction is instrumental in forming stable
+soliton-shaped distributions.
+
+\section*{Outlook}
+
+Upon successful completion of the work described here, we
+should be able to answer the following questions: First, to what extent is it
+possible to manipulate the $s$-wave scattering length of the particles in a
+BEC? Second, to what extent can one control the behavior of the condensates 
+by manipulating the $s$-wave scattering length?
+
+% references in separate file(s) all with extension .bib if using bibtex
+% or with preamble \bibitem if using plain latex
+\begin{thebibliography}{10}
+
+\bibitem{Bose1924}
+S. Bose, Zeit. Phys. {\bf 26},  178  (1924).
+
+\bibitem{Einstein1925}
+A. Einstein, Sitzber. Kgl. Preuss. Akad. Wiss. {\bf 3},    (1925).
+
+\bibitem{Andersonetal1995}
+M. Anderson {\it et~al.}, Science {\bf 269},  198  (1995).
+
+\bibitem{Davisetal1995}
+K. Davis {\it et~al.}, Phys. Rev. Lett. {\bf 75},  3969  (1995).
+
+\bibitem{Bogoliubov1947}
+N. Bogoliubov, J. Phys. (Moscow) {\bf 11},  23  (1947).
+
+\bibitem{Abrikosovetal1963}
+A. Abrikosov, L. Gorkov, and I. Dzyaloshinski, {\em Methods of Quantum Field
+  Theory in Statistical Physics} (Prentice-Hall, Inc., Englewood Cliffs, New
+  Jersey, 1963).
+
+\bibitem{Gross1961}
+E. Gross, Nuovo Cimento {\bf 20},  454  (1961).
+
+\bibitem{Pitaevskii1961}
+L. Pitaevskii, Zh. Eksp. Teor. Fiz. {\bf 40},  646  (1961), english translation
+  in Sov. Phys. JETP {\bf 13}, 451 (1961).
+
+\bibitem{Gross1963}
+E. Gross, J. Math. Phys. {\bf 4},  195  (1963).
+
+\bibitem{LifshitzPitaevskii1980}
+E. Lifshitz and L. Pitaevskii, {\em Statistical Physics, Part II} (Pergamon
+  Press, Oxford, 1980).
+
+\bibitem{ParkinsandWalls1998}
+A. Parkins and D. Walls, Phys. Rep. {\bf 303},  1  (1998).
+
+\bibitem{Robertsetal2001}
+J. Roberts {\it et~al.}, Phys. Rev. Lett. {\bf 81},  5109  (1998), arXiv:
+  physics/0104053.
+
+\bibitem{Robertsetal2001B}
+J. Roberts {\it et~al.}, Phys. Rev. Lett. {\bf 86},  4211  (2001), arXiv:
+  cond-matt/0102116.
+
+\bibitem{Cornishetal2000}
+S. Cornish {\it et~al.}, Stable $^{85}$Rb Bose-Einstein Condensates with Widely
+  Tunable Interactions, arXiv: cond-matt/0004290.
+
+\bibitem{Feshbach1950}
+H. Feshbach, Ann. Phys. {\bf 5},  357  (1958).
+
+\bibitem{Child1974}
+M. Child, {\em Molecular Collision Theory} (Dover Publications, Inc., Mineola,
+  N.Y., 1996), work first published by Academic Press, London 1974, Vol. 4 of
+  the monograph series "Theoretical Chemistry".
+
+\bibitem{glc}
+S. ichiro Koh, Attractive Boson and the Gas-Liquid Condensation, arXiv:
+  cond-mat/0009471.
+
+\bibitem{Tiesingaetal1993}
+E. Tiesinga, B. Verhaar, and H. Stoff, Phys. Rev. A {\bf 47},  411  (1993).
+
+\bibitem{Moerdijketal1995}
+A. Moerdijk, B. Verhaar, and A. Axelsson, Phys. Rev. A {\bf 51},  4852  (1995).
+
+\bibitem{friedrich94:feshbach}
+H. Friedrich,  in {\em Theoretical Atomic Physics}, 2nd ed. (Springer, Berlin,
+  1994), Chap.~1, pp.\ 30--52.
+
+\bibitem{Timmermansetal1999}
+E. Timmermans, P. Tommasini, M. Hussein, and A. Kerman, Phys. Rep. {\bf 315},
+  199  (1999).
+
+\bibitem{jjonpa1998}
+J. Javanainen and M. Mackie, Phys. Rev. A {\bf 58},  R789  (1998).
+
+\bibitem{Kostrun2001:DS}
+M. Ko\v{s}trun and J. Javanainen, J. Comp. Phys. {\bf 172},  298  (2001).
+
+\bibitem{Wadatietal1998}
+M. Wadati and T. Tsurumi, Phys. Lett. A {\bf 247},  287  (1998).
+
+\bibitem{Zakharov1972}
+V. Zakharov, Sov. Phys. JETP {\bf 35},  908  (1972).
+
+\bibitem{Zakharovetal1975}
+V. Zakharov and V. Synakh, Sov. Phys. JETP {\bf 41},  465  (1975).
+
+\bibitem{Drummondetal1998}
+P. Drummond, K. Kheruntsyan, and H. He, Phys. Rev. Lett. {\bf 81},  3055
+  (1998).
+
+\end{thebibliography}
+
+\backmatter % if the option is final, then this produces an extra page where
+            % the approval statement with the advisors signatures go
 
 \end{document}
+
+
+
+
+
+
