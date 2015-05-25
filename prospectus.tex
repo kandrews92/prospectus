@@ -1,4 +1,4 @@
-\documentclass{article}
+\documentclass{report}
 
 %----- Packages to be imported
 \usepackage{physics}
@@ -7,6 +7,9 @@
 \usepackage{epsfig}
 \usepackage{setspace}
 \usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage[left=2.5cm,top=3cm,right=2.5cm,bottom=3cm,bindingoffset=0.5cm]{geometry}
 
 \pagestyle{plain}
 
@@ -19,14 +22,12 @@
 
 %---- Roman page numbering for frontmatter
 	\pagenumbering{roman}
-
 	%\include{frontmatter/title}
-
 	\include{frontmatter/abstract}
 
 %---- End of front matter
 	\pagenumbering{arabic}
-
+	\include{chapters/chap1}
 
 %---- References and bib data
 	\bibliographystyle{plain}
