@@ -1,148 +1,35 @@
-\documentclass[%
-%   draft       % draft: filename in the header of every page, the date of
-               %        printing follows the author's name, there is 
-               %        no last page for the advisors signatures, and
-               %        document spacing defaults to 2, both the abstract
-               %        and the main body of the text.
-   final       % final: the filename does not appear anywhere, same for the
-               %        date of printing, the abstract (if exists) is in
-               %        the single spacing, and the spacing of the main body
-               %        of the text is determined by \LineSpacing, there is
-               %        an additional (last) page with the places where the
-               %        signatures of the advisory commettee go
-]{prospectus}
+\documentclass{article}
 
-\LineSpacing{1.5}% this can be a number between 1.5 and 2, to your choosing
-                 % though it appears only in the final version, the draft
-                 % is in double spacing
+%----- Packages to be imported
+\usepackage{physics}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{epsfig}
+\usepackage{setspace}
+\usepackage{fancyhdr}
+
+\pagestyle{plain}
 
 \begin{document}
-\bibliographystyle{prsty}
 
-\title{Title}
-\author{Kraig Andrews}
-\MajorAdvisor{Dr. Zhixian Zhou}     % these appear if the version is final
-\AssociateAdvisorA{TBD} % on the last page with the place for
-\AssociateAdvisorB{TBD}   % their signatures
+\setcounter{secnumdepth}{4}
+	%\sets numbering upto 4th level in chapter,section, subsection, subsubsection
+\setcounter{tocdepth}{4}
+	%\makes levels upto the 4th appear in the table of contents
 
-% optional abstract of the prospectus, if not needed remove the whole
-% environment
-\abstract{%
-   abstract goes here
-  }
+%---- Roman page numbering for frontmatter
+	\pagenumbering{roman}
 
-\maketitle % creates a header of the document. but does not put it on a 
-           % separate page
+	%\include{frontmatter/title}
 
-\section{Background}
+	\include{frontmatter/abstract}
 
-% references in separate file(s) all with extension .bib if using bibtex
-% or with preamble \bibitem if using plain latex
-\begin{thebibliography}{10}
+%---- End of front matter
+	\pagenumbering{arabic}
 
-\bibitem{Bose1924}
-S. Bose, Zeit. Phys. {\bf 26},  178  (1924).
 
-\bibitem{Einstein1925}
-A. Einstein, Sitzber. Kgl. Preuss. Akad. Wiss. {\bf 3},    (1925).
-
-\bibitem{Andersonetal1995}
-M. Anderson {\it et~al.}, Science {\bf 269},  198  (1995).
-
-\bibitem{Davisetal1995}
-K. Davis {\it et~al.}, Phys. Rev. Lett. {\bf 75},  3969  (1995).
-
-\bibitem{Bogoliubov1947}
-N. Bogoliubov, J. Phys. (Moscow) {\bf 11},  23  (1947).
-
-\bibitem{Abrikosovetal1963}
-A. Abrikosov, L. Gorkov, and I. Dzyaloshinski, {\em Methods of Quantum Field
-  Theory in Statistical Physics} (Prentice-Hall, Inc., Englewood Cliffs, New
-  Jersey, 1963).
-
-\bibitem{Gross1961}
-E. Gross, Nuovo Cimento {\bf 20},  454  (1961).
-
-\bibitem{Pitaevskii1961}
-L. Pitaevskii, Zh. Eksp. Teor. Fiz. {\bf 40},  646  (1961), english translation
-  in Sov. Phys. JETP {\bf 13}, 451 (1961).
-
-\bibitem{Gross1963}
-E. Gross, J. Math. Phys. {\bf 4},  195  (1963).
-
-\bibitem{LifshitzPitaevskii1980}
-E. Lifshitz and L. Pitaevskii, {\em Statistical Physics, Part II} (Pergamon
-  Press, Oxford, 1980).
-
-\bibitem{ParkinsandWalls1998}
-A. Parkins and D. Walls, Phys. Rep. {\bf 303},  1  (1998).
-
-\bibitem{Robertsetal2001}
-J. Roberts {\it et~al.}, Phys. Rev. Lett. {\bf 81},  5109  (1998), arXiv:
-  physics/0104053.
-
-\bibitem{Robertsetal2001B}
-J. Roberts {\it et~al.}, Phys. Rev. Lett. {\bf 86},  4211  (2001), arXiv:
-  cond-matt/0102116.
-
-\bibitem{Cornishetal2000}
-S. Cornish {\it et~al.}, Stable $^{85}$Rb Bose-Einstein Condensates with Widely
-  Tunable Interactions, arXiv: cond-matt/0004290.
-
-\bibitem{Feshbach1950}
-H. Feshbach, Ann. Phys. {\bf 5},  357  (1958).
-
-\bibitem{Child1974}
-M. Child, {\em Molecular Collision Theory} (Dover Publications, Inc., Mineola,
-  N.Y., 1996), work first published by Academic Press, London 1974, Vol. 4 of
-  the monograph series "Theoretical Chemistry".
-
-\bibitem{glc}
-S. ichiro Koh, Attractive Boson and the Gas-Liquid Condensation, arXiv:
-  cond-mat/0009471.
-
-\bibitem{Tiesingaetal1993}
-E. Tiesinga, B. Verhaar, and H. Stoff, Phys. Rev. A {\bf 47},  411  (1993).
-
-\bibitem{Moerdijketal1995}
-A. Moerdijk, B. Verhaar, and A. Axelsson, Phys. Rev. A {\bf 51},  4852  (1995).
-
-\bibitem{friedrich94:feshbach}
-H. Friedrich,  in {\em Theoretical Atomic Physics}, 2nd ed. (Springer, Berlin,
-  1994), Chap.~1, pp.\ 30--52.
-
-\bibitem{Timmermansetal1999}
-E. Timmermans, P. Tommasini, M. Hussein, and A. Kerman, Phys. Rep. {\bf 315},
-  199  (1999).
-
-\bibitem{jjonpa1998}
-J. Javanainen and M. Mackie, Phys. Rev. A {\bf 58},  R789  (1998).
-
-\bibitem{Kostrun2001:DS}
-M. Ko\v{s}trun and J. Javanainen, J. Comp. Phys. {\bf 172},  298  (2001).
-
-\bibitem{Wadatietal1998}
-M. Wadati and T. Tsurumi, Phys. Lett. A {\bf 247},  287  (1998).
-
-\bibitem{Zakharov1972}
-V. Zakharov, Sov. Phys. JETP {\bf 35},  908  (1972).
-
-\bibitem{Zakharovetal1975}
-V. Zakharov and V. Synakh, Sov. Phys. JETP {\bf 41},  465  (1975).
-
-\bibitem{Drummondetal1998}
-P. Drummond, K. Kheruntsyan, and H. He, Phys. Rev. Lett. {\bf 81},  3055
-  (1998).
-
-\end{thebibliography}
-
-\backmatter % if the option is final, then this produces an extra page where
-            % the approval statement with the advisors signatures go
+%---- References and bib data
+	\bibliographystyle{plain}
+	\bibliography{refs/database}
 
 \end{document}
-
-
-
-
-
-
