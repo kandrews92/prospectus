@@ -7,7 +7,7 @@
 %% the UCONN. by marijan kostrun, X/2001
 
 \NeedsTeXFormat{LaTeX2e}[1995/12/01]
-\ProvidesClass{uconnprospectus}
+\ProvidesClass{prospectus}
               [2001/10/03 v1.1 Standard LaTeX document class for the graduate students of UCONN.]
 \newcommand\@ptsize{}
 \newif\if@restonecol
