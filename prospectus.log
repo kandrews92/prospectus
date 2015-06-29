@@ -1,9 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  27 MAY 2015 12:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  29 JUN 2015 10:42
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**prospectus
+**prospectus.tex
 (./prospectus.tex
 LaTeX2e <2014/05/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
@@ -1878,13 +1877,32 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [1
 
 
+] (./prospectus.toc)
+\tf@toc=\write4
+\openout4 = `prospectus.toc'.
+
+ [2
+
+
+] (./prospectus.lof)
+\tf@lof=\write5
+\openout5 = `prospectus.lof'.
+
+ [3
+
+] (./prospectus.lot)
+\tf@lot=\write6
+\openout6 = `prospectus.lot'.
+
+ [4
+
 ]
 \openout2 = `chapters/chap1.aux'.
 
- (./chapters/chap1.tex
+
+(./chapters/chap1.tex
 Chapter 1.
 ) [1
-
 
 
 ] (./prospectus.bbl) [2
@@ -1893,23 +1911,23 @@ Chapter 1.
 ] (./prospectus.aux (./frontmatter/title.aux)
 (./frontmatter/abstract.aux) (./chapters/chap1.aux)) ) 
 Here is how much of TeX's memory you used:
- 20884 strings out of 493109
- 422554 string characters out of 6138587
+ 20893 strings out of 493109
+ 422656 string characters out of 6138587
  447756 words of memory out of 5000000
  24009 multiletter control sequences out of 15000+600000
  7810 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,6n,69p,10402b,148s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,11n,69p,10406b,281s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2014/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2014/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2014/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmr10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmr7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti1
 0.pfb>
-Output written on prospectus.pdf (4 pages, 62882 bytes).
+Output written on prospectus.pdf (7 pages, 66015 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
- 28 compressed objects within 1 object stream
+ 51 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
