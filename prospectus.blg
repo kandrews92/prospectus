@@ -6,44 +6,44 @@ A level-1 auxiliary file: frontmatter/abstract.aux
 A level-1 auxiliary file: chapters/chap1.aux
 The style file: plain.bst
 Database file #1: refs/database.bib
-You've used 2 entries,
+You've used 3 entries,
             2118 wiz_defined-function locations,
-            515 strings with 4702 characters,
-and the built_in function-call counts, 735 in all, are:
-= -- 64
-> -- 50
+            524 strings with 4980 characters,
+and the built_in function-call counts, 1364 in all, are:
+= -- 118
+> -- 108
 < -- 0
-+ -- 20
-- -- 18
-* -- 60
-:= -- 138
-add.period$ -- 7
-call.type$ -- 2
-change.case$ -- 15
++ -- 43
+- -- 40
+* -- 124
+:= -- 250
+add.period$ -- 11
+call.type$ -- 3
+change.case$ -- 29
 chr.to.int$ -- 0
-cite$ -- 2
-duplicate$ -- 23
-empty$ -- 47
-format.name$ -- 18
-if$ -- 142
+cite$ -- 3
+duplicate$ -- 34
+empty$ -- 76
+format.name$ -- 40
+if$ -- 261
 int.to.chr$ -- 0
-int.to.str$ -- 2
-missing$ -- 3
-newline$ -- 14
-num.names$ -- 4
-pop$ -- 14
+int.to.str$ -- 3
+missing$ -- 4
+newline$ -- 20
+num.names$ -- 6
+pop$ -- 25
 preamble$ -- 1
-purify$ -- 13
+purify$ -- 26
 quote$ -- 0
-skip$ -- 13
+skip$ -- 20
 stack$ -- 0
-substring$ -- 22
-swap$ -- 2
+substring$ -- 54
+swap$ -- 3
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 6
+type$ -- 10
 warning$ -- 0
-while$ -- 5
-width$ -- 3
-write$ -- 27
+while$ -- 8
+width$ -- 4
+write$ -- 40

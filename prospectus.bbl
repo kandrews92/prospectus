@@ -1,6 +1,6 @@
 \begin{thebibliography}{1}
 
-\bibitem{Huang_et_al_ReliableExfoliationTechniques_ACSnano2015}
+\bibitem{Huang_et_al_ACSnano2015}
 Yuan Huang, Eli Sutter, Norman~N. Shi, Jiabao Zheng, Tianzhong Yang, Dirk
   Englund, Hong-Jun Gao, and Peter Sutter.
 \newblock {R}eliable {E}xfoliation of {L}arge-{A}rea {H}igh-{Q}uality {F}lakes
@@ -8,7 +8,16 @@ Yuan Huang, Eli Sutter, Norman~N. Shi, Jiabao Zheng, Tianzhong Yang, Dirk
 \newblock {\em ACS Nano}, 0(0):null, 0.
 \newblock PMID: 26336975.
 
-\bibitem{Schroder_SemiconductrMaterialDeviceCharacterization2006}
+\bibitem{Lee_et_al_ACSnano2015}
+Gwan-Hyoung Lee, Xu~Cui, Young~Duck Kim, Ghidewon Arefe, Xian Zhang, Chul-Ho
+  Lee, Fan Ye, Kenji Watanabe, Takashi Taniguchi, Philip Kim, and James Hone.
+\newblock Highly stable, dual-gated mos2 transistors encapsulated by hexagonal
+  boron nitride with gate-controllable contact, resistance, and threshold
+  voltage.
+\newblock {\em ACS Nano}, 9(7):7019--7026, 2015.
+\newblock PMID: 26083310.
+
+\bibitem{Schroder_Semiconductor2006}
 Dieter~K. Schroder.
 \newblock {\em {S}emiconductor {M}aterial and {D}evice {C}haracterization}.
 \newblock {J}ohn {W}iley and {S}ons, {I}nc., Hoboken, New Jersey, 3rd edition,

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  4 NOV 2015 20:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  6 NOV 2015 13:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1912,10 +1912,10 @@ Chapter 1.
 ] (./prospectus.aux (./frontmatter/title.aux)
 (./frontmatter/abstract.aux) (./chapters/chap1.aux)) ) 
 Here is how much of TeX's memory you used:
- 20895 strings out of 493109
- 422784 string characters out of 6138587
- 448769 words of memory out of 5000000
- 24011 multiletter control sequences out of 15000+600000
+ 20896 strings out of 493109
+ 422748 string characters out of 6138587
+ 448772 words of memory out of 5000000
+ 24012 multiletter control sequences out of 15000+600000
  7810 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,11n,69p,10402b,281s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1925,7 +1925,7 @@ type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2014/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmr10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmr7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti1
 0.pfb>
-Output written on prospectus.pdf (7 pages, 71280 bytes).
+Output written on prospectus.pdf (7 pages, 72062 bytes).
 PDF statistics:
  51 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream
