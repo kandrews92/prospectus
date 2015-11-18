@@ -1,9 +1,10 @@
 #!/bin/bash
 
 RM='rm'
-base="*.aux *.log *.blg *.out" # *.synctex.gz*"
+base="*.aux *.log *.blg *.lof *.lot *.synctex.gz*"
 bbl="*.bbl"
-#toc="*.toc"
+toc="*.toc"
+
 
 for a in $@; do
         if [ "$a" = "-b" ]; then
@@ -17,11 +18,6 @@ for a in $@; do
                 toc="*.toc"
         fi
 done
-
-for d in */ ; do
-	echo "$d"
-done
-
 
 echo "cleaning $base $bbl $toc from $PWD"
 $RM $base $bbl $toc
