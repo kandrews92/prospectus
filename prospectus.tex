@@ -14,6 +14,7 @@
 \usepackage{threeparttable}
 \usepackage{subfigure}
 \usepackage{float}
+\usepackage[toc,page]{appendix}
 \usepackage[left=2.5cm,top=3cm,right=2.5cm,bottom=3cm,bindingoffset=0.5cm]{geometry}
 
 \pagestyle{plain}
@@ -29,6 +30,7 @@
 	\pagenumbering{roman}
 	\include{frontmatter/title}
 	\include{frontmatter/abstract}
+	\include{frontmatter/acknowledgements}
 
 	\renewcommand{\contentsname}{Table of Contents}
         \tableofcontents
@@ -64,5 +66,10 @@
 %---- References and bib data
 	\bibliographystyle{plain}
 	\bibliography{refs/database}
+
+	\begin{appendices}
+		\appendix
+		\include{backmatter/appendixA}
+	\end{appendices}
 
 \end{document}
