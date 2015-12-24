@@ -48,3 +48,41 @@ Commonly referred to \td materials beyond graphene, transition metal dichalcogen
 		\label{fig:tmd_hexagonal}
 	\end{minipage}
 \end{figure}
+\noindent TMDs exhibit a wide variety of properties, including either being a metal or insulator, and displaying the topological insulator effect, superconductivity, and thermoelectricity \cite{Lang_ACSnano2012,Zhang_AdvMat2012,Xie_AppPhysLett2009,Gamble_JournChemPhys1975}.
+
+\subsection{Properties of Commonly Used TMDs}\label{subsec:tmd_properties}
+\noindent As stated in sec.~\ref{subsec:graphene_bandstructure}, one important propert as it pertains to applications for logical circuits is the material's band structure. One of the main reasons TMDs have been so extensively studied lately is due to the fact that, unlike graphene, they do exhibit a band gap. The band gaps in some commonly used TMDs is interesting because of the transition from an indirect to a direct band gap as the layered thickness decreases. Fig.~\ref{fig:mos2_bandstructure} illustrates this, for bulk and few-layer \ch{MoS2} there is an indirect band gap while for monolayer \ch{MoS2} there is a direct band gap. This unusual structure results in some unique optical and properties.
+\begin{figure}[ht]
+	\centering
+	\includegraphics[height=5cm,width=8cm]{figs/mos2_bandstructure}
+	\caption[Band structures of \ch{MoS2}]{Calculated band structures of (a) bulk \ch{MoS2}, (b) four-layer \ch{MoS2}, (c) bilayer \ch{MoS2}, and (d) monolayer \ch{MoS2}. Here the solid arrows indicate the lowest energy transitions. (Taken from \cite{Lee_Nanoscale2014}, originally appeared in \cite{Splendiani_Nanolett2010})}
+	\label{fig:mos2_bandstructure}
+\end{figure}
+ 
+ \begin{table}[ht]
+	\centering
+	\begin{threeparttable}
+	\begin{tabular}{c c c}
+		\hline\hline
+		2D material & theoretical $E_g\,(\mathrm{eV})$ & experimental $E_g\,(\mathrm{eV})$ \\ [0.5ex]
+		\hline
+		graphene & 0 & 0 \\
+		bilayer graphene & 0 & 0\\
+		bulk $h$-\ch{BN} & - & 5.97 \cite{Kubota_Science2007}\\
+		monolayer $h$-\ch{BN} & - & 6.07 \cite{Kim_NanoLett2011}\\
+		few layer (2-5) $h$-\ch{BN} & - & 5.92 \cite{Song_NanoLett2010}\\
+		bulk \ch{MoS2} & 1.2\tnote{a,b}\,\,\,\,\, \cite{Mak_PhysRevLett2010,Gourmelon_Solar1997} & 1.0-1.29\tnote{b}\,\,\, \cite{Mak_PhysRevLett2010,Gourmelon_Solar1997}\\
+		monolayer \ch{MoS2} & $\sim 1.90$\tnote{a,c}\,\,\,\,\, \cite{Fortin_JournChemSolids1982} & $\sim 1.90$\tnote{b}\,\,\, \cite{Fortin_JournChemSolids1982}\\
+		bulk \ch{WS2} & $\sim 1.30$\tnote{a,b}\,\,\,\,\, \cite{Mak_PhysRevLett2010,Kuc_PhysRevB2011} & $\sim 1.35$\tnote{c}\,\,\, \cite{Mak_PhysRevLett2010,Kuc_PhysRevB2011}\\
+		monolayer \ch{WS2} & $\sim 2.10$\tnote{a,c}\,\,\,\,\, \cite{Ma_JournChemPhys2011} &-  \\
+		\hline
+		\label{table:band_gaps}
+	\end{tabular}
+	\begin{tablenotes}
+		\item[a] Theoretical calculations based on first-principles calculations using density functional theory (DFT).
+		\item[b] Indirect band gap semiconductor.
+		\item[c] Direct band gap semiconductor.
+	\end{tablenotes}
+	\caption[Band gaps of typical TMDs and other materials]{Summary of the band gaps of typical monolayer, bilayer, and bulk TMDs and $h$-\ch{BN} materials. Table adapted from ref.~\cite{Xu_ChemRev2013}.}
+	\end{threeparttable}
+\end{table}
