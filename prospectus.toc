@@ -1,0 +1,11 @@
+\contentsline {section}{List of Figures}{ii}
+\contentsline {section}{List of Tables}{iii}
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}Birth of Integrated Circuits}{1}
+\contentsline {section}{\numberline {1.2}Graphene as a New Two-dimensional Material}{1}
+\contentsline {subsection}{\numberline {1.2.1}Properties of Graphene}{1}
+\contentsline {subsection}{\numberline {1.2.2}Band Structure of Graphene}{2}
+\contentsline {section}{\numberline {1.3}Two-dimensional Materials: Transition Metal Dichalcogenides}{3}
+\contentsline {chapter}{References}{4}
+\contentsline {chapter}{Appendices}{7}
+\contentsline {chapter}{\numberline {A}Acronyms}{8}

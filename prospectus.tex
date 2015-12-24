@@ -17,6 +17,9 @@
 \usepackage[toc,page]{appendix}
 \usepackage[left=2.5cm,top=3cm,right=2.5cm,bottom=3cm,bindingoffset=0.5cm]{geometry}
 
+\usepackage[nottoc,notlof,notlot]{tocbibind}
+\renewcommand\bibname{References}
+
 \usepackage{macros/macros_custom}
 
 \pagestyle{plain}
@@ -66,6 +69,7 @@
 %	\include{chapters/conclusion} %conclusions
 
 %---- References and bib data
+	%\addcontentsline{toc}{section}{References}
 	\bibliographystyle{unsrt}
 	\bibliography{refs/database}
 
