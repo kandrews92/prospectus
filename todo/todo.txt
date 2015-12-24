@@ -1,0 +1,21 @@
+Todo:
+
+-Picture of plain wafer without gold
+-Picture of wafer with gold
+-Picture of substrate cut with gold
+-Picture of substrate without gold
+
+-Chemical components of:
+	-PDMS
+	-PC
+	-Developers
+
+-Picture of SEM
+-Picture of AFM
+-Picture of O2 plasma machine
+-Picture of gold depositer
+-Picture of Kiethly measurement setup
+-Picture of Optical microscope
+-Picture of samples on tape
+-Picture of samples on PDMS
+-Picture of transfer stage

@@ -16,6 +16,7 @@
 \usepackage{float}
 \usepackage[toc,page]{appendix}
 \usepackage[left=2.5cm,top=3cm,right=2.5cm,bottom=3cm,bindingoffset=0.5cm]{geometry}
+\usepackage[printonlyused]{acronym}
 
 \usepackage[nottoc,notlof,notlot]{tocbibind}
 \renewcommand\bibname{References}
@@ -64,7 +65,7 @@
 %---- End of front matter
 	\pagenumbering{arabic}
 	\include{chapters/intro} %introduction and preliminary information
-%	\include{chapters/chap2} %chap2
+	\include{chapters/experimental} %experiemental details
 %	\include{chapters/chap3} %chap3
 %	\include{chapters/conclusion} %conclusions
 
@@ -74,7 +75,7 @@
 	\bibliography{refs/database}
 
 	\begin{appendices}
-		\include{backmatter/appendixA}
+		\include{backmatter/acronyms}
 	\end{appendices}
 
 \end{document}
