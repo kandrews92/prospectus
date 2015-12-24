@@ -1,7 +1,0 @@
-\contentsline {section}{List of Figures}{iv}
-\contentsline {section}{List of Tables}{v}
-\contentsline {chapter}{\numberline {1}Introduction}{1}
-\contentsline {section}{\numberline {1.1}Birth of Integrated Circuits}{1}
-\contentsline {section}{\numberline {1.2}Graphene as a New Two-Dimensional Material}{1}
-\contentsline {chapter}{Appendices}{3}
-\contentsline {chapter}{\numberline {A}Acronyms}{4}
