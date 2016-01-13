@@ -6,17 +6,17 @@ Todo:
 -Picture of substrate without gold
 
 -Chemical components of:
-	-PDMS
-	-PC
-	-Developers
+	-PDMS: Sylgard 184 silicone elastomer base, sylgard 184 elastomer 		curing agent
+	-PC: polycarbonate resin, chloroform
+	-Developers: MEK, MIBK:IPA 1:3
 
 -Picture of SEM
--Picture of AFM
+-Picture of AFM... done
 -Picture of O2 plasma machine
 -Picture of gold depositer
--Picture of Kiethly measurement setup
+-Picture of Kiethly measurement setup... done
 -Picture of Optical microscope
 -Picture of samples on tape
 -Picture of samples on PDMS
--Picture of transfer stage
+-Picture of transfer stage... done
 -Picture of PPMS (physical property measurement system)
