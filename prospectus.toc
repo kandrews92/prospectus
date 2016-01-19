@@ -1,0 +1,31 @@
+\contentsline {section}{List of Figures}{iv}
+\contentsline {section}{List of Tables}{v}
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}Birth of Integrated Circuits}{1}
+\contentsline {section}{\numberline {1.2}Graphene as a New Two-dimensional Material}{1}
+\contentsline {subsection}{\numberline {1.2.1}Properties of Graphene}{1}
+\contentsline {subsection}{\numberline {1.2.2}Band Structure of Graphene}{2}
+\contentsline {section}{\numberline {1.3}Two-dimensional Materials: Transition Metal Dichalcogenides}{3}
+\contentsline {subsection}{\numberline {1.3.1}Properties of Commonly Used \acp {TMD}}{3}
+\contentsline {subsection}{\numberline {1.3.2}Current State of TMDs}{3}
+\contentsline {section}{\numberline {1.4}Hall Effect}{3}
+\contentsline {subsection}{\numberline {1.4.1}Overview}{4}
+\contentsline {subsection}{\numberline {1.4.2}Theoretical Background}{4}
+\contentsline {chapter}{\numberline {2}Experimental Details}{5}
+\contentsline {section}{\numberline {2.1}Substrate Preperation}{5}
+\contentsline {subsection}{\numberline {2.1.1}Substrate Cleaning}{5}
+\contentsline {section}{\numberline {2.2}Exfoliation}{6}
+\contentsline {section}{\numberline {2.3}Device Synthesis}{7}
+\contentsline {subsection}{\numberline {2.3.1}Transfer}{7}
+\contentsline {subsection}{\numberline {2.3.2}Polycarbonate Pickup Method}{7}
+\contentsline {section}{\numberline {2.4}Characterization}{7}
+\contentsline {subsection}{\numberline {2.4.1}Optical Characterization}{7}
+\contentsline {subsection}{\numberline {2.4.2}AFM Characterization}{8}
+\contentsline {section}{\numberline {2.5}Device Fabrication}{8}
+\contentsline {subsection}{\numberline {2.5.1}Device Design}{8}
+\contentsline {subsection}{\numberline {2.5.2}Electron Beam Lithography}{8}
+\contentsline {subsection}{\numberline {2.5.3}Metal Deposition}{8}
+\contentsline {section}{\numberline {2.6}Electrical Measurements}{8}
+\contentsline {subsection}{\numberline {2.6.1}Measurement Devices}{8}
+\contentsline {chapter}{References}{9}
+\contentsline {chapter}{Appendices}{13}
