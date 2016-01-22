@@ -17,15 +17,15 @@
 \contentsline {section}{\numberline {2.2}Exfoliation}{6}
 \contentsline {section}{\numberline {2.3}Device Synthesis}{7}
 \contentsline {subsection}{\numberline {2.3.1}\acs {PDMS} Transfer}{7}
-\contentsline {subsection}{\numberline {2.3.2}Polycarbonate Pickup Method}{7}
-\contentsline {section}{\numberline {2.4}Characterization}{8}
+\contentsline {subsection}{\numberline {2.3.2}Polycarbonate Pickup Method}{8}
+\contentsline {section}{\numberline {2.4}Characterization}{9}
 \contentsline {subsection}{\numberline {2.4.1}Optical Characterization}{9}
 \contentsline {subsection}{\numberline {2.4.2}AFM Characterization}{9}
-\contentsline {section}{\numberline {2.5}Device Fabrication}{9}
-\contentsline {subsection}{\numberline {2.5.1}Device Design}{9}
-\contentsline {subsection}{\numberline {2.5.2}Electron Beam Lithography}{9}
-\contentsline {subsection}{\numberline {2.5.3}Metal Deposition}{9}
-\contentsline {section}{\numberline {2.6}Electrical Measurements}{9}
-\contentsline {subsection}{\numberline {2.6.1}Measurement Devices}{9}
-\contentsline {chapter}{References}{11}
-\contentsline {chapter}{Appendices}{15}
+\contentsline {section}{\numberline {2.5}Device Fabrication}{10}
+\contentsline {subsection}{\numberline {2.5.1}Device Design}{10}
+\contentsline {subsection}{\numberline {2.5.2}Electron Beam Lithography}{10}
+\contentsline {subsection}{\numberline {2.5.3}Metal Deposition}{10}
+\contentsline {section}{\numberline {2.6}Electrical Measurements}{10}
+\contentsline {subsection}{\numberline {2.6.1}Measurement Devices}{10}
+\contentsline {chapter}{References}{12}
+\contentsline {chapter}{Appendices}{16}

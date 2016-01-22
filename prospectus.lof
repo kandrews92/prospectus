@@ -6,15 +6,24 @@
 \contentsline {figure}{\numberline {1.5}{\ignorespaces Band structures of \acs {MoS2}}}{4}
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2.1}{\ignorespaces Plain wafer}}{5}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Alignment marks at varying magnifications}}{6}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Schematic of \ch {Si}/\ch {SiO2} substrate}}{5}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Photolithography system}}{5}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Alignment marks at varying magnifications}}{6}
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Main alignment mark at 5x magnification}}}{6}
 \contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Main alignment mark at 10x magnification}}}{6}
 \contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Coordinate mark $\left (0,-5\right )$ at 50x magnification}}}{6}
 \contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Coordinate mark $\left (0,-5\right )$ at 100x magnification}}}{6}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Transfer stage setup}}{8}
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Optical microscope front view}}{9}
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Optical microscope side view}}{9}
-\contentsline {figure}{\numberline {2.6}{\ignorespaces AFM front view}}{9}
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Measurement setup}}{10}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {idk1}}}{10}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {idk2}}}{10}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Exfoliation steps}}{7}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Bulk \ch {MoS2} crystal}}}{7}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Single \ch {MoS2} crystal on tape}}}{7}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Tape with exfoliation \ch {MoS2} crystals}}}{7}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Transfer stage setup}}{8}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Optical microscope front view}}{9}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Optical microscope side view}}{9}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces AFM front view}}{10}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces AFM cantilever}}{10}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces BJD control panel}}{10}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces BJD Hood}}{10}
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Measurement setup}}{11}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {idk1}}}{11}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {idk2}}}{11}
