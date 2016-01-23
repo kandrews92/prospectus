@@ -6,12 +6,13 @@ A level-1 auxiliary file: frontmatter/abstract.aux
 A level-1 auxiliary file: frontmatter/acknowledgements.aux
 A level-1 auxiliary file: chapters/intro.aux
 A level-1 auxiliary file: chapters/experimental.aux
+A level-1 auxiliary file: chapters/results.aux
 The style file: unsrt.bst
 A level-1 auxiliary file: backmatter/acronyms.aux
 Database file #1: refs/database.bib
 You've used 63 entries,
             1791 wiz_defined-function locations,
-            910 strings with 16394 characters,
+            911 strings with 16414 characters,
 and the built_in function-call counts, 15170 in all, are:
 = -- 1280
 > -- 810

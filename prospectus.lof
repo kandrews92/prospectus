@@ -23,9 +23,16 @@
 \contentsline {figure}{\numberline {2.9}{\ignorespaces AFM front view}}{10}
 \contentsline {figure}{\numberline {2.10}{\ignorespaces AFM cantilever}}{10}
 \contentsline {figure}{\numberline {2.11}{\ignorespaces Scanning electron microscope}}{10}
-\contentsline {figure}{\numberline {2.12}{\ignorespaces BJD control panel}}{10}
-\contentsline {figure}{\numberline {2.13}{\ignorespaces BJD Hood}}{10}
-\contentsline {figure}{\numberline {2.14}{\ignorespaces Measurement setup}}{11}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Electron beam lithography patterns}}{10}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Developed pattern 10x}}}{10}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Developed pattern 100x}}}{10}
+\contentsline {figure}{\numberline {2.13}{\ignorespaces BJD control panel}}{11}
+\contentsline {figure}{\numberline {2.14}{\ignorespaces BJD Hood}}{11}
+\contentsline {figure}{\numberline {2.15}{\ignorespaces \ch {Au}/\ch {Ti} deposited on device}}{11}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\ch {Au}/\ch {Ti} deposited on developed sample after electron beam lithography at 10x}}}{11}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\ch {Au}/\ch {Ti} deposited on developed sample after electron beam lithography at 100x}}}{11}
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Measurement setup}}{11}
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Keithley semiconductor measurement system}}}{11}
 \contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Low temperature, vacuum measurement chamber.}}}{11}
-\contentsline {figure}{\numberline {2.15}{\ignorespaces Physical property measurement system}}{11}
+\contentsline {figure}{\numberline {2.17}{\ignorespaces Physical property measurement system}}{11}
+\addvspace {10\p@ }

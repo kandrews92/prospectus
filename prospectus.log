@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  22 JAN 2016 15:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  22 JAN 2016 22:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1749,29 +1749,9 @@ Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
 Package: threeparttable 2003/06/13  v 3.0
 \@tempboxb=\box62
 )
-(c:/texlive/2014/texmf-dist/tex/latex/subfigure/subfigure.sty
-Package: subfigure 2002/03/15 v2.1.5 subfigure package
-\subfigtopskip=\skip72
-\subfigcapskip=\skip73
-\subfigcaptopadj=\dimen289
-\subfigbottomskip=\skip74
-\subfigcapmargin=\dimen290
-\subfiglabelskip=\skip75
-\c@subfigure=\count158
-\c@lofdepth=\count159
-\c@subtable=\count160
-\c@lotdepth=\count161
-
-****************************************
-* Local config file subfigure.cfg used *
-****************************************
-(c:/texlive/2014/texmf-dist/tex/latex/subfigure/subfigure.cfg)
-\subfig@top=\skip76
-\subfig@bottom=\skip77
-)
 (c:/texlive/2014/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count162
+\c@float@type=\count158
 \float@exts=\toks32
 \float@box=\box63
 \@float@everytoks=\toks33
@@ -1780,11 +1760,49 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 (c:/texlive/2014/texmf-dist/tex/latex/was/gensymb.sty
 Package: gensymb 2003/07/02 v1.0 (WaS)
 )
+(c:/texlive/2014/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(c:/texlive/2014/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen289
+\captionmargin@=\dimen290
+\captionwidth=\dimen291
+\caption@tempdima=\dimen292
+\caption@indent=\dimen293
+\caption@parindent=\dimen294
+\caption@hangindent=\dimen295
+)
+\c@ContinuedFloat=\count159
+Package caption Info: float package is loaded.
+Package caption Info: threeparttable package is loaded.
+)
+(c:/texlive/2014/texmf-dist/tex/latex/cleveref/cleveref.sty
+Package: cleveref 2013/12/28 v0.19 Intelligent cross-referencing
+Package cleveref Info: no abbreviation of names on input line 7493.
+)
+(c:/texlive/2014/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count160
+\sf@farskip=\skip72
+\sf@captopadj=\dimen296
+\sf@capskip=\skip73
+\sf@nearskip=\skip74
+\c@subfigure=\count161
+\c@subfigure@save=\count162
+\c@lofdepth=\count163
+\c@subtable=\count164
+\c@subtable@save=\count165
+\c@lotdepth=\count166
+\sf@top=\skip75
+\sf@bottom=\skip76
+)
 (c:/texlive/2014/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2009/09/02 v1.2b extra appendix facilities
-\c@@pps=\count163
-\c@@ppsavesec=\count164
-\c@@ppsaveapp=\count165
+\c@@pps=\count167
+\c@@ppsavesec=\count168
+\c@@ppsaveapp=\count169
 )
 (c:/texlive/2014/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
@@ -1800,17 +1818,17 @@ Package ifvtex Info: VTeX not detected.
 (c:/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count166
-\Gm@cntv=\count167
-\c@Gm@tempcnt=\count168
-\Gm@bindingoffset=\dimen291
-\Gm@wd@mp=\dimen292
-\Gm@odd@mp=\dimen293
-\Gm@even@mp=\dimen294
-\Gm@layoutwidth=\dimen295
-\Gm@layoutheight=\dimen296
-\Gm@layouthoffset=\dimen297
-\Gm@layoutvoffset=\dimen298
+\Gm@cnth=\count170
+\Gm@cntv=\count171
+\c@Gm@tempcnt=\count172
+\Gm@bindingoffset=\dimen297
+\Gm@wd@mp=\dimen298
+\Gm@odd@mp=\dimen299
+\Gm@even@mp=\dimen300
+\Gm@layoutwidth=\dimen301
+\Gm@layoutheight=\dimen302
+\Gm@layouthoffset=\dimen303
+\Gm@layoutvoffset=\dimen304
 \Gm@dimlist=\toks34
 )
 (c:/texlive/2014/texmf-dist/tex/latex/acronym/acronym.sty
@@ -1822,8 +1840,8 @@ Package: suffix 2006/07/15 1.5a Variant command support
 (c:/texlive/2014/texmf-dist/tex/generic/xstring/xstring.sty
 (c:/texlive/2014/texmf-dist/tex/generic/xstring/xstring.tex
 \@xs@message=\write4
-\integerpart=\count169
-\decimalpart=\count170
+\integerpart=\count173
+\decimalpart=\count174
 )
 Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 )
@@ -1838,41 +1856,42 @@ Package tocbibind Note: Using chapter style headings, unless overridden.
 
 ) (./macros/macros_custom.sty) (./prospectus.aux (./frontmatter/title.aux)
 (./frontmatter/abstract.aux) (./frontmatter/acknowledgements.aux)
-(./chapters/intro.aux) (./chapters/experimental.aux) (./backmatter/acronyms.aux
-))
+(./chapters/intro.aux) (./chapters/experimental.aux) (./chapters/results.aux)
+(./backmatter/acronyms.aux))
 \openout1 = `prospectus.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 30.
- (c:/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 38.
+
+(c:/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    ... okay on input line 38.
 
 (c:/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count171
-\scratchdimen=\dimen299
+\scratchcounter=\count175
+\scratchdimen=\dimen305
 \scratchbox=\box65
-\nofMPsegments=\count172
-\nofMParguments=\count173
+\nofMPsegments=\count176
+\nofMParguments=\count177
 \everyMPshowfont=\toks36
-\MPscratchCnt=\count174
-\MPscratchDim=\dimen300
-\MPnumerator=\count175
-\makeMPintoPDFobject=\count176
+\MPscratchCnt=\count178
+\MPscratchDim=\dimen306
+\MPnumerator=\count179
+\makeMPintoPDFobject=\count180
 \everyMPtoPDFconversion=\toks37
 ) (c:/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
@@ -1921,15 +1940,18 @@ e
 ABD: EveryShipout initializing macros
 \symgns@font=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/cmr/m/n --> TS1/cmr/bx/n on input line 30.
-Package gensymb Info: Math companion symbols declared on input line 30.
-LaTeX Info: Redefining \degree on input line 30.
-LaTeX Info: Redefining \celsius on input line 30.
+(Font)                  TS1/cmr/m/n --> TS1/cmr/bx/n on input line 38.
+Package gensymb Info: Math companion symbols declared on input line 38.
+LaTeX Info: Redefining \degree on input line 38.
+LaTeX Info: Redefining \celsius on input line 38.
 Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 30.
-LaTeX Info: Redefining \ohm on input line 30.
-Package gensymb Info: Using \textohm for \ohm on input line 30.
-Package gensymb Info: Using \textmu for \micro on input line 30.
+erthousand on input line 38.
+LaTeX Info: Redefining \ohm on input line 38.
+Package gensymb Info: Using \textohm for \ohm on input line 38.
+Package gensymb Info: Using \textmu for \micro on input line 38.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -2151,7 +2173,7 @@ File: figs/experimental/main_alignment_5x.png Graphic file (type png)
 
 <use figs/experimental/main_alignment_5x.png>
 Package pdftex.def Info: figs/experimental/main_alignment_5x.png used on input 
-line 34.
+line 35.
 (pdftex.def)             Requested size: 142.26239pt x 113.81085pt.
 
 <figs/experimental/main_alignment_10x.png, id=60, 616.704pt x 462.528pt>
@@ -2159,7 +2181,7 @@ File: figs/experimental/main_alignment_10x.png Graphic file (type png)
 
 <use figs/experimental/main_alignment_10x.png>
 Package pdftex.def Info: figs/experimental/main_alignment_10x.png used on input
- line 39.
+ line 40.
 (pdftex.def)             Requested size: 142.26239pt x 113.81085pt.
 
 <figs/experimental/main_alignment_50x.png, id=61, 616.704pt x 462.528pt>
@@ -2167,7 +2189,7 @@ File: figs/experimental/main_alignment_50x.png Graphic file (type png)
 
 <use figs/experimental/main_alignment_50x.png>
 Package pdftex.def Info: figs/experimental/main_alignment_50x.png used on input
- line 44.
+ line 45.
 (pdftex.def)             Requested size: 142.26239pt x 113.81085pt.
 
 <figs/experimental/main_alignment_100x.png, id=62, 616.704pt x 462.528pt>
@@ -2175,19 +2197,19 @@ File: figs/experimental/main_alignment_100x.png Graphic file (type png)
 
 <use figs/experimental/main_alignment_100x.png>
 Package pdftex.def Info: figs/experimental/main_alignment_100x.png used on inpu
-t line 49.
+t line 50.
 (pdftex.def)             Requested size: 142.26239pt x 113.81085pt.
 Package acronym Info: Label `acro:IPA' newly defined as it shall be overridden
-although it is yet undefined on input line 55.
+although it is yet undefined on input line 58.
 Package acronym Info: Label `acro:N2' newly defined as it shall be overridden
-although it is yet undefined on input line 55.
+although it is yet undefined on input line 58.
 
 <figs/experimental/exfoliation_step1.png, id=63, 141.1674pt x 127.1952pt>
 File: figs/experimental/exfoliation_step1.png Graphic file (type png)
 
 <use figs/experimental/exfoliation_step1.png>
 Package pdftex.def Info: figs/experimental/exfoliation_step1.png used on input 
-line 66.
+line 69.
 (pdftex.def)             Requested size: 85.35806pt x 56.90543pt.
 
 <figs/experimental/exfoliation_step2.png, id=64, 127.677pt x 127.677pt>
@@ -2195,7 +2217,7 @@ File: figs/experimental/exfoliation_step2.png Graphic file (type png)
 
 <use figs/experimental/exfoliation_step2.png>
 Package pdftex.def Info: figs/experimental/exfoliation_step2.png used on input 
-line 70.
+line 74.
 (pdftex.def)             Requested size: 85.36pt x 56.90472pt.
 
 <figs/experimental/exfoliation_step3.png, id=65, 127.1952pt x 127.1952pt>
@@ -2203,18 +2225,18 @@ File: figs/experimental/exfoliation_step3.png Graphic file (type png)
 
 <use figs/experimental/exfoliation_step3.png>
 Package pdftex.def Info: figs/experimental/exfoliation_step3.png used on input 
-line 74.
+line 79.
 (pdftex.def)             Requested size: 85.36201pt x 56.90543pt.
 Package acronym Info: Label `acro:PDMS' newly defined as it shall be overridden
 
-although it is yet undefined on input line 79.
+although it is yet undefined on input line 84.
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--80
+Underfull \hbox (badness 10000) in paragraph at lines 61--85
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--80
+Underfull \hbox (badness 10000) in paragraph at lines 61--85
 
  []
 
@@ -2227,48 +2249,48 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--80
 alignment_5x.png> <./figs/experimental/main_alignment_10x.png> <./figs/experime
 ntal/main_alignment_50x.png> <./figs/experimental/main_alignment_100x.png>]
 Package acronym Info: Label `acro:PC' newly defined as it shall be overridden
-although it is yet undefined on input line 82.
+although it is yet undefined on input line 87.
 
 <figs/experimental/transfer_stage_setup.png, id=78, 200.9106pt x 163.3302pt>
 File: figs/experimental/transfer_stage_setup.png Graphic file (type png)
 
 <use figs/experimental/transfer_stage_setup.png>
 Package pdftex.def Info: figs/experimental/transfer_stage_setup.png used on inp
-ut line 90.
+ut line 95.
 (pdftex.def)             Requested size: 142.2643pt x 142.26309pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--94
+Underfull \hbox (badness 10000) in paragraph at lines 90--99
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--94
+Underfull \hbox (badness 10000) in paragraph at lines 90--99
 
  []
 
 [7 <./figs/experimental/exfoliation_step1.png> <./figs/experimental/exfoliation
 _step2.png> <./figs/experimental/exfoliation_step3.png>]
 Package acronym Info: Label `acro:DI' newly defined as it shall be overridden
-although it is yet undefined on input line 96.
+although it is yet undefined on input line 101.
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--98
+Underfull \hbox (badness 10000) in paragraph at lines 100--103
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--98
+Underfull \hbox (badness 10000) in paragraph at lines 100--103
 
  []
 
 [8 <./figs/experimental/transfer_stage_setup.png>]
 Package acronym Info: Label `acro:STM' newly defined as it shall be overridden
-although it is yet undefined on input line 100.
+although it is yet undefined on input line 105.
 Package acronym Info: Label `acro:TEM' newly defined as it shall be overridden
-although it is yet undefined on input line 100.
+although it is yet undefined on input line 105.
 Package acronym Info: Label `acro:AFM' newly defined as it shall be overridden
-although it is yet undefined on input line 100.
+although it is yet undefined on input line 105.
 Package acronym Info: Label `acro:MFM' newly defined as it shall be overridden
-although it is yet undefined on input line 100.
+although it is yet undefined on input line 105.
 
 <figs/experimental/optical_microscope_front_view.png, id=91, 2457.18pt x 3276.2
 4pt>
@@ -2276,7 +2298,7 @@ File: figs/experimental/optical_microscope_front_view.png Graphic file (type pn
 g)
  <use figs/experimental/optical_microscope_front_view.png>
 Package pdftex.def Info: figs/experimental/optical_microscope_front_view.png us
-ed on input line 107.
+ed on input line 112.
 (pdftex.def)             Requested size: 142.25034pt x 142.22534pt.
 
 <figs/experimental/optical_microscope_side_view.png, id=92, 2457.18pt x 3276.24
@@ -2285,15 +2307,15 @@ File: figs/experimental/optical_microscope_side_view.png Graphic file (type png
 )
  <use figs/experimental/optical_microscope_side_view.png>
 Package pdftex.def Info: figs/experimental/optical_microscope_side_view.png use
-d on input line 114.
+d on input line 119.
 (pdftex.def)             Requested size: 142.25034pt x 142.22534pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
  []
 
@@ -2302,116 +2324,159 @@ File: figs/experimental/AFM_front_view.png Graphic file (type png)
 
 <use figs/experimental/AFM_front_view.png>
 Package pdftex.def Info: figs/experimental/AFM_front_view.png used on input lin
-e 127.
+e 132.
 (pdftex.def)             Requested size: 113.79277pt x 113.78027pt.
 
 <figs/experimental/AFM_tip.png, id=94, 196.735pt x 165.61874pt>
 File: figs/experimental/AFM_tip.png Graphic file (type png)
 
 <use figs/experimental/AFM_tip.png>
-Package pdftex.def Info: figs/experimental/AFM_tip.png used on input line 133.
+Package pdftex.def Info: figs/experimental/AFM_tip.png used on input line 138.
 (pdftex.def)             Requested size: 113.80917pt x 113.80952pt.
 
 <figs/experimental/SEM.png, id=95, 520.94624pt x 220.57407pt>
 File: figs/experimental/SEM.png Graphic file (type png)
 
 <use figs/experimental/SEM.png>
-Package pdftex.def Info: figs/experimental/SEM.png used on input line 144.
+Package pdftex.def Info: figs/experimental/SEM.png used on input line 149.
 (pdftex.def)             Requested size: 142.26306pt x 85.35712pt.
  [9 <./figs/experimental/optical_microscope_front_view.png> <./figs/experimenta
 l/optical_microscope_side_view.png>]
-<figs/experimental/bjd_control_panel.png, id=99, 2457.18pt x 3276.24pt>
+<figs/experimental/ebeam_developed_10x.png, id=99, 616.704pt x 462.528pt>
+File: figs/experimental/ebeam_developed_10x.png Graphic file (type png)
+
+<use figs/experimental/ebeam_developed_10x.png>
+Package pdftex.def Info: figs/experimental/ebeam_developed_10x.png used on inpu
+t line 159.
+(pdftex.def)             Requested size: 113.80614pt x 113.81085pt.
+
+<figs/experimental/ebeam_developed_100x.png, id=100, 616.704pt x 462.528pt>
+File: figs/experimental/ebeam_developed_100x.png Graphic file (type png)
+
+<use figs/experimental/ebeam_developed_100x.png>
+Package pdftex.def Info: figs/experimental/ebeam_developed_100x.png used on inp
+ut line 164.
+(pdftex.def)             Requested size: 113.80614pt x 113.81085pt.
+
+<figs/experimental/bjd_control_panel.png, id=101, 2457.18pt x 3276.24pt>
 File: figs/experimental/bjd_control_panel.png Graphic file (type png)
 
 <use figs/experimental/bjd_control_panel.png>
 Package pdftex.def Info: figs/experimental/bjd_control_panel.png used on input 
-line 154.
+line 174.
 (pdftex.def)             Requested size: 113.79277pt x 113.78027pt.
 
-<figs/experimental/bjd_hood.png, id=100, 2457.18pt x 3276.24pt>
+<figs/experimental/bjd_hood.png, id=102, 2457.18pt x 3276.24pt>
 File: figs/experimental/bjd_hood.png Graphic file (type png)
 
 <use figs/experimental/bjd_hood.png>
-Package pdftex.def Info: figs/experimental/bjd_hood.png used on input line 161.
+Package pdftex.def Info: figs/experimental/bjd_hood.png used on input line 181.
 
 (pdftex.def)             Requested size: 113.79277pt x 113.78027pt.
 
-<figs/experimental/measurement_setup.png, id=101, 2457.18pt x 3276.24pt>
+<figs/experimental/liftoff_10x.png, id=103, 616.704pt x 462.528pt>
+File: figs/experimental/liftoff_10x.png Graphic file (type png)
+
+<use figs/experimental/liftoff_10x.png>
+Package pdftex.def Info: figs/experimental/liftoff_10x.png used on input line 1
+92.
+(pdftex.def)             Requested size: 113.80614pt x 113.81085pt.
+
+<figs/experimental/liftoff_100x.png, id=104, 616.704pt x 462.528pt>
+File: figs/experimental/liftoff_100x.png Graphic file (type png)
+
+<use figs/experimental/liftoff_100x.png>
+Package pdftex.def Info: figs/experimental/liftoff_100x.png used on input line 
+197.
+(pdftex.def)             Requested size: 113.80614pt x 113.81085pt.
+
+<figs/experimental/measurement_setup.png, id=105, 2457.18pt x 3276.24pt>
 File: figs/experimental/measurement_setup.png Graphic file (type png)
 
 <use figs/experimental/measurement_setup.png>
 Package pdftex.def Info: figs/experimental/measurement_setup.png used on input 
-line 175.
+line 209.
 (pdftex.def)             Requested size: 113.79277pt x 113.78027pt.
 
-<figs/experimental/vacuum_measurement.png, id=102, 3276.24pt x 2457.18pt>
+<figs/experimental/vacuum_measurement.png, id=106, 3276.24pt x 2457.18pt>
 File: figs/experimental/vacuum_measurement.png Graphic file (type png)
 
 <use figs/experimental/vacuum_measurement.png>
 Package pdftex.def Info: figs/experimental/vacuum_measurement.png used on input
- line 180.
+ line 214.
 (pdftex.def)             Requested size: 113.78027pt x 113.79277pt.
 
-<figs/experimental/ppms.png, id=103, 1204.5pt x 1606.0pt>
+<figs/experimental/ppms.png, id=107, 1204.5pt x 1606.0pt>
 File: figs/experimental/ppms.png Graphic file (type png)
 
 <use figs/experimental/ppms.png>
-Package pdftex.def Info: figs/experimental/ppms.png used on input line 187.
+Package pdftex.def Info: figs/experimental/ppms.png used on input line 221.
 (pdftex.def)             Requested size: 113.80379pt x 113.80379pt.
 Package acronym Info: Label `acro:PPMS' newly defined as it shall be overridden
 
-although it is yet undefined on input line 188.
+although it is yet undefined on input line 222.
 ) [10 <./figs/experimental/AFM_front_view.png> <./figs/experimental/AFM_tip.png
-> <./figs/experimental/SEM.png> <./figs/experimental/bjd_control_panel.png> <./
-figs/experimental/bjd_hood.png>] [11 <./figs/experimental/measurement_setup.png
-> <./figs/experimental/vacuum_measurement.png> <./figs/experimental/ppms.png>] 
-(./prospectus.bbl [12
+> <./figs/experimental/SEM.png> <./figs/experimental/ebeam_developed_10x.png> <
+./figs/experimental/ebeam_developed_100x.png>]
+[11 <./figs/experimental/bjd_control_panel.png> <./figs/experimental/bjd_hood.p
+ng> <./figs/experimental/liftoff_10x.png> <./figs/experimental/liftoff_100x.png
+> <./figs/experimental/measurement_setup.png> <./figs/experimental/vacuum_measu
+rement.png> <./figs/experimental/ppms.png>]
+\openout2 = `chapters/results.aux'.
+
+ (./chapters/results.tex
+Chapter 3.
+) [12
 
 
-] [13]
+
+] (./prospectus.bbl [13
+
+
+] [14]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
- [14]) [15] [16
+ [15]) [16] [17
 
 
 ]
 \openout2 = `backmatter/acronyms.aux'.
 
+ (./backmatter/acronyms.tex)
+[18
 
-(./backmatter/acronyms.tex) [17
-
-] (./prospectus.aux (./frontmatter/title.aux)
-(./frontmatter/abstract.aux) (./frontmatter/acknowledgements.aux)
-(./chapters/intro.aux) (./chapters/experimental.aux) (./backmatter/acronyms.aux
-)) ) 
+] (./prospectus.aux (./frontmatter/title.aux) (./frontmatter/abstract.aux)
+(./frontmatter/acknowledgements.aux) (./chapters/intro.aux)
+(./chapters/experimental.aux) (./chapters/results.aux)
+(./backmatter/acronyms.aux)) ) 
 Here is how much of TeX's memory you used:
- 23035 strings out of 493109
- 457526 string characters out of 6138587
- 493062 words of memory out of 5000000
- 26021 multiletter control sequences out of 15000+600000
+ 25763 strings out of 493109
+ 514552 string characters out of 6138587
+ 555239 words of memory out of 5000000
+ 28730 multiletter control sequences out of 15000+600000
  13824 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,17n,69p,10402b,395s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/t
-exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/20
-14/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2014/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb><c:/texlive/2014/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmmi7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmmi8.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/
-texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/201
-4/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2014/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2014/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmsy8.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmti10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0700
-.pfb>
-Output written on prospectus.pdf (23 pages, 18268210 bytes).
+ 62i,17n,69p,10402b,517s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2014/texmf-dist/fonts/enc/dvips/cm-su
+per/cm-super-ts1.enc}<c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmbx10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.p
+fb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb><c:/tex
+live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2014
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2014/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2014/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr6.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+<c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texli
+ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2014/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2014/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2014/texmf-dist/fonts/type
+1/public/cm-super/sfrm0700.pfb>
+Output written on prospectus.pdf (24 pages, 20081856 bytes).
 PDF statistics:
- 181 PDF objects out of 1000 (max. 8388607)
- 102 compressed objects within 2 object streams
+ 188 PDF objects out of 1000 (max. 8388607)
+ 104 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 143 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 163 words of extra memory for PDF output out of 10000 (max. 10000000)
 

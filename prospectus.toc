@@ -27,5 +27,7 @@
 \contentsline {subsection}{\numberline {2.5.3}Metal Deposition}{10}
 \contentsline {section}{\numberline {2.6}Electrical Measurements}{10}
 \contentsline {subsection}{\numberline {2.6.1}Measurement Devices}{10}
-\contentsline {chapter}{References}{12}
-\contentsline {chapter}{Appendices}{16}
+\contentsline {chapter}{\numberline {3}Results}{12}
+\contentsline {section}{\numberline {3.1}Section Heading}{12}
+\contentsline {chapter}{References}{13}
+\contentsline {chapter}{Appendices}{17}

@@ -12,9 +12,17 @@
 \usepackage{chemformula}
 \usepackage{tablefootnote}
 \usepackage{threeparttable}
-\usepackage{subfigure}
+%\usepackage{subfigure}
 \usepackage{float}
 \usepackage{gensymb}
+
+%----captions subfigure caption packages---%
+\usepackage{caption}
+\usepackage[noabbrev]{cleveref}
+\usepackage{subfig}
+\captionsetup[subfigure]{subrefformat=simple,labelformat=simple,listofformat=subsimple}
+\renewcommand\thesubfigure{(\alph{subfigure})}
+%------------------------------------------%
 
 \usepackage[toc,page]{appendix}
 \usepackage[left=2.5cm,top=3cm,right=2.5cm,bottom=3cm,bindingoffset=0.5cm]{geometry}
@@ -68,7 +76,7 @@
 	\pagenumbering{arabic}
 	\include{chapters/intro} %introduction and preliminary information
 	\include{chapters/experimental} %experiemental details
-%	\include{chapters/chap3} %chap3
+	\include{chapters/results} %chap3
 %	\include{chapters/conclusion} %conclusions
 
 %---- References and bib data
