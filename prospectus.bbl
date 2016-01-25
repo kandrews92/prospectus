@@ -368,4 +368,30 @@ Yuan Huang, Eli Sutter, Norman~N. Shi, Jiabao Zheng, Tianzhong Yang, Dirk
 \newblock {AFM} ({A}tomic {F}orce {M}icroscope, 2015.
 \newblock [Online; Accessed: 22, Jan. 2016].
 
+\bibitem{Cui_NatureNano2015}
+Xu~Cui, Gwan-Hyoung Lee, Young~Duck Kim, Ghidewon Arefe, Pinshane~Y Huang,
+  Chul-Ho Lee, Daniel~A Chenet, Xian Zhang, Lei Wang, Fan Ye, et~al.
+\newblock Multi-terminal transport measurements of mos2 using a van der waals
+  heterostructure device platform.
+\newblock {\em Nature nanotechnology}, 2015.
+
+\bibitem{Kaasbjerg_PhysRevB2012}
+Kristen Kaasbjerg, Kristian~S Thygesen, and Karsten~W Jacobsen.
+\newblock Phonon-limited mobility in n-type single-layer mos 2 from first
+  principles.
+\newblock {\em Physical Review B}, 85(11):115317, 2012.
+
+\bibitem{Chuang_NanoLett2014}
+Steven Chuang, Corsin Battaglia, Angelica Azcatl, Stephen McDonnell, Jeong~Seuk
+  Kang, Xingtian Yin, Mahmut Tosun, Rehan Kapadia, Hui Fang, Robert~M Wallace,
+  et~al.
+\newblock Mos2 p-type transistors and diodes enabled by high work function moo
+  x contacts.
+\newblock {\em Nano letters}, 14(3):1337--1342, 2014.
+
+\bibitem{Das_NanoLett2012}
+Saptarshi Das, Hong-Yan Chen, Ashish~Verma Penumatcha, and Joerg Appenzeller.
+\newblock High performance multilayer mos2 transistors with scandium contacts.
+\newblock {\em Nano letters}, 13(1):100--105, 2012.
+
 \end{thebibliography}
