@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  25 JAN 2016 17:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  25 JAN 2016 17:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2438,6 +2438,8 @@ Package acronym Info: Label `acro:SB' newly defined as it shall be overridden
 although it is yet undefined on input line 5.
 Package acronym Info: Label `acro:SBH' newly defined as it shall be overridden
 although it is yet undefined on input line 8.
+Package acronym Info: Label `acro:TLM' newly defined as it shall be overridden
+although it is yet undefined on input line 12.
 
 <figs/results/transmission_device_pic_5-5_21_10232015_no1.png, id=115, 362.3136
 pt x 265.9536pt>
@@ -2446,7 +2448,7 @@ File: figs/results/transmission_device_pic_5-5_21_10232015_no1.png Graphic file
 
 <use figs/results/transmission_device_pic_5-5_21_10232015_no1.png>
 Package pdftex.def Info: figs/results/transmission_device_pic_5-5_21_10232015_n
-o1.png used on input line 18.
+o1.png used on input line 22.
 (pdftex.def)             Requested size: 170.7131pt x 113.81403pt.
 
 <figs/results/transmission_resistance_plot_pic_5-5_21_10232015_no1.png, id=116,
@@ -2456,7 +2458,7 @@ phic file (type png)
 
 <use figs/results/transmission_resistance_plot_pic_5-5_21_10232015_no1.png>
 Package pdftex.def Info: figs/results/transmission_resistance_plot_pic_5-5_21_1
-0232015_no1.png used on input line 23.
+0232015_no1.png used on input line 27.
 (pdftex.def)             Requested size: 199.1649pt x 142.26285pt.
 
 <figs/results/transmission_device_pic_56_21_10232015_no2.png, id=117, 462.22687
@@ -2466,7 +2468,7 @@ File: figs/results/transmission_device_pic_56_21_10232015_no2.png Graphic file
 
 <use figs/results/transmission_device_pic_56_21_10232015_no2.png>
 Package pdftex.def Info: figs/results/transmission_device_pic_56_21_10232015_no
-2.png used on input line 28.
+2.png used on input line 32.
 (pdftex.def)             Requested size: 170.71799pt x 113.80931pt.
 
 <figs/results/transmission_resistance_plot_pic_56_21_10232015_no2.png, id=118, 
@@ -2476,7 +2478,7 @@ hic file (type png)
 
 <use figs/results/transmission_resistance_plot_pic_56_21_10232015_no2.png>
 Package pdftex.def Info: figs/results/transmission_resistance_plot_pic_56_21_10
-232015_no2.png used on input line 33.
+232015_no2.png used on input line 37.
 (pdftex.def)             Requested size: 199.1649pt x 142.26285pt.
 
 <figs/results/transmission_device_pic_-66_21_11182015_no2.png, id=119, 359.0915
@@ -2486,7 +2488,7 @@ File: figs/results/transmission_device_pic_-66_21_11182015_no2.png Graphic file
 
 <use figs/results/transmission_device_pic_-66_21_11182015_no2.png>
 Package pdftex.def Info: figs/results/transmission_device_pic_-66_21_11182015_n
-o2.png used on input line 38.
+o2.png used on input line 42.
 (pdftex.def)             Requested size: 170.7182pt x 113.81223pt.
 
 <figs/results/transmission_resistance_plot_pic_-66_21_11182015_no2.png, id=120,
@@ -2496,45 +2498,45 @@ phic file (type png)
 
 <use figs/results/transmission_resistance_plot_pic_-66_21_11182015_no2.png>
 Package pdftex.def Info: figs/results/transmission_resistance_plot_pic_-66_21_1
-1182015_no2.png used on input line 43.
+1182015_no2.png used on input line 47.
 (pdftex.def)             Requested size: 199.1649pt x 142.26285pt.
 
 
-LaTeX Warning: Float too large for page by 9.53503pt on input line 46.
+LaTeX Warning: Float too large for page by 9.53503pt on input line 50.
+
+[12
 
 
-<figs/results/hall_bar_device_pic_5-5_21_10152015_no2_modified.png, id=121, 436
+
+]
+<figs/results/hall_bar_device_pic_5-5_21_10152015_no2_modified.png, id=126, 436
 .63126pt x 374.14781pt>
 File: figs/results/hall_bar_device_pic_5-5_21_10152015_no2_modified.png Graphic
  file (type png)
 
 <use figs/results/hall_bar_device_pic_5-5_21_10152015_no2_modified.png>
 Package pdftex.def Info: figs/results/hall_bar_device_pic_5-5_21_10152015_no2_m
-odified.png used on input line 54.
+odified.png used on input line 58.
 (pdftex.def)             Requested size: 170.7119pt x 113.80948pt.
 
-<figs/results/hall_bar_device_pic_11182015_no2_modified.png, id=122, 507.39563p
+<figs/results/hall_bar_device_pic_11182015_no2_modified.png, id=127, 507.39563p
 t x 365.86688pt>
 File: figs/results/hall_bar_device_pic_11182015_no2_modified.png Graphic file (
 type png)
 
 <use figs/results/hall_bar_device_pic_11182015_no2_modified.png>
 Package pdftex.def Info: figs/results/hall_bar_device_pic_11182015_no2_modified
-.png used on input line 59.
+.png used on input line 63.
 (pdftex.def)             Requested size: 170.71603pt x 113.80833pt.
- [12
-
-
-
-]) [13]
-[14 <./figs/results/transmission_device_pic_5-5_21_10232015_no1.png> <./figs/re
-sults/transmission_resistance_plot_pic_5-5_21_10232015_no1.png> <./figs/results
-/transmission_device_pic_56_21_10232015_no2.png> <./figs/results/transmission_r
-esistance_plot_pic_56_21_10232015_no2.png> <./figs/results/transmission_device_
-pic_-66_21_11182015_no2.png> <./figs/results/transmission_resistance_plot_pic_-
-66_21_11182015_no2.png>] [15 <./figs/results/hall_bar_device_pic_5-5_21_1015201
-5_no2_modified.png> <./figs/results/hall_bar_device_pic_11182015_no2_modified.p
-ng>] (./prospectus.bbl [16
+) [13] [14 <./figs/results/transmission_device_pic_5-5_21_10232015_no1.png> <./
+figs/results/transmission_resistance_plot_pic_5-5_21_10232015_no1.png> <./figs/
+results/transmission_device_pic_56_21_10232015_no2.png> <./figs/results/transmi
+ssion_resistance_plot_pic_56_21_10232015_no2.png> <./figs/results/transmission_
+device_pic_-66_21_11182015_no2.png> <./figs/results/transmission_resistance_plo
+t_pic_-66_21_11182015_no2.png>] [15 <./figs/results/hall_bar_device_pic_5-5_21_
+10152015_no2_modified.png> <./figs/results/hall_bar_device_pic_11182015_no2_mod
+ified.png>]
+(./prospectus.bbl [16
 
 
 ] [17]
@@ -2550,15 +2552,15 @@ Missing character: There is no “ in font cmr10!
  (./backmatter/acronyms.tex)
 [21
 
-] (./prospectus.aux (./frontmatter/title.aux) (./frontmatter/abstract.aux)
-(./frontmatter/acknowledgements.aux) (./chapters/intro.aux)
-(./chapters/experimental.aux) (./chapters/results.aux)
+] [22] (./prospectus.aux (./frontmatter/title.aux)
+(./frontmatter/abstract.aux) (./frontmatter/acknowledgements.aux)
+(./chapters/intro.aux) (./chapters/experimental.aux) (./chapters/results.aux)
 (./backmatter/acronyms.aux)) ) 
 Here is how much of TeX's memory you used:
- 25936 strings out of 493109
- 520748 string characters out of 6138587
+ 25947 strings out of 493109
+ 520906 string characters out of 6138587
  555239 words of memory out of 5000000
- 28889 multiletter control sequences out of 15000+600000
+ 28900 multiletter control sequences out of 15000+600000
  17617 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,17n,69p,10402b,517s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2579,10 +2581,10 @@ fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2014/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmti10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/s
 frm0700.pfb>
-Output written on prospectus.pdf (27 pages, 22226007 bytes).
+Output written on prospectus.pdf (28 pages, 22227747 bytes).
 PDF statistics:
- 222 PDF objects out of 1000 (max. 8388607)
- 117 compressed objects within 2 object streams
+ 225 PDF objects out of 1000 (max. 8388607)
+ 119 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  203 words of extra memory for PDF output out of 10000 (max. 10000000)
 
