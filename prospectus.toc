@@ -29,5 +29,7 @@
 \contentsline {subsection}{\numberline {2.6.1}Measurement Devices}{10}
 \contentsline {chapter}{\numberline {3}Studying Instrinsic Channel Properties, Scattering Mechanisms, and Quantum Transport}{12}
 \contentsline {section}{\numberline {3.1}$p$-type \ch {MoS2} Semiconductor Doping}{12}
-\contentsline {chapter}{References}{13}
-\contentsline {chapter}{Appendices}{17}
+\contentsline {subsection}{\numberline {3.1.1}$p$-type \ch {MoS2} and \ch {WSe2} Semiconductor Contact Resistance}{12}
+\contentsline {subsection}{\numberline {3.1.2}$p$-type \ch {MoS2} and \ch {WSe2} Semiconductor Intrinsic Channel Properties}{13}
+\contentsline {chapter}{References}{16}
+\contentsline {chapter}{Appendices}{20}
