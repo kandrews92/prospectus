@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  25 JAN 2016 15:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  25 JAN 2016 17:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2450,14 +2450,14 @@ o1.png used on input line 18.
 (pdftex.def)             Requested size: 170.7131pt x 113.81403pt.
 
 <figs/results/transmission_resistance_plot_pic_5-5_21_10232015_no1.png, id=116,
- 501.072pt x 428.3202pt>
+ 542.025pt x 416.55624pt>
 File: figs/results/transmission_resistance_plot_pic_5-5_21_10232015_no1.png Gra
 phic file (type png)
 
 <use figs/results/transmission_resistance_plot_pic_5-5_21_10232015_no1.png>
 Package pdftex.def Info: figs/results/transmission_resistance_plot_pic_5-5_21_1
 0232015_no1.png used on input line 23.
-(pdftex.def)             Requested size: 170.71393pt x 113.81148pt.
+(pdftex.def)             Requested size: 199.1649pt x 142.26285pt.
 
 <figs/results/transmission_device_pic_56_21_10232015_no2.png, id=117, 462.22687
 pt x 321.45094pt>
@@ -2470,14 +2470,14 @@ Package pdftex.def Info: figs/results/transmission_device_pic_56_21_10232015_no
 (pdftex.def)             Requested size: 170.71799pt x 113.80931pt.
 
 <figs/results/transmission_resistance_plot_pic_56_21_10232015_no2.png, id=118, 
-458.6736pt x 405.6756pt>
+542.025pt x 416.55624pt>
 File: figs/results/transmission_resistance_plot_pic_56_21_10232015_no2.png Grap
 hic file (type png)
 
 <use figs/results/transmission_resistance_plot_pic_56_21_10232015_no2.png>
 Package pdftex.def Info: figs/results/transmission_resistance_plot_pic_56_21_10
 232015_no2.png used on input line 33.
-(pdftex.def)             Requested size: 170.71439pt x 113.81123pt.
+(pdftex.def)             Requested size: 199.1649pt x 142.26285pt.
 
 <figs/results/transmission_device_pic_-66_21_11182015_no2.png, id=119, 359.0915
 7pt x 287.57437pt>
@@ -2490,14 +2490,18 @@ o2.png used on input line 38.
 (pdftex.def)             Requested size: 170.7182pt x 113.81223pt.
 
 <figs/results/transmission_resistance_plot_pic_-66_21_11182015_no2.png, id=120,
- 458.6736pt x 358.941pt>
+ 542.025pt x 416.55624pt>
 File: figs/results/transmission_resistance_plot_pic_-66_21_11182015_no2.png Gra
 phic file (type png)
 
 <use figs/results/transmission_resistance_plot_pic_-66_21_11182015_no2.png>
 Package pdftex.def Info: figs/results/transmission_resistance_plot_pic_-66_21_1
 1182015_no2.png used on input line 43.
-(pdftex.def)             Requested size: 170.71439pt x 113.8064pt.
+(pdftex.def)             Requested size: 199.1649pt x 142.26285pt.
+
+
+LaTeX Warning: Float too large for page by 9.53503pt on input line 46.
+
 
 <figs/results/hall_bar_device_pic_5-5_21_10152015_no2_modified.png, id=121, 436
 .63126pt x 374.14781pt>
@@ -2506,7 +2510,7 @@ File: figs/results/hall_bar_device_pic_5-5_21_10152015_no2_modified.png Graphic
 
 <use figs/results/hall_bar_device_pic_5-5_21_10152015_no2_modified.png>
 Package pdftex.def Info: figs/results/hall_bar_device_pic_5-5_21_10152015_no2_m
-odified.png used on input line 55.
+odified.png used on input line 54.
 (pdftex.def)             Requested size: 170.7119pt x 113.80948pt.
 
 <figs/results/hall_bar_device_pic_11182015_no2_modified.png, id=122, 507.39563p
@@ -2516,7 +2520,7 @@ type png)
 
 <use figs/results/hall_bar_device_pic_11182015_no2_modified.png>
 Package pdftex.def Info: figs/results/hall_bar_device_pic_11182015_no2_modified
-.png used on input line 60.
+.png used on input line 59.
 (pdftex.def)             Requested size: 170.71603pt x 113.80833pt.
  [12
 
@@ -2575,7 +2579,7 @@ fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2014/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmti10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/s
 frm0700.pfb>
-Output written on prospectus.pdf (27 pages, 22339275 bytes).
+Output written on prospectus.pdf (27 pages, 22226007 bytes).
 PDF statistics:
  222 PDF objects out of 1000 (max. 8388607)
  117 compressed objects within 2 object streams
