@@ -13,7 +13,7 @@ where, in this case, it is assumed that the resistivity $\rho$ and the area $A$ 
 \begin{equation}\label{eq:resistance_tlm}
 R = R_\mathrm{c} + R_\mathrm{ch},
 \end{equation}
-where $R_\mathrm{c}$ and $R_\mathrm{ch}$ are the contact and channel resistances, respectively \cite{Schroder_Semiconductor2006}. Thus by finding the resistance from the gradient of an $I-V$ characteristic curve one can apply the logic from eq.~\ref{eq:resistance_fundamental} to find the overall contact resistance. Fig.~\subref*{fig:transmission_device_10232015_no1}, fig.~\subref*{fig:transmission_device_10232015_no2}, and fig.~\subref*{fig:transmission_device_11182015_no2} illustrate the design of several $0.05\%$ \ch{WSe2} doped \ch{WSe2} transmission lines with varying lengths of electrodes. Ultimately, the contact resistance from using the \ac{TLM} is illustrated in fig.~\subref*{fig:transmission_device_10232015_no1_resistance}, fig.~\subref*{fig:transmission_device_10232015_no2_resistance}, and fig.~\subref*{fig:transmission_device_11182015_no2_resistance}. The corresponding contact resistances for each device are: $4.70\unita{k\Omega}\unita{m}$, $25.8\unita{k\Omega}\unita{m}$, and $19.3\unita{k\Omega}\unita{m}$ for the devices shown in fig.~\subref*{fig:transmission_device_10232015_no1}, fig.~\subref*{fig:transmission_device_10232015_no2}, and fig.~\subref*{fig:transmission_device_11182015_no2}, respectively.
+where $R_\mathrm{c}$ and $R_\mathrm{ch}$ are the contact and channel resistances, respectively \cite{Schroder_Semiconductor2006}. Thus by finding the resistance from the gradient of an $I-V$ characteristic curve one can apply the logic from eq.~\ref{eq:resistance_fundamental} to find the overall contact resistance. Fig.~\subref*{fig:transmission_device_10232015_no1}, fig.~\subref*{fig:transmission_device_10232015_no2}, and fig.~\subref*{fig:transmission_device_11182015_no2} illustrate the design of several $0.05\%$ \ch{WSe2} doped \ch{WSe2} transmission lines with varying lengths of electrodes. Ultimately, the contact resistance from using the \ac{TLM} is illustrated in fig.~\subref*{fig:transmission_device_10232015_no1_resistance}, fig.~\subref*{fig:transmission_device_10232015_no2_resistance}, and fig.~\subref*{fig:transmission_device_11182015_no2_resistance}. The corresponding contact resistances for each device are: $4.70\unita{k\Omega}\unita{\mu m}$, $25.8\unita{k\Omega}\unita{\mu m}$, and $19.3\unita{k\Omega}\unita{\mu m}$ for the devices shown in fig.~\subref*{fig:transmission_device_10232015_no1}, fig.~\subref*{fig:transmission_device_10232015_no2}, and fig.~\subref*{fig:transmission_device_11182015_no2}, respectively.
 \begin{figure}[ht]
 	\centering
 	\subfloat[$0.05\%$ \ch{Nb} doped \ch{WSe2} channel transmission lines with corresponding channel lengths and widths of $L_{12} = 1.04\unita{\mu m}$ $W_{12} = 4.42\unita{\mu m}$, $L_{23} = 2.04\unita{\mu m}$, $W_{23} = 4.47\unita{\mu m}$, $L_{34} = 3.09\unita{\mu m}$, $W_{34} = 4.90\unita{\mu m}$, $W_{45} = 5.15\unita{\mu m}$, and $L_{45} = 4.27\unita{\mu m}$. ]{
@@ -97,26 +97,6 @@ To further study the intrinsic channel properties of \acp{TMD} Hall bar devices 
 	\label{fig:hall_bar_11182015_no1_data}
 \end{figure}
 
-\begin{figure}[ht]
-	\centering
-	\subfloat[$I-V$ characteristics, $T=300\unita{K}$ add more here $\ldots$.]{
-		\includegraphics[height=3.25cm,width=5cm]{figs/results/Vds-Id_1V_-1V-Vbg_20V_-70V_T1-D_T5_S_300K_plot_modified}
-		\label{fig:iv_curve_hall_bar}
-	}
-	%\qquad
-	\subfloat[caption]{
-		\includegraphics[height=3.25cm,width=5cm]{figs/results/Charge_density_Vs_Vbg_different_Temp_plot_modified}
-		\label{fig:charge_density_vs_Vbg_all_temp}
-	}
-	%\qquad
-	\subfloat[caption]{
-		\includegraphics[height=3.25cm,width=5cm]{figs/results/HallMobility_Vs_T_for_fixed_carrier_consentrations_plot_modified}
-		\label{fig:mu_hall_fixed_carriers}
-	}
-	\caption[captions]{caption}
-	\label{fig:idk1}
-\end{figure}
-
 \noindent The Hall effect measurement is widely used for device characterization because it gives the resistivity $\rho$, carrier density $n$, and mobility $\mu$. Using the \acs{PPMS} a magnetic field is applied perpendicular to the current flow direction producing an electric field that is perpendicular to the magnetic field and the current. For example, consider the case shown in fig.~\ref{fig:hall_diagram} where current is flowing in the $+x$-direction with a magnetic field applied in the $+z$-direction. The result is that the Lorentz force will accelerate the holes ($p$-type material) in the $-y$-direction. For holes the electric field points in the $+y$-direction. The force felt by holes is given by
 \begin{equation}\label{eq:hole_force}
 	\vec{F} = q\left(\vec{E} + \vec{v}\times \vec{B}\right),
@@ -142,4 +122,24 @@ Furthermore, the Hall mobility $\mu_H$ is defined by
 	\includegraphics[height=6cm,width=8cm]{figs/results/hall_diagram}
 	\caption[Hall effect measurement diagram]{The current $I$ flows in the $+x$-direction and the magnetic field $B$ is applied in the $+z$-direction deflects positive charge carriers (holes) in the $-y$-direction generating a Hall voltage $V_H$ \cite{HallDiagram,HallEffectNIST}.}
 	\label{fig:hall_diagram}
+\end{figure}
+
+\begin{figure}[ht]
+	\centering
+	\subfloat[$I-V$ characteristics, $T=300\unita{K}$ add more here $\ldots$.]{
+		\includegraphics[height=3.25cm,width=5cm]{figs/results/Vds-Id_1V_-1V-Vbg_20V_-70V_T1-D_T5_S_300K_plot_modified}
+		\label{fig:iv_curve_hall_bar}
+	}
+	%\qquad
+	\subfloat[caption]{
+		\includegraphics[height=3.25cm,width=5cm]{figs/results/Charge_density_Vs_Vbg_different_Temp_plot_modified}
+		\label{fig:charge_density_vs_Vbg_all_temp}
+	}
+	%\qquad
+	\subfloat[caption]{
+		\includegraphics[height=3.25cm,width=5cm]{figs/results/HallMobility_Vs_T_for_fixed_carrier_consentrations_plot_modified}
+		\label{fig:mu_hall_fixed_carriers}
+	}
+	\caption[captions]{caption}
+	\label{fig:idk1}
 \end{figure}
