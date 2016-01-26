@@ -52,8 +52,6 @@ Using degenerately doped \ac{SiO2} wafers that are $270\unita{nm}$ thick as pict
 	\label{fig:main_alignment}
 \end{figure}
 
-%Testing the subref command here \subref*{fig:main_alignment_5x}, \cref{fig:main_alignment_10x}
-
 \subsection{Substrate Cleaning}\label{subsec:cleaning}
 Beginning with a cut \acs{SiO2} substrate with a deposited \acs{Au} layer. To remove the \acs{Au} layer, the substrate is first soaked in acetone for approximately 5-10 minutes then washed using \ac{IPA} and dried with \ac{N2} gas. Next, the substrate in placed in acetone and sonicated for 15 minutes. Then sonicated once more but in \acs{IPA} this time with a repition of washing and drying step using \ac{IPA} and \acs{N2} as described above in between each sonication. In order to remove and remaining organic matter on the surface of the substrate, the substrate is annealed under vacuum at $600^\degree\unita{C}$ for 10 minutes and passing forming gas for 2 of the 10 minutes. Forming gas is a mixture of \ch{H2} and an inert gas, usually \ch{N2} \cite{Choi_AppPhysLett2004}. In addition to annealing the substrate for cleanliness, in certain cases when a higher degree of cleanliness is desired the substrate can be treated with oxygen plasma cleaning. 
 
@@ -129,12 +127,14 @@ In addition to the characterizing samples optically, \acs{AFM} characterization 
 \begin{figure}[ht]
 	\centering
 	\begin{minipage}[b]{0.45\linewidth}
+		\centering
 		\includegraphics[height=4cm,width=4cm]{figs/experimental/AFM_front_view}
 		\caption[AFM front view]{AFM front view}
 		\label{fig:afm_front_view}
 	\end{minipage}
 	\qquad
 	\begin{minipage}[b]{0.45\linewidth}
+		\centering
 		\includegraphics[height=4cm,width=4cm]{figs/experimental/AFM_tip}
 		\caption[AFM cantilever]{AFM cantilever \cite{Ernst-Moritz-Arndt_Online}}
 		\label{fig:AFM_tip}
@@ -143,10 +143,14 @@ In addition to the characterizing samples optically, \acs{AFM} characterization 
 
 \section{Device Fabrication}\label{sec:device_fabrication}
 \subsection{Device Design}\label{subsec:device_design}
+The specifics of device electrode design depends largely on the type of measurement that is desired. For example, fig.~\ref{fig:ebeam_developed_100x} demonstrates a Hall bar device pattern. Despite the varying possibilities of patterns, the method for which the designs are generated remains largely the same. In order to generate these patterns a design software, \ac{NPGS}, is used to draw the electrodes which in turn communicates the designed pattern to the \acs{SEM} \cite{NPGS}. \\ \\
+\noindent In preperation for \ac{EBL} the substrate is spin-coated with two layers of \ac{PMMA}. The first layer of \acs{PMMA} is 495-A4 is added then the substrate is baked on a hot plate for 5 minutes at $180^\degree\unita{C}$. The first layer is followed by another layer of \acs{PMMA}, 950-A2 (same polymer of different molecular weight). Again, the substrate is spin-coated with this \acs{PMMA} layer and baked at the same temperature for 5 minutes.
+
 \subsection{Electron Beam Lithography}\label{subsec:lithography}
+To generate the patterns described in sec.~\ref{subsec:device_design} a \acs{SEM} is used to complete \acs{EBL}. Fig.~\ref{fig:SEM_machine} shows the control panel and electron beam writer of the \acs{SEM}. The \acs{SEM} is optimized by adjusting the beam current to the saturation point. Using the alignment marks mentioned in sec.~\ref{sec:sample_prep} the electron beam is aligned to correct position on the substrate. The \acs{NPGS} system allows for adjustments in the concentration of the electron beam current at certain areas. For example, whether a line does or an area dose is necessary. In general, these values are adjusted as needed depending on the device design but are usually around $300\unita{\mu C}\unitb{cm}{-2}$ for area doses and $15\unita{\mu C}\unitb{cm}{-1}$ for line doses. Ultimately, the \acs{EBL} process creates three separate patterns that are joined together. The first pattern is written at $1000\mathrm{x}$ magnification on the \acs{SEM} (see fig.~\ref{fig:ebeam_developed_100x}). The second and third patterns (written at $300\mathrm{x}$ and $100\mathrm{x}$, respectively, see fig.~\ref{fig:ebeam_developed_10x}) are connected to the inner $1000\mathrm{x}$ pattern and they connect this inner pattern to the ``electrode pads" where the electrodes will eventually be connected for device measurement. After completing the device pattern, the substrate is developed in a solution of \ac{MIBK} and \ac{MEK} for 70 seconds. The \acs{MIBK} is the main developer while the \acs{MEK} acts to enhance the developing process, both fig.~\subref*{fig:ebeam_developed_10x} and fig.~\subref*{fig:ebeam_developed_100x} have undergone this development process.
 \begin{figure}[ht]
 	\centering
-	\includegraphics[height=3cm,width=5cm]{figs/experimental/SEM}
+	\includegraphics[height=4cm,width=7cm]{figs/experimental/SEM}
 	\caption[Scanning electron microscope]{Control panel and electron beam writer of scanning electron microscope.}
 	\label{fig:SEM_machine}
 \end{figure}
@@ -154,12 +158,12 @@ In addition to the characterizing samples optically, \acs{AFM} characterization 
 \begin{figure}[ht]
 	\centering
 	\subfloat[Developed pattern 10x]{
-		\includegraphics[height=4cm,width=4cm]{figs/experimental/ebeam_developed_10x}
+		\includegraphics[height=4cm,width=5cm]{figs/experimental/ebeam_developed_10x}
 		\label{fig:ebeam_developed_10x}
 	}
 	\qquad
 	\subfloat[Developed pattern 100x]{
-		\includegraphics[height=4cm,width=4cm]{figs/experimental/ebeam_developed_100x}
+		\includegraphics[height=4cm,width=5cm]{figs/experimental/ebeam_developed_100x}
 		\label{fig:ebeam_developed_100x}
 	}
 	\caption[Electron beam lithography patterns]{10x and 100x electron beam lithography patterns developed using \acs{MIBK} and \acs{MEK}.}
@@ -167,35 +171,35 @@ In addition to the characterizing samples optically, \acs{AFM} characterization 
 \end{figure}
 
 \subsection{Metal Deposition}\label{subsec:deposition}
+In order to make proper electrical contacts metal must be deposited on the pattern made by \acs{EBL}. This process of metal deposition is done using a \ac{BJD} system (fig.) which evaporates $10\unita{nm}$ of \ac{Ti} followed by $40\unita{nm}$ of \acs{Au} on the substrate`s surface at ultrahigh vacuum ($\sim 10^{-7}\unita{torr}$) at a rate of $\SI{1}{\angstrom}\unitb{s}{-1}$. After the metal deposition process is complete, a process called ``liftoff" is performed. In this process the substrate is placed in acetone for approximately 5-10 minutes, until the \acs{Au} has ``lifted-off." Once this process is complete all that remains on the substrate is \acs{Au} where the \acs{EBL} was performed. Fig.~\ref{fig:liftoff} illustrates a substrate that has undergone the liftoff process, all that remains is the portion of the pattern that is necessary to perform electrical measurements on the device. 
 \begin{figure}[ht]
 	\centering
-	\begin{minipage}[b]{0.45\linewidth}
-		\centering
-		\includegraphics[height=4cm,width=4cm]{figs/experimental/bjd_control_panel}
-		\caption[BJD control panel]{caption 1}
+	\subfloat[BJD control panel]{
+		\includegraphics[height=6cm,width=4cm]{figs/experimental/bjd_control_panel}
 		\label{fig:bjd_control_panel}
-	\end{minipage}
+	}
 	\qquad
-	\begin{minipage}[b]{0.45\linewidth}
-		\centering
-		\includegraphics[height=4cm,width=4cm]{figs/experimental/bjd_hood}
-		\caption[BJD Hood]{caption 2}
+	\subfloat[BJD Hood]{
+		\includegraphics[height=6cm,width=4cm]{figs/experimental/bjd_hood}
 		\label{fig:bjd_hood}
-	\end{minipage}
+	}
+	\caption[\acs{BJD} system]{\acs{BJD} evaportation system in cleanroom environment}
+	\label{fig:bjd_system}
 \end{figure}
 
 \begin{figure}[ht]
 	\centering
 	\subfloat[\ch{Au}/\ch{Ti} deposited on developed sample after electron beam lithography at 10x]{
-		\includegraphics[height=4cm,width=4cm]{figs/experimental/liftoff_10x}
+		\includegraphics[height=4cm,width=5cm]{figs/experimental/liftoff_10x}
 		\label{fig:liftoff_10x}
 	}
 	\qquad
 	\subfloat[\ch{Au}/\ch{Ti} deposited on developed sample after electron beam lithography at 100x]{
-		\includegraphics[height=4cm,width=4cm]{figs/experimental/liftoff_100x}
+		\includegraphics[height=4cm,width=5cm]{figs/experimental/liftoff_100x}
 		\label{fig:liftoff_100x}
 	}
 	\caption[\ch{Au}/\ch{Ti} deposited on device]{Metal deposition on a device pattern.}
+	\label{fig:liftoff}
 \end{figure}
 
 
@@ -212,14 +216,19 @@ In addition to the characterizing samples optically, \acs{AFM} characterization 
 		\includegraphics[height=4cm,width=4cm]{figs/experimental/vacuum_measurement}
 		\label{fig:vacuum_measurement}
 	}
+	\qquad
+	\subfloat[Physical property measurement system]{
+		\includegraphics[height=6cm,width=4cm]{figs/experimental/ppms}
+		\label{fig:ppms}
+	}
 	\caption[Measurement setup]{Main Caption}
 	\label{fig:measurement}
 \end{figure}
 
-\begin{figure}[ht]
-	\centering
-	\includegraphics[height=4cm,width=4cm]{figs/experimental/ppms}
-	\caption[Physical property measurement system]{\ac{PPMS} for measuring Hall effect and other transport properties.}
-	\label{fig:ppms}
-\end{figure}
+%\begin{figure}[ht]
+%	\centering
+%	\includegraphics[height=6cm,width=4cm]{figs/experimental/ppms}
+%	\caption[Physical property measurement system]{\ac{PPMS} for measuring Hall effect and other transport properties.}
+%	\label{fig:ppms}
+%\end{figure}
 
