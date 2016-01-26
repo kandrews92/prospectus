@@ -21,7 +21,7 @@
 \contentsline {section}{\numberline {2.4}Characterization}{9}
 \contentsline {subsection}{\numberline {2.4.1}Optical Characterization}{9}
 \contentsline {subsection}{\numberline {2.4.2}AFM Characterization}{9}
-\contentsline {section}{\numberline {2.5}Device Fabrication}{9}
+\contentsline {section}{\numberline {2.5}Device Fabrication}{10}
 \contentsline {subsection}{\numberline {2.5.1}Device Design}{10}
 \contentsline {subsection}{\numberline {2.5.2}Electron Beam Lithography}{10}
 \contentsline {subsection}{\numberline {2.5.3}Metal Deposition}{11}

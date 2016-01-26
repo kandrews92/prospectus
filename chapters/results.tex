@@ -9,11 +9,11 @@ To study the effects of doping and how it affects the \ac{SBH} several \ch{MoS2}
 \begin{equation}\label{eq:resistance_fundamental}
 R = \frac{\rho}{A} l,
 \end{equation}
-where, in this case, it is assumed that the resistivity $\rho$ and the area $A$ are constant throughout. Thus the resistance $R$ is then proportional to the length $l$. By determining the resistance as a function of length one can determine the inherent contact resistance of the device. This is done by using what is known as the \ac{TLM}. In this approach the total resistance is given by
+where, in this case, it is assumed that the resistivity $\rho$ and the area $A$ are constant throughout \cite{Schroder_Semiconductor2006}. Thus the resistance $R$ is then proportional to the length $l$. By determining the resistance as a function of length one can determine the inherent contact resistance of the device. This is done by using what is known as the \ac{TLM}. In this approach the total resistance is given by
 \begin{equation}\label{eq:resistance_tlm}
 R = R_\mathrm{c} + R_\mathrm{ch},
 \end{equation}
-where $R_\mathrm{c}$ and $R_\mathrm{ch}$ are the contact and channel resistances, respectively. Thus by finding the resistance from the gradient of an $I-V$ characteristic curve one can apply the logic from eq.~\ref{eq:resistance_fundamental} to find the overall contact resistance. Fig.~\subref*{fig:transmission_device_10232015_no1}, fig.~\subref*{fig:transmission_device_10232015_no2}, and fig.~\subref*{fig:transmission_device_11182015_no2} illustrate the design of several $0.05\%$ \ch{WSe2} doped \ch{WSe2} transmission lines with varying lengths of electrodes. Ultimately, the contact resistance from using the \ac{TLM} is illustrated in fig.~\subref*{fig:transmission_device_10232015_no1_resistance}, fig.~\subref*{fig:transmission_device_10232015_no2_resistance}, and fig.~\subref*{fig:transmission_device_11182015_no2_resistance}. 
+where $R_\mathrm{c}$ and $R_\mathrm{ch}$ are the contact and channel resistances, respectively \cite{Schroder_Semiconductor2006}. Thus by finding the resistance from the gradient of an $I-V$ characteristic curve one can apply the logic from eq.~\ref{eq:resistance_fundamental} to find the overall contact resistance. Fig.~\subref*{fig:transmission_device_10232015_no1}, fig.~\subref*{fig:transmission_device_10232015_no2}, and fig.~\subref*{fig:transmission_device_11182015_no2} illustrate the design of several $0.05\%$ \ch{WSe2} doped \ch{WSe2} transmission lines with varying lengths of electrodes. Ultimately, the contact resistance from using the \ac{TLM} is illustrated in fig.~\subref*{fig:transmission_device_10232015_no1_resistance}, fig.~\subref*{fig:transmission_device_10232015_no2_resistance}, and fig.~\subref*{fig:transmission_device_11182015_no2_resistance}. The corresponding contact resistances for each device are: $4.70\unita{k\Omega}\unita{m}$, $25.8\unita{k\Omega}\unita{m}$, and $19.3\unita{k\Omega}\unita{m}$ for the devices shown in fig.~\subref*{fig:transmission_device_10232015_no1}, fig.~\subref*{fig:transmission_device_10232015_no2}, and fig.~\subref*{fig:transmission_device_11182015_no2}, respectively.
 \begin{figure}[ht]
 	\centering
 	\subfloat[$0.05\%$ \ch{Nb} doped \ch{WSe2} channel transmission lines with corresponding channel lengths and widths of $L_{12} = 1.04\unita{\mu m}$ $W_{12} = 4.42\unita{\mu m}$, $L_{23} = 2.04\unita{\mu m}$, $W_{23} = 4.47\unita{\mu m}$, $L_{34} = 3.09\unita{\mu m}$, $W_{34} = 4.90\unita{\mu m}$, $W_{45} = 5.15\unita{\mu m}$, and $L_{45} = 4.27\unita{\mu m}$. ]{
@@ -49,8 +49,9 @@ where $R_\mathrm{c}$ and $R_\mathrm{ch}$ are the contact and channel resistances
 	\label{fig:transmission_NbWSe2_devices}
 \end{figure}
 
+
 \subsection{$p$-type \ch{MoS2} and \ch{WSe2} Semiconductor Intrinsic Channel Properties}\label{subsec:mos2_intrinsic_properties}
-To further study the intrinsic channel properties of \acp{TMD} Hall bar devices were fabricated. The devices are encapsulated in \hbn, meaning the \acs{TMD} lies sandwiched between two \hbn layers. The bottom \hbn acts as a substrate while the top \hbn covers the center part of the \acs{TMD} flake. Fig.~\subref*{fig:hall_bar_10152015_no2_modified} and fig.~\subref*{fig:hall_bar_11182015_no2_modified} illustrate the design of the Hall bar devices used in this study. In addition, these figures further show the doping scheme used here. In order to form better 2D/2D contacts the drain/source contacts are degenerately doped \ch{Nb} and the semiconductor channel is fabricated using 0.05\% \ch{Nb} doped \ch{WSe2}. 
+To further study the intrinsic channel properties of \acp{TMD} Hall bar devices were fabricated. The devices are encapsulated in \hbn, meaning the \acs{TMD} lies sandwiched between two \hbn layers. The bottom \hbn acts as a substrate while the top \hbn covers the center part of the \acs{TMD} flake. Fig.~\subref*{fig:hall_bar_10152015_no2_modified} and fig.~\subref*{fig:hall_bar_11182015_no2_modified} illustrate the design of the Hall bar devices used in this study. In addition, these figures further show the doping scheme used here. In order to form better 2D/2D contacts the drain/source contacts are degenerately doped \ch{Nb} and the semiconductor channel is fabricated using 0.05\% \ch{Nb} doped \ch{WSe2}. \\ \\ 
 \begin{figure}[ht]
 	\centering
 	\subfloat[Hall bar device with a 0.05\% \ch{Nb} doped \ch{WSe2} channel. Device thickness is $18.6\unita{nm}$ with an average width of $W_\mathrm{avg} = 14\unita{\mu m}$.]{
@@ -95,3 +96,24 @@ To further study the intrinsic channel properties of \acp{TMD} Hall bar devices 
 	\caption[Hall bar device data part 2]{caption}
 	\label{fig:hall_bar_11182015_no1_data}
 \end{figure}
+
+\noindent The Hall effect measurement is widely used for device characterization because it gives the resistivity $\rho$, carrier density $n$, and mobility $\mu$. Using the \acs{PPMS} a magnetic field is applied perpendicular to the current flow direction producing an electric field that is perpendicular to the magnetic field and the current. For example, consider the case where current is flowing in the $+x$-direction with a magnetic field applied in the $+z$-direction. The result is that the Lorentz force will accelerate the holes ($p$-type material) in the $-y$-direction. For holes the electric field points in the $+y$-direction. The force felt by holes is given by
+\begin{equation}\label{eq:hole_force}
+	\vec{F} = q\left(\vec{E} + \vec{v}\times \vec{B}\right),
+\end{equation}
+where $\vec{E}$, $\vec{v}$, and $\vec{B}$ are the electric field, velocity, and magnetic field, respectively. In addition, the current is given by
+\begin{equation}\label{eq:hole_current}
+	I = q w d p v_x,
+\end{equation}
+where $q$ is the charge of an electron, $w$ is the thickness of the sample, $d$ is the width of the sample, $p$ is the hole density, and $v_x$ is the velocity of holes in the $x$-direction. Combining eqs.~\ref{eq:hole_force} and \ref{eq:hole_current} gives the electric field,
+\begin{equation}\label{eq:efield}
+	E_y = B v_x = \frac{B I}{q w d p}.
+\end{equation}
+The electric field in the $y$-direction produces the Hall voltage $V_H$. Integrating the electric field one arrives at the Hall coefficient $R_H$ which is defined as 
+\begin{equation}\label{eq:hall_coeff}
+	R_H = \frac{1}{p q} = \frac{V_H d}{I B}.
+\end{equation}
+Furthermore, the Hall mobility $\mu_H$ is defined by 
+\begin{equation}\label{eq:mu_hall}
+	\mu_H = \ldots.
+\end{equation}
