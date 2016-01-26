@@ -99,8 +99,22 @@ To further study the intrinsic channel properties of \acp{TMD} Hall bar devices 
 
 \begin{figure}[ht]
 	\centering
-	\includegraphics[height=5cm,width=7cm]{figs/results/Vds-Id_1V_-1V-Vbg_20V_-70V_T1-D_T5_S_300K_plot_modified}
-	\caption[$I-V$ characteristics]{$T=300\unita{K}$ add more here $\ldots$.}
+	\subfloat[$I-V$ characteristics, $T=300\unita{K}$ add more here $\ldots$.]{
+		\includegraphics[height=3.25cm,width=5cm]{figs/results/Vds-Id_1V_-1V-Vbg_20V_-70V_T1-D_T5_S_300K_plot_modified}
+		\label{fig:iv_curve_hall_bar}
+	}
+	%\qquad
+	\subfloat[caption]{
+		\includegraphics[height=3.25cm,width=5cm]{figs/results/Charge_density_Vs_Vbg_different_Temp_plot_modified}
+		\label{fig:charge_density_vs_Vbg_all_temp}
+	}
+	%\qquad
+	\subfloat[caption]{
+		\includegraphics[height=3.25cm,width=5cm]{figs/results/HallMobility_Vs_T_for_fixed_carrier_consentrations_plot_modified}
+		\label{fig:mu_hall_fixed_carriers}
+	}
+	\caption[captions]{caption}
+	\label{fig:idk1}
 \end{figure}
 
 \noindent The Hall effect measurement is widely used for device characterization because it gives the resistivity $\rho$, carrier density $n$, and mobility $\mu$. Using the \acs{PPMS} a magnetic field is applied perpendicular to the current flow direction producing an electric field that is perpendicular to the magnetic field and the current. For example, consider the case shown in fig.~\ref{fig:hall_diagram} where current is flowing in the $+x$-direction with a magnetic field applied in the $+z$-direction. The result is that the Lorentz force will accelerate the holes ($p$-type material) in the $-y$-direction. For holes the electric field points in the $+y$-direction. The force felt by holes is given by

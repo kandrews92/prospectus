@@ -53,5 +53,8 @@
 \contentsline {figure}{\numberline {3.4}{\ignorespaces Hall bar device data part 2}}{17}
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Caption 2}}}{17}
 \contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Caption 1}}}{17}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces $I-V$ characteristics}}{18}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces captions}}{18}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$I-V$ characteristics, $T=300\ensuremath {\tmspace +\thinmuskip {.1667em}\mathrm {K}}$ add more here $\ldots $.}}}{18}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {caption}}}{18}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {caption}}}{18}
 \contentsline {figure}{\numberline {3.6}{\ignorespaces Hall effect measurement diagram}}{18}

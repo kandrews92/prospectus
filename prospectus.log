@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  26 JAN 2016 14:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  26 JAN 2016 14:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2252,7 +2252,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
-<figs/intro/graphene_honeycomb.png, id=35, 225.0006pt x 178.9887pt>
+<figs/intro/graphene_honeycomb.png, id=34, 225.0006pt x 178.9887pt>
 File: figs/intro/graphene_honeycomb.png Graphic file (type png)
 
 <use figs/intro/graphene_honeycomb.png>
@@ -2260,7 +2260,7 @@ Package pdftex.def Info: figs/intro/graphene_honeycomb.png used on input line 1
 8.
 (pdftex.def)             Requested size: 142.26266pt x 113.81221pt.
 
-<figs/intro/graphene_bandgap.png, id=36, 280.04625pt x 127.97812pt>
+<figs/intro/graphene_bandgap.png, id=35, 280.04625pt x 127.97812pt>
 File: figs/intro/graphene_bandgap.png Graphic file (type png)
 
 <use figs/intro/graphene_bandgap.png>
@@ -2299,21 +2299,21 @@ Package acronym Info: Label `acro:WSe2' newly defined as it shall be overridden
 although it is yet undefined on input line 36.
 Package acronym Info: Label `acro:WS2' newly defined as it shall be overridden
 although it is yet undefined on input line 36.
-<figs/intro/tmdlayered.png, id=38, 174.6525pt x 135.50626pt>
+<figs/intro/tmdlayered.png, id=37, 174.6525pt x 135.50626pt>
 File: figs/intro/tmdlayered.png Graphic file (type png)
 
 <use figs/intro/tmdlayered.png>
 Package pdftex.def Info: figs/intro/tmdlayered.png used on input line 40.
 (pdftex.def)             Requested size: 170.72655pt x 113.81412pt.
 
-<figs/intro/tmdhexagonal.png, id=39, 249.93375pt x 149.05687pt>
+<figs/intro/tmdhexagonal.png, id=38, 249.93375pt x 149.05687pt>
 File: figs/intro/tmdhexagonal.png Graphic file (type png)
 
 <use figs/intro/tmdhexagonal.png>
 Package pdftex.def Info: figs/intro/tmdhexagonal.png used on input line 46.
 (pdftex.def)             Requested size: 170.72305pt x 113.81206pt.
  [2 <./figs/intro/graphene_honeycomb.png> <./figs/intro/graphene_bandgap.png>]
-<figs/intro/mos2_bandstructure.png, id=45, 590.205pt x 408.02437pt>
+<figs/intro/mos2_bandstructure.png, id=44, 590.205pt x 408.02437pt>
 File: figs/intro/mos2_bandstructure.png Graphic file (type png)
 
 <use figs/intro/mos2_bandstructure.png>
@@ -2798,14 +2798,34 @@ Graphic file (type png)
 
 <use figs/results/Vds-Id_1V_-1V-Vbg_20V_-70V_T1-D_T5_S_300K_plot_modified.png>
 Package pdftex.def Info: figs/results/Vds-Id_1V_-1V-Vbg_20V_-70V_T1-D_T5_S_300K
-_plot_modified.png used on input line 102.
-(pdftex.def)             Requested size: 199.1649pt x 142.26285pt.
+_plot_modified.png used on input line 105.
+(pdftex.def)             Requested size: 142.26302pt x 92.46895pt.
 
-<figs/results/hall_diagram.png, id=141, 363.60844pt x 280.04625pt>
+<figs/results/Charge_density_Vs_Vbg_different_Temp_plot_modified.png, id=141, 5
+42.025pt x 416.55624pt>
+File: figs/results/Charge_density_Vs_Vbg_different_Temp_plot_modified.png Graph
+ic file (type png)
+
+<use figs/results/Charge_density_Vs_Vbg_different_Temp_plot_modified.png>
+Package pdftex.def Info: figs/results/Charge_density_Vs_Vbg_different_Temp_plot
+_modified.png used on input line 110.
+(pdftex.def)             Requested size: 142.26302pt x 92.46895pt.
+
+<figs/results/HallMobility_Vs_T_for_fixed_carrier_consentrations_plot_modified.
+png, id=142, 542.025pt x 416.55624pt>
+File: figs/results/HallMobility_Vs_T_for_fixed_carrier_consentrations_plot_modi
+fied.png Graphic file (type png)
+
+<use figs/results/HallMobility_Vs_T_for_fixed_carrier_consentrations_plot_modif
+ied.png>
+Package pdftex.def Info: figs/results/HallMobility_Vs_T_for_fixed_carrier_conse
+ntrations_plot_modified.png used on input line 115.
+(pdftex.def)             Requested size: 142.26302pt x 92.46895pt.
+ <figs/results/hall_diagram.png, id=143, 363.60844pt x 280.04625pt>
 File: figs/results/hall_diagram.png Graphic file (type png)
 
 <use figs/results/hall_diagram.png>
-Package pdftex.def Info: figs/results/hall_diagram.png used on input line 128.
+Package pdftex.def Info: figs/results/hall_diagram.png used on input line 142.
 (pdftex.def)             Requested size: 227.62643pt x 170.72112pt.
 ) [15] [16 <./figs/results/transmission_device_pic_5-5_21_10232015_no1.png> <./
 figs/results/transmission_resistance_plot_pic_5-5_21_10232015_no1.png> <./figs/
@@ -2819,7 +2839,9 @@ bg_all_temps.png> <./figs/results/hall_bar_device_pic_5-5_21_10152015_no2_mu_ha
 ll_vs_Vbg_all_temps_linear.png> <./figs/results/hall_bar_device_pic_11192015_no
 1_conduct_vs_Vbg_all_temps.png> <./figs/results/hall_bar_device_pic_11192015_no
 1_mu_hall_vs_Vbg_all_temps.png>] [18 <./figs/results/Vds-Id_1V_-1V-Vbg_20V_-70V
-_T1-D_T5_S_300K_plot_modified.png> <./figs/results/hall_diagram.png>] (./prospe
+_T1-D_T5_S_300K_plot_modified.png> <./figs/results/Charge_density_Vs_Vbg_differ
+ent_Temp_plot_modified.png> <./figs/results/HallMobility_Vs_T_for_fixed_carrier
+_consentrations_plot_modified.png> <./figs/results/hall_diagram.png>] (./prospe
 ctus.bbl [19
 
 
@@ -2842,10 +2864,10 @@ Missing character: There is no “ in font cmr10!
 (./chapters/experimental.aux) (./chapters/results.aux)
 (./backmatter/acronyms.aux)) ) 
 Here is how much of TeX's memory you used:
- 28671 strings out of 493109
- 602528 string characters out of 6138587
- 606531 words of memory out of 5000000
- 31591 multiletter control sequences out of 15000+600000
+ 28703 strings out of 493109
+ 603906 string characters out of 6138587
+ 607531 words of memory out of 5000000
+ 31621 multiletter control sequences out of 15000+600000
  20914 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,17n,69p,10402b,758s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2867,10 +2889,10 @@ e1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmsy8.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmti10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0700.p
 fb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on prospectus.pdf (31 pages, 22282749 bytes).
+Output written on prospectus.pdf (31 pages, 22291196 bytes).
 PDF statistics:
- 255 PDF objects out of 1000 (max. 8388607)
+ 259 PDF objects out of 1000 (max. 8388607)
  132 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 233 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 243 words of extra memory for PDF output out of 10000 (max. 10000000)
 
