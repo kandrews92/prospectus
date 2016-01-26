@@ -31,5 +31,5 @@
 \contentsline {section}{\numberline {3.1}$p$-type \ch {MoS2} Semiconductor Doping}{14}
 \contentsline {subsection}{\numberline {3.1.1}$p$-type \ch {MoS2} and \ch {WSe2} Semiconductor Contact Resistance}{14}
 \contentsline {subsection}{\numberline {3.1.2}$p$-type \ch {MoS2} and \ch {WSe2} Semiconductor Intrinsic Channel Properties}{15}
-\contentsline {chapter}{References}{18}
-\contentsline {chapter}{Appendices}{22}
+\contentsline {chapter}{References}{19}
+\contentsline {chapter}{Appendices}{23}

@@ -97,23 +97,35 @@ To further study the intrinsic channel properties of \acp{TMD} Hall bar devices 
 	\label{fig:hall_bar_11182015_no1_data}
 \end{figure}
 
-\noindent The Hall effect measurement is widely used for device characterization because it gives the resistivity $\rho$, carrier density $n$, and mobility $\mu$. Using the \acs{PPMS} a magnetic field is applied perpendicular to the current flow direction producing an electric field that is perpendicular to the magnetic field and the current. For example, consider the case where current is flowing in the $+x$-direction with a magnetic field applied in the $+z$-direction. The result is that the Lorentz force will accelerate the holes ($p$-type material) in the $-y$-direction. For holes the electric field points in the $+y$-direction. The force felt by holes is given by
+\begin{figure}[ht]
+	\centering
+	\includegraphics[height=5cm,width=7cm]{figs/results/Vds-Id_1V_-1V-Vbg_20V_-70V_T1-D_T5_S_300K_plot_modified}
+	\caption[$I-V$ characteristics]{$T=300\unita{K}$ add more here $\ldots$.}
+\end{figure}
+
+\noindent The Hall effect measurement is widely used for device characterization because it gives the resistivity $\rho$, carrier density $n$, and mobility $\mu$. Using the \acs{PPMS} a magnetic field is applied perpendicular to the current flow direction producing an electric field that is perpendicular to the magnetic field and the current. For example, consider the case shown in fig.~\ref{fig:hall_diagram} where current is flowing in the $+x$-direction with a magnetic field applied in the $+z$-direction. The result is that the Lorentz force will accelerate the holes ($p$-type material) in the $-y$-direction. For holes the electric field points in the $+y$-direction. The force felt by holes is given by
 \begin{equation}\label{eq:hole_force}
 	\vec{F} = q\left(\vec{E} + \vec{v}\times \vec{B}\right),
 \end{equation}
 where $\vec{E}$, $\vec{v}$, and $\vec{B}$ are the electric field, velocity, and magnetic field, respectively. In addition, the current is given by
 \begin{equation}\label{eq:hole_current}
-	I = q w d p v_x,
+	I = q t d p v_x,
 \end{equation}
-where $q$ is the charge of an electron, $w$ is the thickness of the sample, $d$ is the width of the sample, $p$ is the hole density, and $v_x$ is the velocity of holes in the $x$-direction. Combining eqs.~\ref{eq:hole_force} and \ref{eq:hole_current} gives the electric field,
+where $q$ is the charge of an electron, $t$ is the thickness of the sample, $d$ is the width of the sample, $p$ is the hole density, and $v_x$ is the velocity of holes in the $x$-direction. Combining eqs.~\ref{eq:hole_force} and \ref{eq:hole_current} gives the electric field,
 \begin{equation}\label{eq:efield}
-	E_y = B v_x = \frac{B I}{q w d p}.
+	E_y = B v_x = \frac{B I}{q w t p}.
 \end{equation}
 The electric field in the $y$-direction produces the Hall voltage $V_H$. Integrating the electric field one arrives at the Hall coefficient $R_H$ which is defined as 
 \begin{equation}\label{eq:hall_coeff}
-	R_H = \frac{1}{p q} = \frac{V_H d}{I B}.
+	R_H = \frac{1}{p q} = \frac{V_H t}{I B}.
 \end{equation}
 Furthermore, the Hall mobility $\mu_H$ is defined by 
 \begin{equation}\label{eq:mu_hall}
 	\mu_H = \ldots.
 \end{equation}
+\begin{figure}[ht]
+	\centering
+	\includegraphics[height=6cm,width=8cm]{figs/results/hall_diagram}
+	\caption[Hall effect measurement diagram]{The current $I$ flows in the $+x$-direction and the magnetic field $B$ is applied in the $+z$-direction deflects positive charge carriers (holes) in the $-y$-direction generating a Hall voltage $V_H$ \cite{HallDiagram,HallEffectNIST}.}
+	\label{fig:hall_diagram}
+\end{figure}
