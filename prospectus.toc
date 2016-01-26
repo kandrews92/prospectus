@@ -21,15 +21,15 @@
 \contentsline {section}{\numberline {2.4}Characterization}{9}
 \contentsline {subsection}{\numberline {2.4.1}Optical Characterization}{9}
 \contentsline {subsection}{\numberline {2.4.2}AFM Characterization}{9}
-\contentsline {section}{\numberline {2.5}Device Fabrication}{10}
+\contentsline {section}{\numberline {2.5}Device Fabrication}{9}
 \contentsline {subsection}{\numberline {2.5.1}Device Design}{10}
 \contentsline {subsection}{\numberline {2.5.2}Electron Beam Lithography}{10}
-\contentsline {subsection}{\numberline {2.5.3}Metal Deposition}{10}
-\contentsline {section}{\numberline {2.6}Electrical Measurements}{11}
+\contentsline {subsection}{\numberline {2.5.3}Metal Deposition}{11}
+\contentsline {section}{\numberline {2.6}Electrical Measurements and Characterization}{11}
 \contentsline {subsection}{\numberline {2.6.1}Measurement Devices}{11}
-\contentsline {chapter}{\numberline {3}Studying Instrinsic Channel Properties, Scattering Mechanisms, and Quantum Transport}{13}
-\contentsline {section}{\numberline {3.1}$p$-type \ch {MoS2} Semiconductor Doping}{13}
-\contentsline {subsection}{\numberline {3.1.1}$p$-type \ch {MoS2} and \ch {WSe2} Semiconductor Contact Resistance}{13}
-\contentsline {subsection}{\numberline {3.1.2}$p$-type \ch {MoS2} and \ch {WSe2} Semiconductor Intrinsic Channel Properties}{14}
-\contentsline {chapter}{References}{17}
-\contentsline {chapter}{Appendices}{21}
+\contentsline {chapter}{\numberline {3}Studying Instrinsic Channel Properties, Scattering Mechanisms, and Quantum Transport}{14}
+\contentsline {section}{\numberline {3.1}$p$-type \ch {MoS2} Semiconductor Doping}{14}
+\contentsline {subsection}{\numberline {3.1.1}$p$-type \ch {MoS2} and \ch {WSe2} Semiconductor Contact Resistance}{14}
+\contentsline {subsection}{\numberline {3.1.2}$p$-type \ch {MoS2} and \ch {WSe2} Semiconductor Intrinsic Channel Properties}{15}
+\contentsline {chapter}{References}{18}
+\contentsline {chapter}{Appendices}{22}

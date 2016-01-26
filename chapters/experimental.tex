@@ -107,14 +107,14 @@ The majority of the optical characterization is carried out using the optical mi
 	\centering
 	\begin{minipage}[b]{0.45\linewidth}
 		\centering
-		\includegraphics[height=5cm,width=5cm]{figs/experimental/optical_microscope_front_view}
+		\includegraphics[height=6cm,width=5cm]{figs/experimental/optical_microscope_front_view}
 		\caption[Optical microscope front view]{Optical microscope front view}
 		\label{fig:optical_microscope_front_view}
 	\end{minipage}
 	\qquad
 	\begin{minipage}[b]{0.45\linewidth}
 		\centering
-		\includegraphics[height=5cm,width=5cm]{figs/experimental/optical_microscope_side_view}
+		\includegraphics[height=6cm,width=5cm]{figs/experimental/optical_microscope_side_view}
 		\caption[Optical microscope side view]{Optical microscope side view}
 		\label{fig:optical_microscope_side_view}
 	\end{minipage}
@@ -142,9 +142,10 @@ In addition to the characterizing samples optically, \acs{AFM} characterization 
 \end{figure}
 
 \section{Device Fabrication}\label{sec:device_fabrication}
+In order to perform electrical measurements of devices one must fabricate devices. The devices are fabricated according to a specific process, though it is worth noting that under certain circumstances some steps of the process may be omitted or altered, however, the main idea remains the same regardless of the device type being fabricated. Once all transfer steps and samples have been placed in their correct locations the fabrication process begins. This process has three main steps: device design (sec.~\ref{subsec:device_design}), \ac{EBL} (sec.~\ref{subsec:lithography}), and metal deposition (sec.~\ref{subsec:deposition}).
 \subsection{Device Design}\label{subsec:device_design}
 The specifics of device electrode design depends largely on the type of measurement that is desired. For example, fig.~\ref{fig:ebeam_developed_100x} demonstrates a Hall bar device pattern. Despite the varying possibilities of patterns, the method for which the designs are generated remains largely the same. In order to generate these patterns a design software, \ac{NPGS}, is used to draw the electrodes which in turn communicates the designed pattern to the \acs{SEM} \cite{NPGS}. \\ \\
-\noindent In preperation for \ac{EBL} the substrate is spin-coated with two layers of \ac{PMMA}. The first layer of \acs{PMMA} is 495-A4 is added then the substrate is baked on a hot plate for 5 minutes at $180^\degree\unita{C}$. The first layer is followed by another layer of \acs{PMMA}, 950-A2 (same polymer of different molecular weight). Again, the substrate is spin-coated with this \acs{PMMA} layer and baked at the same temperature for 5 minutes.
+\noindent In preperation for \acs{EBL} the substrate is spin-coated with two layers of \ac{PMMA}. The first layer of \acs{PMMA} is 495-A4 is added then the substrate is baked on a hot plate for 5 minutes at $180^\degree\unita{C}$. The first layer is followed by another layer of \acs{PMMA}, 950-A2 (same polymer of different molecular weight). Again, the substrate is spin-coated with this \acs{PMMA} layer and baked at the same temperature for 5 minutes.
 
 \subsection{Electron Beam Lithography}\label{subsec:lithography}
 To generate the patterns described in sec.~\ref{subsec:device_design} a \acs{SEM} is used to complete \acs{EBL}. Fig.~\ref{fig:SEM_machine} shows the control panel and electron beam writer of the \acs{SEM}. The \acs{SEM} is optimized by adjusting the beam current to the saturation point. Using the alignment marks mentioned in sec.~\ref{sec:sample_prep} the electron beam is aligned to correct position on the substrate. The \acs{NPGS} system allows for adjustments in the concentration of the electron beam current at certain areas. For example, whether a line does or an area dose is necessary. In general, these values are adjusted as needed depending on the device design but are usually around $300\unita{\mu C}\unitb{cm}{-2}$ for area doses and $15\unita{\mu C}\unitb{cm}{-1}$ for line doses. Ultimately, the \acs{EBL} process creates three separate patterns that are joined together. The first pattern is written at $1000\mathrm{x}$ magnification on the \acs{SEM} (see fig.~\ref{fig:ebeam_developed_100x}). The second and third patterns (written at $300\mathrm{x}$ and $100\mathrm{x}$, respectively, see fig.~\ref{fig:ebeam_developed_10x}) are connected to the inner $1000\mathrm{x}$ pattern and they connect this inner pattern to the ``electrode pads" where the electrodes will eventually be connected for device measurement. After completing the device pattern, the substrate is developed in a solution of \ac{MIBK} and \ac{MEK} for 70 seconds. The \acs{MIBK} is the main developer while the \acs{MEK} acts to enhance the developing process, both fig.~\subref*{fig:ebeam_developed_10x} and fig.~\subref*{fig:ebeam_developed_100x} have undergone this development process.
@@ -186,7 +187,6 @@ In order to make proper electrical contacts metal must be deposited on the patte
 	\caption[\acs{BJD} system]{\acs{BJD} evaportation system in cleanroom environment}
 	\label{fig:bjd_system}
 \end{figure}
-
 \begin{figure}[ht]
 	\centering
 	\subfloat[\ch{Au}/\ch{Ti} deposited on developed sample after electron beam lithography at 10x]{
@@ -203,8 +203,10 @@ In order to make proper electrical contacts metal must be deposited on the patte
 \end{figure}
 
 
-\section{Electrical Measurements}\label{sec:measurements}
+\section{Electrical Measurements and Characterization}\label{sec:measurements}
+Upon completion of the fabrication process and physical characterization processes, the remaining process is electrical characterization. Many of the options available in electrical characterization are put to use, at least in some capacity regardless of the device. Then, depending on the device`s quality, further measurements can be made in which a more comprehensive electrical data profile can be obtained.
 \subsection{Measurement Devices}\label{subsec:measurement_devices}
+Pictured in fig.~\subref*{fig:measurement_setup} is a measurement device that allows for automated electrical data collection through pre-made programs. The user adjusts parameters and the desired device properties to be measured. Initially, the device is usually measured in non-vacuum conditions at room temperature in order to determine the device`s quality. If it is determined that the device`s quality is worth continuing with low temperature measurements then the substrate is placed in the vacuum measurement chamber pictured in fig.~\subref*{fig:vacuum_measurement}. This apparatus is used in conjuction with the measurement setup in fig.~\subref*{fig:measurement_setup} to continue measurements. However, in this configuration the measurements take place under ultrahigh vacuum ($\sim 10^{-6}$ to $10^{-7}\unita{torr}$) and temperature control via liquid nitrogen (with the ability to cool to $70\unita{K}$). In addition, there is another measurement device that allows for both temperature control and the application of a magnetic field. This device, known as a \ac{PPMS}, is shown in fig.~\subref*{fig:ppms} and is used in situations when it is necessary to apply a magnetic field such as measuring a Hall device.
 \begin{figure}[ht]
 	\centering
 	\subfloat[Keithley semiconductor measurement system]{
@@ -225,10 +227,4 @@ In order to make proper electrical contacts metal must be deposited on the patte
 	\label{fig:measurement}
 \end{figure}
 
-%\begin{figure}[ht]
-%	\centering
-%	\includegraphics[height=6cm,width=4cm]{figs/experimental/ppms}
-%	\caption[Physical property measurement system]{\ac{PPMS} for measuring Hall effect and other transport properties.}
-%	\label{fig:ppms}
-%\end{figure}
 
