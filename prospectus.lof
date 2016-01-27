@@ -44,7 +44,7 @@
 \contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Caption here}}}{16}
 \contentsline {subfigure}{\numberline {(e)}{\ignorespaces {$0.05\%$ \ch {Nb} doped \ch {WSe2} channel transmission lines with corresponding channel lengths and widths of $L_{12} = 0.43\ensuremath {\tmspace +\thinmuskip {.1667em}\mathrm {\mu m}}$, $W_{12} = 2.10\ensuremath {\tmspace +\thinmuskip {.1667em}\mathrm {\mu m}}$, $L_{23} = 0.93\ensuremath {\tmspace +\thinmuskip {.1667em}\mathrm {\mu m}}$, $W_{23} = 1.90\ensuremath {\tmspace +\thinmuskip {.1667em}\mathrm {\mu m}}$, $L_{34} = 1.34\ensuremath {\tmspace +\thinmuskip {.1667em}\mathrm {\mu m}}$, $W_{34} = 1.98\ensuremath {\tmspace +\thinmuskip {.1667em}\mathrm {\mu m}}$, $L_{56} = 2.00\ensuremath {\tmspace +\thinmuskip {.1667em}\mathrm {\mu m}}$, $W_{56} = 1.89\ensuremath {\tmspace +\thinmuskip {.1667em}\mathrm {\mu m}}$, $W_{67} = 1.80\ensuremath {\tmspace +\thinmuskip {.1667em}\mathrm {\mu m}}$, and $L_{67} = 2.58\ensuremath {\tmspace +\thinmuskip {.1667em}\mathrm {\mu m}}$.}}}{16}
 \contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Caption here}}}{16}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Degenerately doped contacts and 0.05\% \ch {Nb} channel doped \ch {WSe2} Hall bar devices}}{17}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces 0.05\% \ch {Nb} channel doped \ch {WSe2} Hall bar devices}}{17}
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Hall bar device with a 0.05\% \ch {Nb} doped \ch {WSe2} channel. Device thickness is $18.6\ensuremath {\tmspace +\thinmuskip {.1667em}\mathrm {nm}}$ with an average width of $W_\mathrm {avg} = 14\ensuremath {\tmspace +\thinmuskip {.1667em}\mathrm {\mu m}}$.}}}{17}
 \contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Hall bar device with a 0.05\% \ch {Nb} doped \ch {WSe2} channel. Device thickness is $7.74\ensuremath {\tmspace +\thinmuskip {.1667em}\mathrm {nm}}$ with an average width of $W_\mathrm {avg} = 5.74\ensuremath {\tmspace +\thinmuskip {.1667em}\mathrm {\mu m}}$.}}}{17}
 \contentsline {figure}{\numberline {3.3}{\ignorespaces Hall bar device data}}{17}
@@ -58,4 +58,20 @@
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$I-V$ characteristics, $T=300\ensuremath {\tmspace +\thinmuskip {.1667em}\mathrm {K}}$ add more here $\ldots $.}}}{18}
 \contentsline {subfigure}{\numberline {(b)}{\ignorespaces {caption}}}{18}
 \contentsline {subfigure}{\numberline {(c)}{\ignorespaces {caption}}}{18}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces \ch {WSe2} device with degenerately doped contacts and lightly doped channel}}{18}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$0.01\%$ \ch {Nb} doped \ch {WSe2} transferred to hBN substrate.}}}{18}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Top hBN transferred on \ch {WSe2} channel.}}}{18}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Degenerately doped ($0.5\%$ \ch {Nb} doped \ch {WSe2}) contacts transferred.}}}{18}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Device with $0.01\%$ \ch {Nb} doped \ch {WSe2} channel and $0.5\%$ \ch {Nb} doped \ch {WSe2} contacts with electrodes fabricated. Channel dimensions: $L = 12.9\ensuremath {\tmspace +\thinmuskip {.1667em}\mathrm {\mu m}}$ and $W = 7.5\ensuremath {\tmspace +\thinmuskip {.1667em}\mathrm {\mu m}}$ with a device thickness of $5.6\ensuremath {\tmspace +\thinmuskip {.1667em}\mathrm {nm}}$.}}}{18}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces \ch {WSe2} device with degenerately doped contacts and lightly doped channel}}{19}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$0.01\%$ \ch {Nb} doped \ch {WSe2} transferred to hBN substrate.}}}{19}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Top hBN transferred on \ch {WSe2} channel.}}}{19}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Degenerately doped ($0.5\%$ \ch {Nb} doped \ch {WSe2}) contacts transferred.}}}{19}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Device with $0.01\%$ \ch {Nb} doped \ch {WSe2} channel and $0.5\%$ \ch {Nb} doped \ch {WSe2} contacts with electrodes fabricated. Channel dimensions: $L = 9.0\ensuremath {\tmspace +\thinmuskip {.1667em}\mathrm {\mu m}}$ and $W = 4.02\ensuremath {\tmspace +\thinmuskip {.1667em}\mathrm {\mu m}}$ with a device thickness of $9\ensuremath {\tmspace +\thinmuskip {.1667em}\mathrm {nm}}$.}}}{19}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Caption}}{19}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {caption}}}{19}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {caption}}}{19}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Caption}}{19}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {caption}}}{19}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {caption}}}{19}
 \addvspace {10\p@ }

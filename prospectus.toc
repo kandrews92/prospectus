@@ -31,9 +31,9 @@
 \contentsline {section}{\numberline {3.1}$p$-type \ch {MoS2} Semiconductor Doping}{14}
 \contentsline {subsection}{\numberline {3.1.1}$p$-type \ch {MoS2} and \ch {WSe2} Semiconductor Contact Resistance}{14}
 \contentsline {subsection}{\numberline {3.1.2}$p$-type \ch {MoS2} and \ch {WSe2} Semiconductor Intrinsic Channel Properties}{15}
-\contentsline {chapter}{\numberline {4}Future Works and Conclusion}{19}
-\contentsline {section}{\numberline {4.1}Integer and Fractional Quantum Hall Effects}{19}
-\contentsline {section}{\numberline {4.2}Shubnikov-de Haas Oscillations}{19}
-\contentsline {section}{\numberline {4.3}Limitations}{19}
-\contentsline {chapter}{References}{20}
-\contentsline {chapter}{Appendices}{24}
+\contentsline {chapter}{\numberline {4}Future Works and Conclusion}{20}
+\contentsline {section}{\numberline {4.1}Integer Quantum Hall Effects}{20}
+\contentsline {section}{\numberline {4.2}Shubnikov-de Haas Oscillations}{20}
+\contentsline {section}{\numberline {4.3}Limitations}{20}
+\contentsline {chapter}{References}{21}
+\contentsline {chapter}{Appendices}{25}
