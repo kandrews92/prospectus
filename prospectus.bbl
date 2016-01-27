@@ -409,4 +409,31 @@ Thurber {W}.{R}.
 \newblock {NIST}: Hall effect measurements, Nov. 2011.
 \newblock [Online; Accessed: 26, Jan. 2016].
 
+\bibitem{Klitzing_PhysRevLett1980}
+K.~v. Klitzing, G.~Dorda, and M.~Pepper.
+\newblock New method for high-accuracy determination of the fine-structure
+  constant based on quantized hall resistance.
+\newblock {\em Phys. Rev. Lett.}, 45:494--497, Aug 1980.
+
+\bibitem{Ando_RevModPhys1982}
+Tsuneya Ando, Alan~B Fowler, and Frank Stern.
+\newblock Electronic properties of two-dimensional systems.
+\newblock {\em Reviews of Modern Physics}, 54(2):437, 1982.
+
+\bibitem{Goerbig_2009}
+M.~O. {Goerbig}.
+\newblock {Quantum Hall Effects}.
+\newblock {\em ArXiv e-prints}, sep 2009.
+\newblock Provided by the SAO/NASA Astrophysics Data System.
+
+\bibitem{Hook_Solid1991}
+J.R. Hook and E.~Hall, H.
+\newblock {\em Solid State Physics}.
+\newblock Wiley, West Sussex, England, 2 edition, 1991.
+
+\bibitem{Paalanen_PhysRevB1982}
+M.~A. Paalanen, D.~C. Tsui, and A.~C. Gossard.
+\newblock Quantized hall effect at low temperatures.
+\newblock {\em Phys. Rev. B}, 25:5566--5569, Apr 1982.
+
 \end{thebibliography}
