@@ -431,9 +431,29 @@ J.R. Hook and E.~Hall, H.
 \newblock {\em Solid State Physics}.
 \newblock Wiley, West Sussex, England, 2 edition, 1991.
 
+\bibitem{Landau_Quantum1965}
+Lev~Davidovich Landau and Evgenii~Mikhailovich Lifshitz.
+\newblock {\em Quantum mechanics: non-relativistic theory}, volume~3.
+\newblock Addison-{W}esley, Reading, {MA}., 1965.
+
+\bibitem{Sakurai_Quantum1994}
+Jun~John Sakurai and Jim~J Napolitano.
+\newblock {\em Modern quantum mechanics}.
+\newblock Addison-{W}esley, Reading, {MA}., 1994.
+
+\bibitem{Landau_Diagmagnetismus1930}
+LD~Landau.
+\newblock Diamagnetismus der metalle.
+\newblock {\em Zeitschrift f{\"u}r Physik}, 64(9-10):629--637, 1930.
+
 \bibitem{Paalanen_PhysRevB1982}
 M.~A. Paalanen, D.~C. Tsui, and A.~C. Gossard.
 \newblock Quantized hall effect at low temperatures.
 \newblock {\em Phys. Rev. B}, 25:5566--5569, Apr 1982.
+
+\bibitem{Klitzing_RevModPhys1986}
+Klaus von Klitzing.
+\newblock The quantized hall effect.
+\newblock {\em Rev. Mod. Phys.}, 58:519--531, Jul 1986.
 
 \end{thebibliography}
