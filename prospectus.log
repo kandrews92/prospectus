@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  27 JAN 2016 17:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  28 JAN 2016 10:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2645,14 +2645,27 @@ although it is yet undefined on input line 2.
 Package acronym Info: Label `acro:2DHG' newly defined as it shall be overridden
 
 although it is yet undefined on input line 2.
+Package acronym Info: Label `acro:IQHE' newly defined as it shall be overridden
+
+although it is yet undefined on input line 2.
 Package acronym Info: Label `acro:SdH' newly defined as it shall be overridden
 although it is yet undefined on input line 2.
 Package acronym Info: Label `acro:SB' newly defined as it shall be overridden
 although it is yet undefined on input line 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
 Package acronym Info: Label `acro:SBH' newly defined as it shall be overridden
-although it is yet undefined on input line 8.
+although it is yet undefined on input line 7.
 Package acronym Info: Label `acro:TLM' newly defined as it shall be overridden
-although it is yet undefined on input line 12.
+although it is yet undefined on input line 7.
 
 <figs/results/transmission_line/transmission_device_pic_5-5_21_10232015_no1.png
 , id=126, 362.3136pt x 265.9536pt>
@@ -2662,8 +2675,8 @@ File: figs/results/transmission_line/transmission_device_pic_5-5_21_10232015_no
 <use figs/results/transmission_line/transmission_device_pic_5-5_21_10232015_no1
 .png>
 Package pdftex.def Info: figs/results/transmission_line/transmission_device_pic
-_5-5_21_10232015_no1.png used on input line 22.
-(pdftex.def)             Requested size: 170.7131pt x 113.81403pt.
+_5-5_21_10232015_no1.png used on input line 10.
+(pdftex.def)             Requested size: 199.16805pt x 142.26956pt.
 
 <figs/results/transmission_line/transmission_resistance_plot_pic_5-5_21_1023201
 5_no1.png, id=127, 542.025pt x 416.55624pt>
@@ -2673,386 +2686,50 @@ File: figs/results/transmission_line/transmission_resistance_plot_pic_5-5_21_10
 <use figs/results/transmission_line/transmission_resistance_plot_pic_5-5_21_102
 32015_no1.png>
 Package pdftex.def Info: figs/results/transmission_line/transmission_resistance
-_plot_pic_5-5_21_10232015_no1.png used on input line 27.
-(pdftex.def)             Requested size: 199.1649pt x 142.26285pt.
-
-<figs/results/transmission_line/transmission_device_pic_56_21_10232015_no2.png,
- id=128, 462.22687pt x 321.45094pt>
-File: figs/results/transmission_line/transmission_device_pic_56_21_10232015_no2
-.png Graphic file (type png)
-
-<use figs/results/transmission_line/transmission_device_pic_56_21_10232015_no2.
-png>
-Package pdftex.def Info: figs/results/transmission_line/transmission_device_pic
-_56_21_10232015_no2.png used on input line 32.
-(pdftex.def)             Requested size: 170.71799pt x 113.80931pt.
+_plot_pic_5-5_21_10232015_no1.png used on input line 28.
+(pdftex.def)             Requested size: 120.91653pt x 99.58145pt.
 
 <figs/results/transmission_line/transmission_resistance_plot_pic_56_21_10232015
-_no2.png, id=129, 542.025pt x 416.55624pt>
+_no2.png, id=128, 542.025pt x 416.55624pt>
 File: figs/results/transmission_line/transmission_resistance_plot_pic_56_21_102
 32015_no2.png Graphic file (type png)
 
 <use figs/results/transmission_line/transmission_resistance_plot_pic_56_21_1023
 2015_no2.png>
 Package pdftex.def Info: figs/results/transmission_line/transmission_resistance
-_plot_pic_56_21_10232015_no2.png used on input line 37.
-(pdftex.def)             Requested size: 199.1649pt x 142.26285pt.
-
-<figs/results/transmission_line/transmission_device_pic_-66_21_11182015_no2.png
-, id=130, 359.09157pt x 287.57437pt>
-File: figs/results/transmission_line/transmission_device_pic_-66_21_11182015_no
-2.png Graphic file (type png)
-
-<use figs/results/transmission_line/transmission_device_pic_-66_21_11182015_no2
-.png>
-Package pdftex.def Info: figs/results/transmission_line/transmission_device_pic
-_-66_21_11182015_no2.png used on input line 42.
-(pdftex.def)             Requested size: 170.7182pt x 113.81223pt.
+_plot_pic_56_21_10232015_no2.png used on input line 33.
+(pdftex.def)             Requested size: 120.91653pt x 99.58145pt.
 
 <figs/results/transmission_line/transmission_resistance_plot_pic_-66_21_1118201
-5_no2.png, id=131, 542.025pt x 416.55624pt>
+5_no2.png, id=129, 542.025pt x 416.55624pt>
 File: figs/results/transmission_line/transmission_resistance_plot_pic_-66_21_11
 182015_no2.png Graphic file (type png)
 
 <use figs/results/transmission_line/transmission_resistance_plot_pic_-66_21_111
 82015_no2.png>
 Package pdftex.def Info: figs/results/transmission_line/transmission_resistance
-_plot_pic_-66_21_11182015_no2.png used on input line 47.
-(pdftex.def)             Requested size: 199.1649pt x 142.26285pt.
-
-
-LaTeX Warning: Float too large for page by 9.53503pt on input line 50.
-
-[14
+_plot_pic_-66_21_11182015_no2.png used on input line 38.
+(pdftex.def)             Requested size: 120.91653pt x 99.58145pt.
+ [14
 
 
 
 ]
-<figs/results/hall_bar_doped_channel/hall_bar_device_pic_5-5_21_10152015_no2_do
-ping_scheme.png, id=137, 586.19pt x 498.663pt>
-File: figs/results/hall_bar_doped_channel/hall_bar_device_pic_5-5_21_10152015_n
-o2_doping_scheme.png Graphic file (type png)
+<figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no1.png, id=1
+34, 616.704pt x 462.528pt>
+File: figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no1.png 
+Graphic file (type png)
 
-<use figs/results/hall_bar_doped_channel/hall_bar_device_pic_5-5_21_10152015_no
-2_doping_scheme.png>
+<use figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no1.png>
 Package pdftex.def Info: figs/results/hall_bar_doped_channel/hall_bar_device_pi
-c_5-5_21_10152015_no2_doping_scheme.png used on input line 60.
-(pdftex.def)             Requested size: 170.71526pt x 113.80743pt.
-
-<figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no2_doping_sc
-heme.png, id=138, 566.115pt x 443.256pt>
-File: figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no2_dopi
-ng_scheme.png Graphic file (type png)
-
-<use figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no2_dopin
-g_scheme.png>
-Package pdftex.def Info: figs/results/hall_bar_doped_channel/hall_bar_device_pi
-c_11192015_no2_doping_scheme.png used on input line 65.
-(pdftex.def)             Requested size: 170.7169pt x 113.80997pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--69
-
- []
-
-
-<figs/results/hall_bar_doped_channel/hall_bar_device_pic_5-5_21_10152015_no2_co
-nduct_vs_Vbg_all_temps.png, id=139, 542.025pt x 416.55624pt>
-File: figs/results/hall_bar_doped_channel/hall_bar_device_pic_5-5_21_10152015_n
-o2_conduct_vs_Vbg_all_temps.png Graphic file (type png)
-
-<use figs/results/hall_bar_doped_channel/hall_bar_device_pic_5-5_21_10152015_no
-2_conduct_vs_Vbg_all_temps.png>
-Package pdftex.def Info: figs/results/hall_bar_doped_channel/hall_bar_device_pi
-c_5-5_21_10152015_no2_conduct_vs_Vbg_all_temps.png used on input line 75.
-(pdftex.def)             Requested size: 199.1649pt x 142.26285pt.
-
-<figs/results/hall_bar_doped_channel/hall_bar_device_pic_5-5_21_10152015_no2_mu
-_hall_vs_Vbg_all_temps_linear.png, id=140, 542.025pt x 416.55624pt>
-File: figs/results/hall_bar_doped_channel/hall_bar_device_pic_5-5_21_10152015_n
-o2_mu_hall_vs_Vbg_all_temps_linear.png Graphic file (type png)
-
-<use figs/results/hall_bar_doped_channel/hall_bar_device_pic_5-5_21_10152015_no
-2_mu_hall_vs_Vbg_all_temps_linear.png>
-Package pdftex.def Info: figs/results/hall_bar_doped_channel/hall_bar_device_pi
-c_5-5_21_10152015_no2_mu_hall_vs_Vbg_all_temps_linear.png used on input line 80
-.
-(pdftex.def)             Requested size: 199.1649pt x 142.26285pt.
-
-<figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no1_conduct_v
-s_Vbg_all_temps.png, id=141, 542.025pt x 463.7325pt>
-File: figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no1_cond
-uct_vs_Vbg_all_temps.png Graphic file (type png)
-
-<use figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no1_condu
-ct_vs_Vbg_all_temps.png>
-Package pdftex.def Info: figs/results/hall_bar_doped_channel/hall_bar_device_pi
-c_11192015_no1_conduct_vs_Vbg_all_temps.png used on input line 90.
-(pdftex.def)             Requested size: 199.1649pt x 142.26254pt.
-
-<figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no1_mu_hall_v
-s_Vbg_all_temps.png, id=142, 542.025pt x 416.55624pt>
-File: figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no1_mu_h
-all_vs_Vbg_all_temps.png Graphic file (type png)
-
-<use figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no1_mu_ha
-ll_vs_Vbg_all_temps.png>
-Package pdftex.def Info: figs/results/hall_bar_doped_channel/hall_bar_device_pi
-c_11192015_no1_mu_hall_vs_Vbg_all_temps.png used on input line 95.
-(pdftex.def)             Requested size: 199.1649pt x 142.26285pt.
-
-<figs/results/hall_diagram.png, id=143, 363.60844pt x 280.04625pt>
-File: figs/results/hall_diagram.png Graphic file (type png)
-
-<use figs/results/hall_diagram.png>
-Package pdftex.def Info: figs/results/hall_diagram.png used on input line 122.
-(pdftex.def)             Requested size: 227.62643pt x 170.72112pt.
-
-<figs/results/hall_bar_doped_channel/Vds-Id_1V_-1V-Vbg_20V_-70V_T1-D_T5_S_300K_
-plot_modified_11192015_no2.png, id=144, 542.025pt x 416.55624pt>
-File: figs/results/hall_bar_doped_channel/Vds-Id_1V_-1V-Vbg_20V_-70V_T1-D_T5_S_
-300K_plot_modified_11192015_no2.png Graphic file (type png)
-
-<use figs/results/hall_bar_doped_channel/Vds-Id_1V_-1V-Vbg_20V_-70V_T1-D_T5_S_3
-00K_plot_modified_11192015_no2.png>
-Package pdftex.def Info: figs/results/hall_bar_doped_channel/Vds-Id_1V_-1V-Vbg_
-20V_-70V_T1-D_T5_S_300K_plot_modified_11192015_no2.png used on input line 132.
-(pdftex.def)             Requested size: 142.26302pt x 92.46895pt.
-
-<figs/results/hall_bar_doped_channel/Charge_density_Vs_Vbg_different_Temp_plot_
-modified_11192015_no1.png, id=145, 542.025pt x 416.55624pt>
-File: figs/results/hall_bar_doped_channel/Charge_density_Vs_Vbg_different_Temp_
-plot_modified_11192015_no1.png Graphic file (type png)
-
-<use figs/results/hall_bar_doped_channel/Charge_density_Vs_Vbg_different_Temp_p
-lot_modified_11192015_no1.png>
-Package pdftex.def Info: figs/results/hall_bar_doped_channel/Charge_density_Vs_
-Vbg_different_Temp_plot_modified_11192015_no1.png used on input line 137.
-(pdftex.def)             Requested size: 142.26302pt x 92.46895pt.
-
-<figs/results/hall_bar_doped_channel/HallMobility_Vs_T_for_fixed_carrier_consen
-trations_plot_modified_11192015_no2.png, id=146, 542.025pt x 416.55624pt>
-File: figs/results/hall_bar_doped_channel/HallMobility_Vs_T_for_fixed_carrier_c
-onsentrations_plot_modified_11192015_no2.png Graphic file (type png)
-
-<use figs/results/hall_bar_doped_channel/HallMobility_Vs_T_for_fixed_carrier_co
-nsentrations_plot_modified_11192015_no2.png>
-Package pdftex.def Info: figs/results/hall_bar_doped_channel/HallMobility_Vs_T_
-for_fixed_carrier_consentrations_plot_modified_11192015_no2.png used on input l
-ine 142.
-(pdftex.def)             Requested size: 142.26302pt x 92.46895pt.
-
-<figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate_5-5_
-21_no1.png, id=147, 187.902pt x 193.2018pt>
-File: figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate
-_5-5_21_no1.png Graphic file (type png)
-
-<use figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate_
-5-5_21_no1.png>
-Package pdftex.def Info: figs/results/hall_bar_doped_channel_doped_contacts/pWS
-e2_on_hBN_substrate_5-5_21_no1.png used on input line 152.
-(pdftex.def)             Requested size: 85.35791pt x 113.81412pt.
-
-Underfull \hbox (badness 6332) in paragraph at lines 152--152
-[]\OT1/cmr/m/n/8 (a) |$0\OML/cmm/m/it/8 :\OT1/cmr/m/n/8 01%$ Nb doped
- []
-
-
-<figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate_with
-_top_hBN_5-5_21_no1.png, id=148, 179.2296pt x 193.6836pt>
-File: figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate
-_with_top_hBN_5-5_21_no1.png Graphic file (type png)
-
-<use figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate_
-with_top_hBN_5-5_21_no1.png>
-Package pdftex.def Info: figs/results/hall_bar_doped_channel_doped_contacts/pWS
-e2_on_hBN_substrate_with_top_hBN_5-5_21_no1.png used on input line 157.
-(pdftex.def)             Requested size: 85.35918pt x 113.81128pt.
-
-<figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate_with
-_top_hBN_doped_contact_transfer_5-5_21_no1.png, id=149, 165.2574pt x 199.4652pt
->
-File: figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate
-_with_top_hBN_doped_contact_transfer_5-5_21_no1.png Graphic file (type png)
-
-<use figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate_
-with_top_hBN_doped_contact_transfer_5-5_21_no1.png>
-Package pdftex.def Info: figs/results/hall_bar_doped_channel_doped_contacts/pWS
-e2_on_hBN_substrate_with_top_hBN_doped_contact_transfer_5-5_21_no1.png used on 
-input line 162.
-(pdftex.def)             Requested size: 85.35939pt x 113.812pt.
-
-<figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_device_with_electrode
-s_5-5_21_no1.png, id=150, 295.8252pt x 211.992pt>
-File: figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_device_with_elec
-trodes_5-5_21_no1.png Graphic file (type png)
-
-<use figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_device_with_elect
-rodes_5-5_21_no1.png>
-Package pdftex.def Info: figs/results/hall_bar_doped_channel_doped_contacts/pWS
-e2_device_with_electrodes_5-5_21_no1.png used on input line 167.
-(pdftex.def)             Requested size: 85.35828pt x 113.81407pt.
-
-Underfull \hbox (badness 1616) in paragraph at lines 167--167
-\OT1/cmr/m/n/8 nel di-men-sions: $\OML/cmm/m/it/8 L \OT1/cmr/m/n/8 =
- []
-
-
-<figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate_-6-5
-_21_no1.png, id=151, 222.1098pt x 157.5486pt>
-File: figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate
-_-6-5_21_no1.png Graphic file (type png)
-
-<use figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate_
--6-5_21_no1.png>
-Package pdftex.def Info: figs/results/hall_bar_doped_channel_doped_contacts/pWS
-e2_on_hBN_substrate_-6-5_21_no1.png used on input line 177.
-(pdftex.def)             Requested size: 99.58585pt x 71.13179pt.
-
-Underfull \hbox (badness 6412) in paragraph at lines 177--177
-\OT1/cmr/m/n/8 trans-ferred to hBN sub-
- []
-
-
-<figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate_with
-_top_hBN_-6-5_21_no1.png, id=152, 217.7736pt x 152.2488pt>
-File: figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate
-_with_top_hBN_-6-5_21_no1.png Graphic file (type png)
-
-<use figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate_
-with_top_hBN_-6-5_21_no1.png>
-Package pdftex.def Info: figs/results/hall_bar_doped_channel_doped_contacts/pWS
-e2_on_hBN_substrate_with_top_hBN_-6-5_21_no1.png used on input line 182.
-(pdftex.def)             Requested size: 99.58557pt x 71.13412pt.
-
-<figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate_with
-_top_hBN_doped_contact_transfer_-6-5_21_no1.png, id=153, 211.992pt x 151.2852pt
->
-File: figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate
-_with_top_hBN_doped_contact_transfer_-6-5_21_no1.png Graphic file (type png)
-
-<use figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate_
-with_top_hBN_doped_contact_transfer_-6-5_21_no1.png>
-Package pdftex.def Info: figs/results/hall_bar_doped_channel_doped_contacts/pWS
-e2_on_hBN_substrate_with_top_hBN_doped_contact_transfer_-6-5_21_no1.png used on
- input line 187.
-(pdftex.def)             Requested size: 99.58772pt x 71.13174pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 187--187
-[]\OT1/cmr/m/n/8 (c) |De-gen-er-ately doped
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 187--187
-\OT1/cmr/m/n/8 ($0\OML/cmm/m/it/8 :\OT1/cmr/m/n/8 5%$ Nb doped WSe[])
- []
-
-
-<figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_device_with_electrode
-s_-6-5_21_no1.png, id=154, 272.217pt x 204.2832pt>
-File: figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_device_with_elec
-trodes_-6-5_21_no1.png Graphic file (type png)
-
-<use figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_device_with_elect
-rodes_-6-5_21_no1.png>
-Package pdftex.def Info: figs/results/hall_bar_doped_channel_doped_contacts/pWS
-e2_device_with_electrodes_-6-5_21_no1.png used on input line 192.
-(pdftex.def)             Requested size: 99.58473pt x 71.13235pt.
-
-Underfull \hbox (badness 2617) in paragraph at lines 192--192
-\OT1/cmr/m/n/8 doped WSe[] chan-nel and
- []
-
-
-Underfull \hbox (badness 2042) in paragraph at lines 192--192
-\OML/cmm/m/it/8 L \OT1/cmr/m/n/8 = 9\OML/cmm/m/it/8 :\OT1/cmr/m/n/8 0 []$ and $
-\OML/cmm/m/it/8 W \OT1/cmr/m/n/8 =
- []
-
-
-<figs/results/hall_bar_doped_channel_doped_contacts/Two_Probe_FE_Mobility_Vs_T_
-Vds_-1V_-50mV_plot_pre_anneal_5-5_21_no1.png, id=155, 542.025pt x 416.55624pt>
-File: figs/results/hall_bar_doped_channel_doped_contacts/Two_Probe_FE_Mobility_
-Vs_T_Vds_-1V_-50mV_plot_pre_anneal_5-5_21_no1.png Graphic file (type png)
-
-<use figs/results/hall_bar_doped_channel_doped_contacts/Two_Probe_FE_Mobility_V
-s_T_Vds_-1V_-50mV_plot_pre_anneal_5-5_21_no1.png>
-Package pdftex.def Info: figs/results/hall_bar_doped_channel_doped_contacts/Two
-_Probe_FE_Mobility_Vs_T_Vds_-1V_-50mV_plot_pre_anneal_5-5_21_no1.png used on in
-put line 202.
-(pdftex.def)             Requested size: 170.71396pt x 113.80647pt.
-
-<figs/results/hall_bar_doped_channel_doped_contacts/Two_Probe_FE_Mobility_Vs_T_
-Vds_-1V_-50mV_plot_post_anneal_5-5_21_no1.png, id=156, 542.025pt x 416.55624pt>
-File: figs/results/hall_bar_doped_channel_doped_contacts/Two_Probe_FE_Mobility_
-Vs_T_Vds_-1V_-50mV_plot_post_anneal_5-5_21_no1.png Graphic file (type png)
-
-<use figs/results/hall_bar_doped_channel_doped_contacts/Two_Probe_FE_Mobility_V
-s_T_Vds_-1V_-50mV_plot_post_anneal_5-5_21_no1.png>
-Package pdftex.def Info: figs/results/hall_bar_doped_channel_doped_contacts/Two
-_Probe_FE_Mobility_Vs_T_Vds_-1V_-50mV_plot_post_anneal_5-5_21_no1.png used on i
-nput line 207.
-(pdftex.def)             Requested size: 170.71396pt x 113.80647pt.
-
-<figs/results/hall_bar_doped_channel_doped_contacts/Conductivity_Vs_Vbg_differe
-nt_T_vds_-1V_plot_-6-5_21_no1.png, id=157, 542.025pt x 416.55624pt>
-File: figs/results/hall_bar_doped_channel_doped_contacts/Conductivity_Vs_Vbg_di
-fferent_T_vds_-1V_plot_-6-5_21_no1.png Graphic file (type png)
-
-<use figs/results/hall_bar_doped_channel_doped_contacts/Conductivity_Vs_Vbg_dif
-ferent_T_vds_-1V_plot_-6-5_21_no1.png>
-Package pdftex.def Info: figs/results/hall_bar_doped_channel_doped_contacts/Con
-ductivity_Vs_Vbg_different_T_vds_-1V_plot_-6-5_21_no1.png used on input line 21
-7.
-(pdftex.def)             Requested size: 170.71396pt x 113.80647pt.
-
-<figs/results/hall_bar_doped_channel_doped_contacts/Two_Probe_FE_Mobility_Vs_T_
-Comparison_plot_Vds_-1V_-50mV_-6-5_21_no1.png, id=158, 542.025pt x 416.55624pt>
-File: figs/results/hall_bar_doped_channel_doped_contacts/Two_Probe_FE_Mobility_
-Vs_T_Comparison_plot_Vds_-1V_-50mV_-6-5_21_no1.png Graphic file (type png)
-
-<use figs/results/hall_bar_doped_channel_doped_contacts/Two_Probe_FE_Mobility_V
-s_T_Comparison_plot_Vds_-1V_-50mV_-6-5_21_no1.png>
-Package pdftex.def Info: figs/results/hall_bar_doped_channel_doped_contacts/Two
-_Probe_FE_Mobility_Vs_T_Comparison_plot_Vds_-1V_-50mV_-6-5_21_no1.png used on i
-nput line 222.
-(pdftex.def)             Requested size: 170.71396pt x 113.80647pt.
-) [15] [16 <./figs/results/transmission_line/transmission_device_pic_5-5_21_102
-32015_no1.png> <./figs/results/transmission_line/transmission_resistance_plot_p
-ic_5-5_21_10232015_no1.png> <./figs/results/transmission_line/transmission_devi
-ce_pic_56_21_10232015_no2.png> <./figs/results/transmission_line/transmission_r
-esistance_plot_pic_56_21_10232015_no2.png> <./figs/results/transmission_line/tr
-ansmission_device_pic_-66_21_11182015_no2.png> <./figs/results/transmission_lin
-e/transmission_resistance_plot_pic_-66_21_11182015_no2.png>] [17 <./figs/result
-s/hall_bar_doped_channel/hall_bar_device_pic_5-5_21_10152015_no2_doping_scheme.
-png> <./figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no2_do
-ping_scheme.png> <./figs/results/hall_bar_doped_channel/hall_bar_device_pic_5-5
-_21_10152015_no2_conduct_vs_Vbg_all_temps.png> <./figs/results/hall_bar_doped_c
-hannel/hall_bar_device_pic_5-5_21_10152015_no2_mu_hall_vs_Vbg_all_temps_linear.
-png> <./figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no1_co
-nduct_vs_Vbg_all_temps.png> <./figs/results/hall_bar_doped_channel/hall_bar_dev
-ice_pic_11192015_no1_mu_hall_vs_Vbg_all_temps.png>] [18 <./figs/results/hall_di
-agram.png> <./figs/results/hall_bar_doped_channel/Vds-Id_1V_-1V-Vbg_20V_-70V_T1
--D_T5_S_300K_plot_modified_11192015_no2.png> <./figs/results/hall_bar_doped_cha
-nnel/Charge_density_Vs_Vbg_different_Temp_plot_modified_11192015_no1.png> <./fi
-gs/results/hall_bar_doped_channel/HallMobility_Vs_T_for_fixed_carrier_consentra
-tions_plot_modified_11192015_no2.png> <./figs/results/hall_bar_doped_channel_do
-ped_contacts/pWSe2_on_hBN_substrate_5-5_21_no1.png> <./figs/results/hall_bar_do
-ped_channel_doped_contacts/pWSe2_on_hBN_substrate_with_top_hBN_5-5_21_no1.png> 
-<./figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate_wi
-th_top_hBN_doped_contact_transfer_5-5_21_no1.png> <./figs/results/hall_bar_dope
-d_channel_doped_contacts/pWSe2_device_with_electrodes_5-5_21_no1.png>] [19 <./f
-igs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate_-6-5_2
-1_no1.png> <./figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_s
-ubstrate_with_top_hBN_-6-5_21_no1.png> <./figs/results/hall_bar_doped_channel_d
-oped_contacts/pWSe2_on_hBN_substrate_with_top_hBN_doped_contact_transfer_-6-5_2
-1_no1.png> <./figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_device_w
-ith_electrodes_-6-5_21_no1.png> <./figs/results/hall_bar_doped_channel_doped_co
-ntacts/Two_Probe_FE_Mobility_Vs_T_Vds_-1V_-50mV_plot_pre_anneal_5-5_21_no1.png>
- <./figs/results/hall_bar_doped_channel_doped_contacts/Two_Probe_FE_Mobility_Vs
-_T_Vds_-1V_-50mV_plot_post_anneal_5-5_21_no1.png> <./figs/results/hall_bar_dope
-d_channel_doped_contacts/Conductivity_Vs_Vbg_different_T_vds_-1V_plot_-6-5_21_n
-o1.png> <./figs/results/hall_bar_doped_channel_doped_contacts/Two_Probe_FE_Mobi
-lity_Vs_T_Comparison_plot_Vds_-1V_-50mV_-6-5_21_no1.png>]
+c_11192015_no1.png used on input line 69.
+(pdftex.def)             Requested size: 199.16547pt x 142.26709pt.
+) [15 <./figs/results/transmission_line/transmission_device_pic_5-5_21_10232015
+_no1.png> <./figs/results/transmission_line/transmission_resistance_plot_pic_5-
+5_21_10232015_no1.png> <./figs/results/transmission_line/transmission_resistanc
+e_plot_pic_56_21_10232015_no2.png> <./figs/results/transmission_line/transmissi
+on_resistance_plot_pic_-66_21_11182015_no2.png>] [16 <./figs/results/hall_bar_d
+oped_channel/hall_bar_device_pic_11192015_no1.png>]
 \openout2 = `chapters/future.aux'.
 
  (./chapters/future.tex
@@ -3060,76 +2737,72 @@ Chapter 4.
 Package acronym Info: Label `acro:2DES' newly defined as it shall be overridden
 
 although it is yet undefined on input line 3.
-Package acronym Info: Label `acro:IQHE' newly defined as it shall be overridden
-
-although it is yet undefined on input line 3.
-[20
+[17
 
 
 
 ]
-<figs/future/IQHE_data_RHOxy_RHOxx.png, id=210, 295.85532pt x 357.58594pt>
+<figs/future/IQHE_data_RHOxy_RHOxx.png, id=152, 295.85532pt x 357.58594pt>
 File: figs/future/IQHE_data_RHOxy_RHOxx.png Graphic file (type png)
 
 <use figs/future/IQHE_data_RHOxy_RHOxx.png>
 Package pdftex.def Info: figs/future/IQHE_data_RHOxy_RHOxx.png used on input li
 ne 33.
 (pdftex.def)             Requested size: 142.26625pt x 199.17186pt.
-) [21 <./figs/future/IQHE_data_RHOxy_RHOxx.png>] (./prospectus.bbl [22
+) [18 <./figs/future/IQHE_data_RHOxy_RHOxx.png>] (./prospectus.bbl [19
 
 
-] [23]
+] [20]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
- [24] [25]) [26] [27
+ [21] [22]) [23] [24
 
 
 ]
 \openout2 = `backmatter/acronyms.aux'.
 
 
-(./backmatter/acronyms.tex [28
+(./backmatter/acronyms.tex [25
 
-]) [29] (./prospectus.aux
+]) [26] (./prospectus.aux
 (./frontmatter/title.aux) (./frontmatter/abstract.aux)
 (./frontmatter/acknowledgements.aux) (./chapters/intro.aux)
 (./chapters/experimental.aux) (./chapters/results.aux) (./chapters/future.aux)
 (./backmatter/acronyms.aux)) ) 
 Here is how much of TeX's memory you used:
- 28927 strings out of 493109
- 616643 string characters out of 6138587
- 613531 words of memory out of 5000000
- 31821 multiletter control sequences out of 15000+600000
- 20914 words of font info for 79 fonts, out of 8000000 for 9000
+ 28633 strings out of 493109
+ 598071 string characters out of 6138587
+ 605531 words of memory out of 5000000
+ 31555 multiletter control sequences out of 15000+600000
+ 18233 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,17n,69p,10402b,758s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2014/texmf-dist/fonts/enc/dvips/cm-su
 per/cm-super-ts1.enc}<c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmbx10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.p
 fb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb><c:/tex
-live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><c:/texlive/2014/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2014/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2014/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2014/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmmi5.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmmi7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8
-.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/t
-exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2014
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2014/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2014/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmsy7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsy8.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.p
-fb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><
-c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/t
-exlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb><c:/texliv
-e/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><c:/texlive/2014/tex
-mf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on prospectus.pdf (36 pages, 25100048 bytes).
+live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2014
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2014/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2014/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2014/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi8.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10
+.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/te
+xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2014/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2014/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2014/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy8.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmti10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/ms
+am10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10
+.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
+<c:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><c:/texliv
+e/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on prospectus.pdf (33 pages, 21220048 bytes).
 PDF statistics:
- 316 PDF objects out of 1000 (max. 8388607)
- 154 compressed objects within 2 object streams
+ 256 PDF objects out of 1000 (max. 8388607)
+ 145 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 308 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 193 words of extra memory for PDF output out of 10000 (max. 10000000)
 

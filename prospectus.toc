@@ -27,15 +27,14 @@
 \contentsline {subsection}{\numberline {2.5.3}Metal Deposition}{11}
 \contentsline {section}{\numberline {2.6}Electrical Measurements and Characterization}{11}
 \contentsline {subsection}{\numberline {2.6.1}Measurement Devices}{11}
-\contentsline {chapter}{\numberline {3}Studying Instrinsic Channel Properties, Scattering Mechanisms, and Quantum Transport}{14}
-\contentsline {section}{\numberline {3.1}$p$-type \ch {MoS2} Semiconductor Doping}{14}
-\contentsline {subsection}{\numberline {3.1.1}$p$-type \ch {MoS2} and \ch {WSe2} Semiconductor Contact Resistance}{14}
-\contentsline {subsection}{\numberline {3.1.2}$p$-type \ch {MoS2} and \ch {WSe2} Semiconductor Intrinsic Channel Properties}{15}
-\contentsline {chapter}{\numberline {4}Future Works and Conclusion}{20}
-\contentsline {section}{\numberline {4.1}Integer Quantum Hall Effects}{20}
-\contentsline {subsection}{\numberline {4.1.1}Theoretical Background}{20}
-\contentsline {subsection}{\numberline {4.1.2}Implementation and Measuring the Integer Quantum Hall Effect}{21}
-\contentsline {section}{\numberline {4.2}Shubnikov-de Haas Oscillations}{21}
-\contentsline {section}{\numberline {4.3}Limitations}{21}
-\contentsline {chapter}{References}{22}
-\contentsline {chapter}{Appendices}{27}
+\contentsline {chapter}{\numberline {3}Intrinsic Channel Properties and Scattering Mechanisms}{14}
+\contentsline {section}{\numberline {3.1}$p$-type \ch {WSe2} Semiconductor Contact Resistance}{14}
+\contentsline {section}{\numberline {3.2}$p$-type \ch {WSe2} Semiconductor Intrinsic Channel Properties}{16}
+\contentsline {chapter}{\numberline {4}Future Works and Conclusion}{17}
+\contentsline {section}{\numberline {4.1}Integer Quantum Hall Effects}{17}
+\contentsline {subsection}{\numberline {4.1.1}Theoretical Background}{17}
+\contentsline {subsection}{\numberline {4.1.2}Implementation and Measuring the Integer Quantum Hall Effect}{18}
+\contentsline {section}{\numberline {4.2}Shubnikov-de Haas Oscillations}{18}
+\contentsline {section}{\numberline {4.3}Limitations}{18}
+\contentsline {chapter}{References}{19}
+\contentsline {chapter}{Appendices}{24}
