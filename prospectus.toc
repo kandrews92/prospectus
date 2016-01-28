@@ -31,11 +31,11 @@
 \contentsline {section}{\numberline {3.1}$p$-type \ch {WSe2} Semiconductor Contact Resistance}{14}
 \contentsline {section}{\numberline {3.2}$p$-type \ch {WSe2} Hall Effect Measurements}{16}
 \contentsline {section}{\numberline {3.3}$p$-type \ch {WSe2} Field-Effect Mobility}{17}
-\contentsline {chapter}{\numberline {4}Future Works and Conclusion}{20}
-\contentsline {section}{\numberline {4.1}Integer Quantum Hall Effects}{20}
-\contentsline {subsection}{\numberline {4.1.1}Theoretical Background}{20}
-\contentsline {subsection}{\numberline {4.1.2}Implementation and Measuring the Integer Quantum Hall Effect}{21}
-\contentsline {section}{\numberline {4.2}Shubnikov-de Haas Oscillations}{21}
-\contentsline {section}{\numberline {4.3}Limitations}{21}
-\contentsline {chapter}{References}{22}
-\contentsline {chapter}{Appendices}{27}
+\contentsline {chapter}{\numberline {4}Future Works and Conclusion}{21}
+\contentsline {section}{\numberline {4.1}Integer Quantum Hall Effects}{21}
+\contentsline {subsection}{\numberline {4.1.1}Theoretical Background}{21}
+\contentsline {subsection}{\numberline {4.1.2}Implementation and Measuring the Integer Quantum Hall Effect}{22}
+\contentsline {section}{\numberline {4.2}Shubnikov-de Haas Oscillations}{22}
+\contentsline {section}{\numberline {4.3}Limitations}{22}
+\contentsline {chapter}{References}{23}
+\contentsline {chapter}{Appendices}{28}

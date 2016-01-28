@@ -63,14 +63,9 @@ Using this method the resistance as a function of length is shown in figs.~\subr
 \end{table}
 
 \section{$p$-type \ch{WSe2} Hall Effect Measurements}\label{sec:pWSe2_hall}
-In addition to knowing the how doping can be used to lower the \acs{SBH}, doping also affects the intrinsic channel properties. To study how these properties are effected several measurements were taken. First, Hall bar devices were fabricated. These devices were similar to those used in sec.~\ref{sec:pWSe2_contacts}, the channel was doped with the same amount of \ch{Nb}. The only differing aspect of these devices was the electrode design. Fig.~\ref{fig:hall_bar_device1} shows an example of one such Hall bar device. 
-\begin{figure}[ht]
-	\centering
-	\includegraphics[height=5cm,width=7cm]{figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no1}
-	\caption[Hall bar device with $0.05\%$ \ch{Nb} doped \ch{WSe2} channel]{Hall bar device with $0.05\%$ \ch{Nb} doped \ch{WSe2} channel. Sample thickness is $7.74\unita{nm}$ with an average width $W_\mathrm{avg}=5.74\unita{\mu m}$.}
-	\label{fig:hall_bar_device1}
-\end{figure}
-The Hall effect measurement is widely used for semiconductor characterization as it gives useful electrical properties such as the resistivity, carrier density, and mobility \cite{Schroder_Semiconductor2006}. Consider the setup shown in fig.~\ref{fig:hall_diagram}, where the length $L$ is taken in the $x$-direction, width $w$ in the $y$-direction, thickness $t$ in the $z$ direction, and $e$ denotes a charge carrier which can be either an electron or a hole. The current $I$ flows in the positive $x$-direction and is given by 
+In addition to knowing the how doping can be used to lower the \acs{SBH}, doping also affects the intrinsic channel properties. To study how these properties are effected several measurements were taken. First, Hall bar devices were fabricated. These devices were similar to those used in sec.~\ref{sec:pWSe2_contacts}, the channel was doped with the same amount of \ch{Nb}. The only differing aspect of these devices was the electrode design. Fig.~\subref*{fig:hall_bar_device1} shows an example of one such Hall bar device. \\ \\
+
+\noindent The Hall effect measurement is widely used for semiconductor characterization as it gives useful electrical properties such as the resistivity, carrier density, and mobility \cite{Schroder_Semiconductor2006}. Consider the setup shown in fig.~\ref{fig:hall_diagram}, where the length $L$ is taken in the $x$-direction, width $w$ in the $y$-direction, thickness $t$ in the $z$ direction, and $e$ denotes a charge carrier which can be either an electron or a hole. The current $I$ flows in the positive $x$-direction and is given by 
 \begin{equation}\label{eq:hall_current}
 	I = J w t = n e v_x w t,
 \end{equation}
@@ -88,7 +83,15 @@ Finally, by combining eqs.~\ref{eq:hall_current}, \ref{eq:Ey}, and \ref{eq:hall_
 \end{equation}
 From eq.~\ref{eq:hall_voltage_final} two forms of the Hall coefficient become evident,
 \begin{equation}\label{eq:RH}
-	R_H = \frac{1}{nq} = \frac{V_H t}{I B}.
+	R_H = \frac{1}{ne} = \frac{V_H t}{I B}.
+\end{equation}
+Since $e$ refers to either holes or electrons, the sign of $R_H$ would also vary in accord with the proper carrier being described in the circumstance. Furthermore the conductivity is given by 
+\begin{equation}\label{eq:hall_conduct}
+	\sigma = n e \mu_H,
+\end{equation}
+where $\sigma$ is the conductivity and $\mu_H$ denotes the Hall mobility. Thus, an expression for the Hall mobility can be found by combining eqs.~\ref{eq:RH} and \ref{eq:hall_conduct} to give
+\begin{equation}\label{eq:mu_H}
+	\mu_H = \frac{\sigma V_H t}{I B}.
 \end{equation}
 \begin{figure}[ht]
 	\centering
@@ -99,7 +102,12 @@ From eq.~\ref{eq:hall_voltage_final} two forms of the Hall coefficient become ev
 \noindent Following this prescribed method to determine the Hall coefficient it was used to find the Hall mobility $\mu_H$ and charge carrier density for lightly doped channel \ch{WSe2} devices.
 \begin{figure}[ht]
 	\centering
-	\subfloat[$T=300K$]{
+	\subfloat[]{
+		\includegraphics[height=3.5cm,width=4.25cm]{figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no1}
+		\label{fig:hall_bar_device1}
+	}
+	\qquad
+	\subfloat[]{
 		\includegraphics[height=3.5cm,width=4.25cm]{figs/results/hall_bar_doped_channel/Vds-Id_1V_-1V-Vbg_20V_-70V_T1-D_T5_S_300K_plot_modified_11192015_no2}
 		\label{fig:11192015_ohmic_contacts}
 	}
@@ -108,13 +116,13 @@ From eq.~\ref{eq:hall_voltage_final} two forms of the Hall coefficient become ev
 		\includegraphics[height=3.5cm,width=4.25cm]{figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no1_conduct_vs_Vbg_all_temps}
 		\label{fig:11192015_conduct_vs_temp}
 	}
-	\qquad
+	%\qquad
+
 	\subfloat[]{
 		\includegraphics[height=3.5cm,width=4.25cm]{figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no1_mu_hall_vs_Vbg_all_temps}
 		\label{fig:11192015_mu_hall_vs_temp}
 	}
-	%\qquad
-
+	\qquad
 	\subfloat[]{
 		\includegraphics[height=3.5cm,width=4.25cm]{figs/results/hall_bar_doped_channel/HallMobility_Vs_T_for_fixed_carrier_consentrations_plot_modified_11192015_no2}
 		\label{fig:11192015_mu_hall_vs_temp_various_n}
@@ -124,13 +132,18 @@ From eq.~\ref{eq:hall_voltage_final} two forms of the Hall coefficient become ev
 		\includegraphics[height=3.5cm,width=4.25cm]{figs/results/hall_bar_doped_channel/Charge_density_Vs_Vbg_different_Temp_plot_modified_11192015_no1}
 		\label{fig:11192015_n_vs_Vbg}
 	}
-	\caption[Hall measurement data for $0.05\%$ \ch{Nb} doped \ch{WSe2} channel]{Main Caption}
+	\caption[Hall measurement data for $0.05\%$ \ch{Nb} doped \ch{WSe2} channel]{\protect\subref{fig:hall_bar_device1} Hall bar device with $0.05\%$ \ch{Nb} doped \ch{WSe2} channel. Hall bar device with $0.05\%$ \ch{Nb} doped \ch{WSe2} channel. Sample thickness is $7.74\unita{nm}$ with an average width $W_\mathrm{avg}=5.74\unita{\mu m}$. \protect\subref{fig:11192015_ohmic_contacts} IV characteristic curves at $T=300K$ for $V_{bg}$ ranging from $-70\unita{V}$ to $20\unita{V}$. \protect\subref{fig:11192015_conduct_vs_temp} Conductivity as a function of $V_{bg}$ for various temperatures. \protect\subref{fig:11192015_mu_hall_vs_temp} Hall mobility as a function of $V_{bg}$ for various temperatures. \protect\subref{fig:11192015_mu_hall_vs_temp_various_n} Hall mobility as a function of temperature for different charge carrier densities. \protect\subref{fig:11192015_n_vs_Vbg} Charge carrier density as a function of $V_{bg}$ for various temperatures.}
 	\label{fig:hall_measurement_data1}
 \end{figure}
-Fig.~\subref*{fig:11192015_ohmic_contacts} illustrates ohmic IV characteristics for the device pictured in fig.~\ref{fig:hall_bar_device1} for $V_{bg}$ ranging from $-70\unita{V}$ to $20\unita{V}$ at $T=300\unita{K}$. Fig.~\subref*{fig:11192015_conduct_vs_temp} shows the conductivity $\sigma$ as a function of $V_{bg}$ for various temperatures. As the temperature increases one notices that the conductivity also increases (WHY IS THIS TRUE?). In addition to the conductivity increasing with temperature, so too, does the Hall mobility $\mu_H$. This fact is shown in fig.~\subref*{fig:11192015_mu_hall_vs_temp}. The Hall mobility as a function of temperature for charge carrier densities $n=-3.5\times 10^{-7}\unita{C}\unitb{cm}{-2}$ and $n=-2.5\times 10^{-7}\unita{C}\unitb{cm}{-2}$ is shown in fig.~\subref*{fig:11192015_mu_hall_vs_temp_various_n}. Fig.~\subref*{fig:11192015_n_vs_Vbg} shows the charge carrier density $n$ as a function of $V_{bg}$ for several temperatures (DOES DATA MAKE SENSE?). 
+
+\noindent Fig.~\subref*{fig:11192015_ohmic_contacts} illustrates ohmic IV characteristics for the device pictured in fig.~\ref{fig:hall_bar_device1} for $V_{bg}$ ranging from $-70\unita{V}$ to $20\unita{V}$ at $T=300\unita{K}$. Fig.~\subref*{fig:11192015_conduct_vs_temp} shows the conductivity $\sigma$ as a function of $V_{bg}$ for various temperatures. As the temperature increases one notices that the conductivity also increases (WHY IS THIS TRUE?). In addition to the conductivity increasing with temperature, so too, does the Hall mobility $\mu_H$. This fact is shown in fig.~\subref*{fig:11192015_mu_hall_vs_temp}. The Hall mobility as a function of temperature for charge carrier densities $n=-3.5\times 10^{-7}\unita{C}\unitb{cm}{-2}$ and $n=-2.5\times 10^{-7}\unita{C}\unitb{cm}{-2}$ is shown in fig.~\subref*{fig:11192015_mu_hall_vs_temp_various_n}. Fig.~\subref*{fig:11192015_n_vs_Vbg} shows the charge carrier density $n$ as a function of $V_{bg}$ for several temperatures (DOES DATA MAKE SENSE?). 
 
 \section{$p$-type \ch{WSe2} Field-Effect Mobility}\label{sec:pWSe2_hbn}
-In an effort to improve on the approaches and results described in secs.~\ref{sec:pWSe2_contacts} and \ref{sec:pWSe2_hall} a new design of device was fabricated. These devices used a $0.01\%$ \ch{Nb} doped \ch{WSe2} (lightly doped)channel with $0.5\%$\ch{Nb} doped \ch{WSe2} (degenerately doped) contacts. The device fabrication process involved transferring \hbn to a \ch{Si}/\ch{SiO2} substrate then transferring the $p$-doped \ch{WSe2} on top of the bottom \hbn creating the channel (see fig.~\subref*{fig:pWSe2_doped_contacts_and_channel_step1_pt2}). Once the $p$-doped \ch{WSe2} is on the bottom \hbn substrate then another layer of \hbn is transferred to cover the channel (see fig.~\subref*{fig:pWSe2_doped_contacts_and_channel_step2_pt2}). Next, the degenerately doped \ch{WSe2} contacts are transferred onto the device (see fig.~\subref*{fig:pWSe2_doped_contacts_and_channel_step3_pt2}). Finally, the electrodes are designed and the usual device fabrication steps ensue, fig.~\subref*{fig:pWSe2_doped_contacts_and_channel_final_device_pt2} shows an example of a measurement-ready device. \\ \\
+In an effort to improve on the approaches and results described in secs.~\ref{sec:pWSe2_contacts} and \ref{sec:pWSe2_hall} a new design of device was fabricated. These devices used a $0.01\%$ \ch{Nb} doped \ch{WSe2} (lightly doped)channel with $0.5\%$\ch{Nb} doped \ch{WSe2} (degenerately doped) contacts. The device fabrication process involved transferring \hbn to a \ch{Si}/\ch{SiO2} substrate then transferring the $p$-doped \ch{WSe2} on top of the bottom \hbn creating the channel (see fig.~\subref*{fig:pWSe2_doped_contacts_and_channel_step1_pt2}). Once the $p$-doped \ch{WSe2} is on the bottom \hbn substrate then another layer of \hbn is transferred to cover the channel (see fig.~\subref*{fig:pWSe2_doped_contacts_and_channel_step2_pt2}). Next, the degenerately doped \ch{WSe2} contacts are transferred onto the device (see fig.~\subref*{fig:pWSe2_doped_contacts_and_channel_step3_pt2}). Finally, the electrodes are designed and the usual device fabrication steps ensue, fig.~\subref*{fig:pWSe2_doped_contacts_and_channel_final_device_pt2} shows an example of a measurement-ready device. The main quantity of interest here is the field-effect mobility as it allows for analysis of the device`s quality and also allows for a determination of the possible scattering mechanisms present. The two-probe field-effect mobility is given by 
+\begin{equation}\label{eq:mu_fe}
+	\mu_\mathrm{FE} = \frac{L}{w}\frac{d I_{ds}}{d V_{bg}}\frac{1}{C}\frac{1}{V_{ds}},
+\end{equation}
+where $L$ is the length of the channel, $w$ is the width of the channel, $I_{ds}$ is the drain current, $V_{bg}$ is the backgate voltage, $C$ is the capacitence, and $V_{ds}$ is the drain/source voltage \cite{Stassen_AppPhysLett2004}. The capacitence is dependent largely on the substrate used, generally \ch{Si}/\ch{SiO2} and can vary from substrate to substrate as a result the field-effect mobility can vary slightly depending on the capacitence of the substrate.  \\ \\
 \begin{figure}[ht]
 	\centering
 	\subfloat[]{
