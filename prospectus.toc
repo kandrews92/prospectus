@@ -29,7 +29,7 @@
 \contentsline {subsection}{\numberline {2.6.1}Measurement Devices}{11}
 \contentsline {chapter}{\numberline {3}Intrinsic Channel Properties and Scattering Mechanisms}{14}
 \contentsline {section}{\numberline {3.1}$p$-type \ch {WSe2} Semiconductor Contact Resistance}{14}
-\contentsline {section}{\numberline {3.2}$p$-type \ch {WSe2} Hall Effect Measurements}{16}
+\contentsline {section}{\numberline {3.2}$p$-type \ch {WSe2} Hall Effect Measurements}{15}
 \contentsline {section}{\numberline {3.3}$p$-type \ch {WSe2} Field-Effect Mobility}{17}
 \contentsline {chapter}{\numberline {4}Future Works and Conclusion}{21}
 \contentsline {section}{\numberline {4.1}Integer Quantum Hall Effects}{21}
