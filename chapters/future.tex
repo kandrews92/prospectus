@@ -9,15 +9,15 @@ In a \ac{2DES} there are a number of interesting phenomena that occurs at low te
 \subsection{Theoretical Background}\label{subsec:IQHE_theory}
 In order to fully mathematically describe the theory behind the \acs{IQHE} one must first introduce the concept of Landau levels. Here we assume a quantum regime in which there is a low temperature and high magnetic field such that $\hbar\omega\gg k_B T$. The Hamiltonian of a particle in a uniform magnetic field is given by 
 \begin{equation}\label{eq:particle_in_b_field}
-H = \frac{1}{2m}\left(\hat{p}_x+eBy/c\right)^2 + \frac{\hat{p}_y^2}{2m} + \frac{\hat{p}_z}{2m} - \left(\mu/s\right)\hat{s}_z B,
+\hat{H} = \frac{1}{2m}\left(\hat{p}_x+eBy/c\right)^2 + \frac{\hat{p}_y^2}{2m} + \frac{\hat{p}_z}{2m} - \left(\mu/s\right)\hat{s}_z B,
 \end{equation}
 where $\hat{p}_i$ is the momentum operator in the specified coordinate direction, $B$ is the magnetic field, $e$ is the charge of an electron, $\left(\mu/s\right)\hat{s}_z$ is the intrinsic magnetic moment operator \cite{Landau_Quantum1965}. It is worth noting that the vector potential chosen in eq.~\ref{eq:particle_in_b_field} is known as the Landau gauge, $\vec{A} = \left(-By, 0, 0\right)$, which implies the magnetic field $B$ is directed in the positive $z$-direction \cite{Sakurai_Quantum1994,Landau_Diagmagnetismus1930}. In this case the eigenfunctions of the Hamiltonian must take the form,
 \begin{equation}\label{eq:psi_b_field}
 \psi\left(\vec{r}\right) = e^{\left(i/\hbar\right)\left(p_x x+p_z z\right)}\chi\left(y\right),
 \end{equation} 
-where $\chi\left(y\right)$ is defined by 
+where $\chi\left(y\right)$ is defined by solutions to  
 \begin{equation}\label{eq:b_field_schrodinger}
-	\frac{\partial \chi}{\partial y} + \frac{2m}{\hbar^2}\left[E +\left(\mu/s\right)\sigma B - \frac{p_z^2}{2m}-\frac{1}{2}m\left(\frac{e B}{mc}\right)^2\left(y-y_0\right)^2\right]\chi = 0,
+	\frac{\partial^2 \chi}{\partial y^2} + \frac{2m}{\hbar^2}\left[E +\left(\mu/s\right)\sigma B - \frac{p_z^2}{2m}-\frac{1}{2}m\left(\frac{e B}{mc}\right)^2\left(y-y_0\right)^2\right]\chi = 0,
 \end{equation}
 where $y_0 =-c p_x/e B$ and $\omega = \abs{e}B/m c$. Additionally, since the Hamiltonian does not explicitly depend on $x$ and $z$ this implies that both the $x$ and $z$ components of the generalized momentum are conserved. Eq.~\ref{eq:b_field_schrodinger} is formally identical to that of the linear oscillator, thus the expression for the energy levels of a particle in a uniform magnetic field is 
 \begin{equation}\label{eq:landau_levels_3D}
