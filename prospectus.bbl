@@ -473,4 +473,26 @@ L~Bliek.
 \newblock Present understanding of the quantum hall effect.
 \newblock {\em Metrologia}, 25(2):67, 1988.
 
+\bibitem{Shubnikov_Leiden1930}
+LV~Shubnikov and WJ~de~Haas.
+\newblock Leiden commun. 207a (1930).
+\newblock {\em Proc. Netherlands R. Acad. Sci}, 33:130--163, 1930.
+
+\bibitem{Soule_PhysRev1964}
+D.~E. Soule, J.~W. McClure, and L.~B. Smith.
+\newblock Study of the shubnikov-de haas effect. determination of the fermi
+  surfaces in graphite.
+\newblock {\em Phys. Rev.}, 134:A453--A470, Apr 1964.
+
+\bibitem{Peierls_ZPhys1933}
+R~Peierls.
+\newblock On the theory of the diamagnetism of conduction electrons. ii strong
+  magnetic fields.
+\newblock {\em Z. Phys}, 81:186--194, 1933.
+
+\bibitem{Landau_RoyalSoc1939}
+LD~Landau.
+\newblock See appendix to d. shoenberg.
+\newblock In {\em Proc. Roy. Soc. A}, volume 170, page 341, 1939.
+
 \end{thebibliography}
