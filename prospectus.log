@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  29 JAN 2016 13:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  29 JAN 2016 14:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2991,7 +2991,7 @@ ntacts/Two_Probe_FE_Mobility_Vs_T_Vds_-1V_-50mV_plot_post_anneal_5-5_21_no1.png
 Chapter 4.
 Package acronym Info: Label `acro:2DES' newly defined as it shall be overridden
 
-although it is yet undefined on input line 5.
+although it is yet undefined on input line 7.
 [20
 
 
@@ -3002,10 +3002,10 @@ File: figs/future/IQHE_data_RHOxy_RHOxx.png Graphic file (type png)
 
 <use figs/future/IQHE_data_RHOxy_RHOxx.png>
 Package pdftex.def Info: figs/future/IQHE_data_RHOxy_RHOxx.png used on input li
-ne 35.
+ne 37.
 (pdftex.def)             Requested size: 142.2705pt x 142.26828pt.
 Package acronym Info: Label `acro:QHE' newly defined as it shall be overridden
-although it is yet undefined on input line 44.
+although it is yet undefined on input line 46.
  [21 <./figs/future/IQHE_data_RHOxy_RHOxx.png>]) [22] (./prospectus.bbl [23
 
 
@@ -3028,10 +3028,10 @@ Missing character: There is no “ in font cmr10!
 (./chapters/experimental.aux) (./chapters/results.aux) (./chapters/future.aux)
 (./backmatter/acronyms.aux)) ) 
 Here is how much of TeX's memory you used:
- 28897 strings out of 493109
- 614229 string characters out of 6138587
+ 28901 strings out of 493109
+ 614335 string characters out of 6138587
  605531 words of memory out of 5000000
- 31807 multiletter control sequences out of 15000+600000
+ 31811 multiletter control sequences out of 15000+600000
  13819 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,17n,69p,10402b,758s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3054,7 +3054,7 @@ ype1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2014/texmf-dist/fonts/type1
 lic/amsfonts/symbols/msbm7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/c
 m-super/sfrm0700.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sf
 rm1000.pfb>
-Output written on prospectus.pdf (37 pages, 19982485 bytes).
+Output written on prospectus.pdf (37 pages, 19983600 bytes).
 PDF statistics:
  297 PDF objects out of 1000 (max. 8388607)
  147 compressed objects within 2 object streams

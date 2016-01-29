@@ -32,10 +32,11 @@
 \contentsline {section}{\numberline {3.2}$p$-type \ch {WSe2} Hall Effect Measurements}{15}
 \contentsline {section}{\numberline {3.3}$p$-type \ch {WSe2} Field-Effect Mobility}{16}
 \contentsline {chapter}{\numberline {4}Future Works and Conclusion}{20}
-\contentsline {section}{\numberline {4.1}Integer Quantum Hall Effects}{20}
-\contentsline {subsection}{\numberline {4.1.1}Theoretical Background}{20}
-\contentsline {subsection}{\numberline {4.1.2}Implementation and Measuring the Integer Quantum Hall Effect}{22}
-\contentsline {section}{\numberline {4.2}Shubnikov-de Haas Oscillations}{22}
-\contentsline {section}{\numberline {4.3}Limitations}{22}
+\contentsline {section}{\numberline {4.1}Performance Limits in \acp {TMD}}{20}
+\contentsline {section}{\numberline {4.2}Integer Quantum Hall Effects}{20}
+\contentsline {subsection}{\numberline {4.2.1}Theoretical Background}{20}
+\contentsline {subsection}{\numberline {4.2.2}Implementation and Measuring the Integer Quantum Hall Effect}{22}
+\contentsline {section}{\numberline {4.3}Shubnikov-de Haas Oscillations}{22}
+\contentsline {section}{\numberline {4.4}Limitations}{22}
 \contentsline {chapter}{References}{23}
 \contentsline {chapter}{Appendices}{28}
