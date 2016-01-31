@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  29 JAN 2016 17:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  31 JAN 2016 17:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -3020,6 +3020,16 @@ Chapter 4.
 Package acronym Info: Label `acro:2DES' newly defined as it shall be overridden
 
 although it is yet undefined on input line 7.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
 [20
 
 
@@ -3032,34 +3042,54 @@ File: figs/future/IQHE_data_RHOxy_RHOxx.png Graphic file (type png)
 Package pdftex.def Info: figs/future/IQHE_data_RHOxy_RHOxx.png used on input li
 ne 37.
 (pdftex.def)             Requested size: 142.2705pt x 142.26828pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--42
+
+ []
+
 Package acronym Info: Label `acro:QHE' newly defined as it shall be overridden
 although it is yet undefined on input line 46.
- [21 <./figs/future/IQHE_data_RHOxy_RHOxx.png>]) [22] (./prospectus.bbl [23
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
 
 
-] [24]
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+[21 <./figs/future/IQHE_data_RHOxy_RHOxx.png>]) [22] (./prospectus.bbl [23
+
+
+]
+[24]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
- [25] [26]) [27] [28
+ [25] [26]) [27] [28] [29
 
 
 ]
 \openout2 = `backmatter/acronyms.aux'.
 
+ (./backmatter/acronyms.tex [30
 
-(./backmatter/acronyms.tex [29
-
-]) [30] (./prospectus.aux
-(./frontmatter/title.aux) (./frontmatter/abstract.aux)
+]) [31]
+(./prospectus.aux (./frontmatter/title.aux) (./frontmatter/abstract.aux)
 (./frontmatter/acknowledgements.aux) (./chapters/intro.aux)
 (./chapters/experimental.aux) (./chapters/results.aux) (./chapters/future.aux)
 (./backmatter/acronyms.aux)) ) 
 Here is how much of TeX's memory you used:
- 28905 strings out of 493109
- 614427 string characters out of 6138587
+ 28903 strings out of 493109
+ 614355 string characters out of 6138587
  608531 words of memory out of 5000000
- 31815 multiletter control sequences out of 15000+600000
+ 31813 multiletter control sequences out of 15000+600000
  13819 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,17n,69p,10402b,758s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3082,10 +3112,10 @@ ype1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2014/texmf-dist/fonts/type1
 lic/amsfonts/symbols/msbm7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/c
 m-super/sfrm0700.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sf
 rm1000.pfb>
-Output written on prospectus.pdf (37 pages, 19985957 bytes).
+Output written on prospectus.pdf (38 pages, 19990343 bytes).
 PDF statistics:
- 297 PDF objects out of 1000 (max. 8388607)
- 147 compressed objects within 2 object streams
+ 300 PDF objects out of 1000 (max. 8388607)
+ 149 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  283 words of extra memory for PDF output out of 10000 (max. 10000000)
 

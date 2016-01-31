@@ -34,9 +34,7 @@
 \contentsline {chapter}{\numberline {4}Future Works and Conclusion}{20}
 \contentsline {section}{\numberline {4.1}Performance Limits in \acp {TMD}}{20}
 \contentsline {section}{\numberline {4.2}Integer Quantum Hall Effects}{20}
-\contentsline {subsection}{\numberline {4.2.1}Theoretical Background}{20}
-\contentsline {subsection}{\numberline {4.2.2}Implementation and Measuring the Integer Quantum Hall Effect}{22}
 \contentsline {section}{\numberline {4.3}Shubnikov-de Haas Oscillations}{22}
 \contentsline {section}{\numberline {4.4}Limitations}{22}
 \contentsline {chapter}{References}{23}
-\contentsline {chapter}{Appendices}{28}
+\contentsline {chapter}{Appendices}{29}
