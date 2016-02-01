@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  31 JAN 2016 17:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  31 JAN 2016 19:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2316,7 +2316,11 @@ Package pdftex.def Info: figs/intro/mos2_bandstructure.png used on input line 5
 3.
 (pdftex.def)             Requested size: 227.62137pt x 142.26279pt.
 Package acronym Info: Label `acro:DFT' newly defined as it shall be overridden
-although it is yet undefined on input line 78.
+although it is yet undefined on input line 77.
+Package acronym Info: Label `acro:SB' newly defined as it shall be overridden
+although it is yet undefined on input line 87.
+Package acronym Info: Label `acro:SBH' newly defined as it shall be overridden
+although it is yet undefined on input line 87.
 ) [3 <./figs/intro/tmdlayered.png> <./figs/intro/tmdhexagonal.png>] [4 <./figs/
 intro/mos2_bandstructure.png>]
 \openout2 = `chapters/experimental.aux'.
@@ -2627,8 +2631,6 @@ Package acronym Info: Label `acro:IQHE' newly defined as it shall be overridden
 although it is yet undefined on input line 2.
 Package acronym Info: Label `acro:SdH' newly defined as it shall be overridden
 although it is yet undefined on input line 2.
-Package acronym Info: Label `acro:SB' newly defined as it shall be overridden
-although it is yet undefined on input line 5.
 
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
@@ -2639,8 +2641,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-Package acronym Info: Label `acro:SBH' newly defined as it shall be overridden
-although it is yet undefined on input line 7.
 Package acronym Info: Label `acro:TLM' newly defined as it shall be overridden
 although it is yet undefined on input line 7.
 
@@ -2996,23 +2996,23 @@ ate_-6-5_21_no1.png> <./figs/results/hall_bar_doped_channel_doped_contacts/pWSe
 2_on_hBN_substrate_with_top_hBN_-6-5_21_no1.png> <./figs/results/hall_bar_doped
 _channel_doped_contacts/pWSe2_on_hBN_substrate_with_top_hBN_doped_contact_trans
 fer_-6-5_21_no1.png> <./figs/results/hall_bar_doped_channel_doped_contacts/pWSe
-2_device_with_electrodes_-6-5_21_no1.png>] [19 <./figs/results/hall_bar_doped_c
-hannel_doped_contacts/pWSe2_on_hBN_substrate_5-5_21_no1.png> <./figs/results/ha
-ll_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate_with_top_hBN_5-5_21_
-no1.png> <./figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_sub
-strate_with_top_hBN_doped_contact_transfer_5-5_21_no1.png> <./figs/results/hall
-_bar_doped_channel_doped_contacts/pWSe2_device_with_electrodes_5-5_21_no1.png> 
-<./figs/results/hall_bar_doped_channel_doped_contacts/Vds-Id_Vds_1V_-1V-Vbg_-20
-V_-100V_T2-T3_300K-04_plot_before_anneal_5-5_21_no1.png> <./figs/results/hall_b
-ar_doped_channel_doped_contacts/Vds-Id_Vds_1V_-1V-Vbg_-30V_-100V_T2-T3_10K-03_p
-lot_before_anneal_5-5_21_no1.png> <./figs/results/hall_bar_doped_channel_doped_
-contacts/Two_Probe_FE_Mobility_Vs_T_Vds_-1V_-50mV_plot_pre_anneal_5-5_21_no1.pn
-g> <./figs/results/hall_bar_doped_channel_doped_contacts/Vds-Id_Vds_1V_-1V-Vbg_
--20V_-100V_T2-T3_300K-13_plot_after_anneal_5-5_21_no1.png> <./figs/results/hall
-_bar_doped_channel_doped_contacts/Vds-Id_Vds_1V_-1V-Vbg_-30V_-100V_T2-T3_10K-03
-_plot_after_anneal_5-5_21_no1.png> <./figs/results/hall_bar_doped_channel_doped
-_contacts/Two_Probe_FE_Mobility_Vs_T_Vds_-1V_-50mV_plot_post_anneal_5-5_21_no1.
-png>]
+2_device_with_electrodes_-6-5_21_no1.png>] [19] [20 <./figs/results/hall_bar_do
+ped_channel_doped_contacts/pWSe2_on_hBN_substrate_5-5_21_no1.png> <./figs/resul
+ts/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate_with_top_hBN_5-
+5_21_no1.png> <./figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hB
+N_substrate_with_top_hBN_doped_contact_transfer_5-5_21_no1.png> <./figs/results
+/hall_bar_doped_channel_doped_contacts/pWSe2_device_with_electrodes_5-5_21_no1.
+png> <./figs/results/hall_bar_doped_channel_doped_contacts/Vds-Id_Vds_1V_-1V-Vb
+g_-20V_-100V_T2-T3_300K-04_plot_before_anneal_5-5_21_no1.png> <./figs/results/h
+all_bar_doped_channel_doped_contacts/Vds-Id_Vds_1V_-1V-Vbg_-30V_-100V_T2-T3_10K
+-03_plot_before_anneal_5-5_21_no1.png> <./figs/results/hall_bar_doped_channel_d
+oped_contacts/Two_Probe_FE_Mobility_Vs_T_Vds_-1V_-50mV_plot_pre_anneal_5-5_21_n
+o1.png> <./figs/results/hall_bar_doped_channel_doped_contacts/Vds-Id_Vds_1V_-1V
+-Vbg_-20V_-100V_T2-T3_300K-13_plot_after_anneal_5-5_21_no1.png> <./figs/results
+/hall_bar_doped_channel_doped_contacts/Vds-Id_Vds_1V_-1V-Vbg_-30V_-100V_T2-T3_1
+0K-03_plot_after_anneal_5-5_21_no1.png> <./figs/results/hall_bar_doped_channel_
+doped_contacts/Two_Probe_FE_Mobility_Vs_T_Vds_-1V_-50mV_plot_post_anneal_5-5_21
+_no1.png>]
 \openout2 = `chapters/future.aux'.
 
  (./chapters/future.tex
@@ -3030,12 +3030,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
-[20
+[21
 
 
 
 ]
-<figs/future/IQHE_data_RHOxy_RHOxx.png, id=197, 292.84406pt x 219.82124pt>
+<figs/future/IQHE_data_RHOxy_RHOxx.png, id=200, 292.84406pt x 219.82124pt>
 File: figs/future/IQHE_data_RHOxy_RHOxx.png Graphic file (type png)
 
 <use figs/future/IQHE_data_RHOxy_RHOxx.png>
@@ -3064,32 +3064,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--47
 
  []
 
-[21 <./figs/future/IQHE_data_RHOxy_RHOxx.png>]) [22] (./prospectus.bbl [23
+[22 <./figs/future/IQHE_data_RHOxy_RHOxx.png>]) [23] (./prospectus.bbl [24
 
 
 ]
-[24]
+[25]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
- [25] [26]) [27] [28] [29
+ [26] [27] [28]) [29] [30
 
 
 ]
 \openout2 = `backmatter/acronyms.aux'.
 
- (./backmatter/acronyms.tex [30
+ (./backmatter/acronyms.tex [31
 
-]) [31]
+]) [32]
 (./prospectus.aux (./frontmatter/title.aux) (./frontmatter/abstract.aux)
 (./frontmatter/acknowledgements.aux) (./chapters/intro.aux)
 (./chapters/experimental.aux) (./chapters/results.aux) (./chapters/future.aux)
 (./backmatter/acronyms.aux)) ) 
 Here is how much of TeX's memory you used:
- 28903 strings out of 493109
- 614355 string characters out of 6138587
- 608531 words of memory out of 5000000
- 31813 multiletter control sequences out of 15000+600000
+ 28913 strings out of 493109
+ 614489 string characters out of 6138587
+ 609531 words of memory out of 5000000
+ 31823 multiletter control sequences out of 15000+600000
  13819 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,17n,69p,10402b,758s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3112,10 +3112,10 @@ ype1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2014/texmf-dist/fonts/type1
 lic/amsfonts/symbols/msbm7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/c
 m-super/sfrm0700.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sf
 rm1000.pfb>
-Output written on prospectus.pdf (38 pages, 19990343 bytes).
+Output written on prospectus.pdf (39 pages, 19993980 bytes).
 PDF statistics:
- 300 PDF objects out of 1000 (max. 8388607)
- 149 compressed objects within 2 object streams
+ 303 PDF objects out of 1000 (max. 8388607)
+ 151 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  283 words of extra memory for PDF output out of 10000 (max. 10000000)
 

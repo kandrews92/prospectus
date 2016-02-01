@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{100}
 
 \bibitem{Koenigsberger_AnnalenDerPhysik1911}
 J~Koenigsberger and J~Weiss.
@@ -253,6 +253,19 @@ F.~R. Gamble and B.~G. Silbernagel.
   implications.
 \newblock {\em The Journal of Chemical Physics}, 63(6):2544--2552, 1975.
 
+\bibitem{Cheng_NanoLett2014}
+Rui Cheng, Dehui Li, Hailong Zhou, Chen Wang, Anxiang Yin, Shan Jiang, Yuan
+  Liu, Yu~Chen, Yu~Huang, and Xiangfeng Duan.
+\newblock Electroluminescence and photocurrent generation from atomically sharp
+  wse2/mos2 heterojunction p--n diodes.
+\newblock {\em Nano letters}, 14(10):5590--5597, 2014.
+
+\bibitem{Conley_NanoLett2013}
+Hiram~J Conley, Bin Wang, Jed~I Ziegler, Richard~F Haglund~Jr, Sokrates~T
+  Pantelides, and Kirill~I Bolotin.
+\newblock Bandgap engineering of strained monolayer and bilayer mos2.
+\newblock {\em Nano letters}, 13(8):3626--3630, 2013.
+
 \bibitem{Lee_Nanoscale2014}
 Seunghyun Lee and Zhaohui Zhong.
 \newblock Nanoelectronic circuits based on two-dimensional atomic layer
@@ -315,37 +328,64 @@ Yandong Ma, Ying Dai, Meng Guo, Chengwang Niu, Jibao Lu, and Baibiao Huang.
   nonmetal adsorbed mose 2, mote 2 and ws 2 monolayers.
 \newblock {\em Physical Chemistry Chemical Physics}, 13(34):15546--15553, 2011.
 
-\bibitem{Hall_AmerJournMath1879}
-E.~H. Hall.
-\newblock On a new action of the magnet on electric currents.
-\newblock {\em American Journal of Mathematics}, 2(3):287--292, 1879.
+\bibitem{Fang_NanoLett2012}
+Hui Fang, Steven Chuang, Ting~Chia Chang, Kuniharu Takei, Toshitake Takahashi,
+  and Ali Javey.
+\newblock High-performance single layered wse2 p-fets with chemically doped
+  contacts.
+\newblock {\em Nano letters}, 12(7):3788--3792, 2012.
 
-\bibitem{Schroder_Semiconductor2006}
-Dieter~K. Schroder.
-\newblock {\em {S}emiconductor {M}aterial and {D}evice {C}haracterization}.
-\newblock {J}ohn {W}iley and {S}ons, {I}nc., Hoboken, New Jersey, 3rd edition,
-  2006.
+\bibitem{Das_AppPhysLett2013}
+Saptarshi Das and Joerg Appenzeller.
+\newblock Wse2 field effect transistors with enhanced ambipolar
+  characteristics.
+\newblock {\em Applied Physics Letters}, 103(10):103501, 2013.
 
-\bibitem{Kittel_IntroSolidState2005}
-C.~{Kittel}.
-\newblock {\em {Introduction to Solid State Physics}}.
-\newblock {W}iley, {H}oboken, N.~J., 8 edition, 2005.
+\bibitem{Liu_ACSnano2012}
+Han Liu, Adam~T Neal, and Peide~D Ye.
+\newblock Channel length scaling of mos2 mosfets.
+\newblock {\em ACS nano}, 6(10):8563--8569, 2012.
 
-\bibitem{Ashcroft_SolidStatePhysics1978}
-Neil~W Ashcroft, N~David Mermin, and Sergio Rodriguez.
-\newblock Solidstatephysics.
-\newblock {\em American Journal of Physics}, 46(1):116--117, 1978.
+\bibitem{Das_NanoLett2012}
+Saptarshi Das, Hong-Yan Chen, Ashish~Verma Penumatcha, and Joerg Appenzeller.
+\newblock High performance multilayer mos2 transistors with scandium contacts.
+\newblock {\em Nano letters}, 13(1):100--105, 2012.
 
-\bibitem{Melissinos_Experiments1966}
-Adrian~Constantin Melissinos and Adrian~C Melissinos.
-\newblock {\em Experiments in modern physics}, volume 114.
-\newblock Academic Press Orlando), 1966.
+\bibitem{Gong_NanoLett2014}
+Cheng Gong, Luigi Colombo, Robert~M Wallace, and Kyeongjae Cho.
+\newblock The unusual mechanism of partial fermi level pinning at metal--mos2
+  interfaces.
+\newblock {\em Nano letters}, 14(4):1714--1720, 2014.
 
-\bibitem{Baumgartner_HallEffect2006}
-A.~Baumgartner, T.~Ihn, K.~Ensslin, G.~Papp, F.~Peeters, K.~Maranowski, and
-  A.~C. Gossard.
-\newblock Classical hall effect in scanning gate experiments.
-\newblock {\em Phys. Rev. B}, 74:165426, Oct 2006.
+\bibitem{Suh_NanoLett2014}
+Joonki Suh, Tae-Eon Park, Der-Yuh Lin, Deyi Fu, Joonsuk Park, Hee~Joon Jung,
+  Yabin Chen, Changhyun Ko, Chaun Jang, Yinghui Sun, et~al.
+\newblock Doping against the native propensity of mos2: Degenerate hole doping
+  by cation substitution.
+\newblock {\em Nano letters}, 14(12):6976--6982, 2014.
+
+\bibitem{Geim_Nature2013}
+Andre~K Geim and Irina~V Grigorieva.
+\newblock Van der waals heterostructures.
+\newblock {\em Nature}, 499(7459):419--425, 2013.
+
+\bibitem{Farmanbar_PhysRevB2015}
+Mojtaba Farmanbar and Geert Brocks.
+\newblock Controlling the schottky barrier at mos 2/metal contacts by inserting
+  a bn monolayer.
+\newblock {\em Physical Review B}, 91(16):161304, 2015.
+
+\bibitem{Kappera_NatureMat2014}
+Rajesh Kappera, Damien Voiry, Sibel~Ebru Yalcin, Brittany Branch, Gautam Gupta,
+  Aditya~D Mohite, and Manish Chhowalla.
+\newblock Phase-engineered low-resistance contacts for ultrathin mos2
+  transistors.
+\newblock {\em Nature materials}, 13(12):1128--1134, 2014.
+
+\bibitem{Farmanbar_arxiv2016}
+Mojtaba Farmanbar and Geert Brocks.
+\newblock Ohmic contacts to 2d semiconductors through van der waals bonding.
+\newblock {\em arXiv preprint arXiv:1601.02163}, 2016.
 
 \bibitem{Choi_AppPhysLett2004}
 Rino Choi, Chang~Seok Kang, Hag-Ju Cho, Young-Hee Kim, Mohammad~S. Akbar, and
@@ -361,6 +401,11 @@ Yuan Huang, Eli Sutter, Norman~N. Shi, Jiabao Zheng, Tianzhong Yang, Dirk
   of {G}raphene and {O}ther {T}wo-{D}imensional {M}aterials.
 \newblock {\em ACS Nano}, 0(0):null, 0.
 \newblock PMID: 26336975.
+
+\bibitem{Kittel_IntroSolidState2005}
+C.~{Kittel}.
+\newblock {\em {Introduction to Solid State Physics}}.
+\newblock {W}iley, {H}oboken, N.~J., 8 edition, 2005.
 
 \bibitem{Ernst-Moritz-Arndt_Online}
 {E}rnst {M}oritz {A}rndt {U}niversit\"{a}t {G}reifswald:~{S}oft {M}atter and
@@ -394,10 +439,16 @@ Steven Chuang, Corsin Battaglia, Angelica Azcatl, Stephen McDonnell, Jeong~Seuk
   x contacts.
 \newblock {\em Nano letters}, 14(3):1337--1342, 2014.
 
-\bibitem{Das_NanoLett2012}
-Saptarshi Das, Hong-Yan Chen, Ashish~Verma Penumatcha, and Joerg Appenzeller.
-\newblock High performance multilayer mos2 transistors with scandium contacts.
-\newblock {\em Nano letters}, 13(1):100--105, 2012.
+\bibitem{Schroder_Semiconductor2006}
+Dieter~K. Schroder.
+\newblock {\em {S}emiconductor {M}aterial and {D}evice {C}haracterization}.
+\newblock {J}ohn {W}iley and {S}ons, {I}nc., Hoboken, New Jersey, 3rd edition,
+  2006.
+
+\bibitem{Melissinos_Experiments1966}
+Adrian~Constantin Melissinos and Adrian~C Melissinos.
+\newblock {\em Experiments in modern physics}, volume 114.
+\newblock Academic Press Orlando), 1966.
 
 \bibitem{HallEffectNIST}
 Thurber {W}.{R}.
@@ -408,6 +459,20 @@ Thurber {W}.{R}.
 Nobelprize.org.
 \newblock Press release: The 1998 nobel prize in physics, 2016.
 \newblock [Online; Accessed: 26, Jan. 2016].
+
+\bibitem{Pradhan_SciReports2015}
+NR~Pradhan, D~Rhodes, S~Memaran, JM~Poumirol, D~Smirnov, S~Talapatra, S~Feng,
+  N~Perea-Lopez, AL~Elias, M~Terrones, et~al.
+\newblock Hall and field-effect mobilities in few layered p-wse2 field-effect
+  transistors.
+\newblock {\em Scientific reports}, 5, 2015.
+
+\bibitem{Li_NatureNano2015}
+Likai Li, Guo~Jun Ye, Vy~Tran, Ruixiang Fei, Guorui Chen, Huichao Wang, Jian
+  Wang, Kenji Watanabe, Takashi Taniguchi, Li~Yang, et~al.
+\newblock Quantum oscillations in a two-dimensional electron gas in black
+  phosphorus thin films.
+\newblock {\em Nature nanotechnology}, 2015.
 
 \bibitem{Stassen_AppPhysLett2004}
 A.~F. {Stassen}, R.~W.~I. {de Boer}, N.~N. {Iosad}, and A.~F. {Morpurgo}.
@@ -423,17 +488,15 @@ Britton W.~H. Baugher, Hugh O.~H. Churchill, Yafang Yang, and Pablo
 \newblock {\em Nano Letters}, 13(9):4212--4216, 2013.
 \newblock PMID: 23930826.
 
-\bibitem{Pradhan_SciReports2015}
-NR~Pradhan, D~Rhodes, S~Memaran, JM~Poumirol, D~Smirnov, S~Talapatra, S~Feng,
-  N~Perea-Lopez, AL~Elias, M~Terrones, et~al.
-\newblock Hall and field-effect mobilities in few layered p-wse2 field-effect
-  transistors.
-\newblock {\em Scientific reports}, 5, 2015.
-
 \bibitem{Ando_RevModPhys1982}
 Tsuneya Ando, Alan~B Fowler, and Frank Stern.
 \newblock Electronic properties of two-dimensional systems.
 \newblock {\em Reviews of Modern Physics}, 54(2):437, 1982.
+
+\bibitem{Ashcroft_SolidStatePhysics1978}
+Neil~W Ashcroft, N~David Mermin, and Sergio Rodriguez.
+\newblock Solidstatephysics.
+\newblock {\em American Journal of Physics}, 46(1):116--117, 1978.
 
 \bibitem{Klitzing_PhysRevLett1980}
 K.~v. Klitzing, G.~Dorda, and M.~Pepper.
@@ -510,13 +573,6 @@ LD~Landau.
 \newblock See appendix to d. shoenberg.
 \newblock In {\em Proc. Roy. Soc. A}, volume 170, page 341, 1939.
 
-\bibitem{Li_NatureNano2015}
-Likai Li, Guo~Jun Ye, Vy~Tran, Ruixiang Fei, Guorui Chen, Huichao Wang, Jian
-  Wang, Kenji Watanabe, Takashi Taniguchi, Li~Yang, et~al.
-\newblock Quantum oscillations in a two-dimensional electron gas in black
-  phosphorus thin films.
-\newblock {\em Nature nanotechnology}, 2015.
-
 \bibitem{Das_Wiley1996}
 Sankar Das~Sarma and Aron Pinczuk.
 \newblock Perspectives in quantum hall effects: Novel quantum liquids in
@@ -525,6 +581,20 @@ Sankar Das~Sarma and Aron Pinczuk.
   Low-Dimensional Semiconductor Structures, by Sankar Das Sarma (Editor), Aron
   Pinczuk (Editor), pp. 446. ISBN 0-471-11216-X. Wiley-VCH, November 1996.}, 1,
   1996.
+
+\bibitem{Tsukazak_Science2007}
+A.~{Tsukazaki}, A.~{Ohtomo}, T.~{Kita}, Y.~{Ohno}, H.~{Ohno}, and
+  M.~{Kawasaki}.
+\newblock {Quantum Hall Effect in Polar Oxide Heterostructures}.
+\newblock {\em Science}, 315:1388--, mar 2007.
+
+\bibitem{Gillgren_2DMat2015}
+Nathaniel Gillgren, Darshana Wickramaratne, Yanmeng Shi, Tim Espiritu, Jiawei
+  Yang, Jin Hu, Jiang Wei, Xue Liu, Zhiqiang Mao, Kenji Watanabe, Takashi
+  Taniguchi, Marc Bockrath, Yafis Barlas, Roger~K Lake, and Chun~Ning Lau.
+\newblock Gate tunable quantum oscillations in air-stable and high mobility
+  few-layer phosphorene heterostructures.
+\newblock {\em 2D Materials}, 2(1):011001, 2015.
 
 \bibitem{Shoenberg_Magnet1984}
 David Shoenberg.
