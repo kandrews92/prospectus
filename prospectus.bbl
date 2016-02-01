@@ -668,11 +668,24 @@ Saptarshi Das, Richard Gulotty, Anirudha~V Sumant, and Andreas Roelofs.
   transistor.
 \newblock {\em Nano letters}, 14(5):2861--2866, 2014.
 
+\bibitem{Li_NanoLett2013}
+Song-Lin Li, Katsunori Wakabayashi, Yong Xu, Shu Nakaharai, Katsuyoshi Komatsu,
+  Wen-Wu Li, Yen-Fu Lin, Alex Aparecido-Ferreira, and Kazuhito Tsukagoshi.
+\newblock Thickness-dependent interfacial coulomb scattering in atomically thin
+  field-effect transistors.
+\newblock {\em Nano letters}, 13(8):3546--3552, 2013.
+
 \bibitem{Bhimanapati_ACSnano2015}
 Ganesh~R Bhimanapati, Zhong Lin, Vincent Meunier, Yeonwoong Jung, Judy Cha,
   Saptarshi Das, Di~Xiao, Youngwoo Son, Michael~S Strano, Valentino~R Cooper,
   et~al.
 \newblock Recent advances in two-dimensional materials beyond graphene.
 \newblock {\em ACS nano}, 9(12):11509--11539, 2015.
+
+\bibitem{Lee_Small2012}
+Hee~Sung Lee, Sung-Wook Min, Min~Kyu Park, Young~Tack Lee, Pyo~Jin Jeon,
+  Jae~Hoon Kim, Sunmin Ryu, and Seongil Im.
+\newblock Mos2 nanosheets for top-gate nonvolatile memory transistor channel.
+\newblock {\em Small}, 8(20):3111--3115, 2012.
 
 \end{thebibliography}
