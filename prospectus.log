@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  1 FEB 2016 14:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  1 FEB 2016 16:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2166,4 +2166,933 @@ Package caption Info: End \AtBeginDocument code.
 * \columnsep=10.0pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
-* \vof
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c__siunitx_mathsf_int=\count198
+LaTeX Font Info:    Try loading font information for U+msa on input line 39.
+(c:/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 39.
+
+(c:/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+\c__siunitx_mathtt_int=\count199
+\openout2 = `frontmatter/title.aux'.
+
+
+(./frontmatter/title.tex [1
+
+
+{c:/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
+\openout2 = `frontmatter/abstract.aux'.
+
+ (./frontmatter/abstract.tex) [1
+
+
+]
+\openout2 = `frontmatter/acknowledgements.aux'.
+
+
+(./frontmatter/acknowledgements.tex) [2
+
+
+] (./prospectus.toc
+Package acronym Info: Label `acro:TMD' newly defined as it shall be overridden
+although it is yet undefined on input line 9.
+ [3
+
+
+])
+\tf@toc=\write5
+\openout5 = `prospectus.toc'.
+
+ [4]
+(./prospectus.lof)
+\tf@lof=\write6
+\openout6 = `prospectus.lof'.
+
+ [5
+
+] (./prospectus.lot)
+\tf@lot=\write7
+\openout7 = `prospectus.lot'.
+
+ [6
+
+]
+\openout2 = `chapters/intro.aux'.
+
+ (./chapters/intro.tex
+Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+Package acronym Info: Label `acro:IC' newly defined as it shall be overridden
+although it is yet undefined on input line 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+[1
+
+
+] <figs/intro/graphene_honeycomb.png, id=37, 225.0006pt x 178.9887pt>
+File: figs/intro/graphene_honeycomb.png Graphic file (type png)
+
+<use figs/intro/graphene_honeycomb.png>
+Package pdftex.def Info: figs/intro/graphene_honeycomb.png used on input line 1
+9.
+(pdftex.def)             Requested size: 142.26266pt x 113.81221pt.
+
+<figs/intro/graphene_bandgap.png, id=38, 280.04625pt x 127.97812pt>
+File: figs/intro/graphene_bandgap.png Graphic file (type png)
+
+<use figs/intro/graphene_bandgap.png>
+Package pdftex.def Info: figs/intro/graphene_bandgap.png used on input line 24.
+
+(pdftex.def)             Requested size: 170.72112pt x 113.81033pt.
+
+Overfull \hbox (13.02954pt too wide) in paragraph at lines 32--32
+[]\OT1/cmr/bx/n/14.4 Two-dimensional Ma-te-ri-als: Tran-si-tion Metal Dichalco-
+genides 
+ []
+
+Package acronym Info: Label `acro:Mo' newly defined as it shall be overridden
+although it is yet undefined on input line 33.
+Package acronym Info: Label `acro:W' newly defined as it shall be overridden
+although it is yet undefined on input line 33.
+Package acronym Info: Label `acro:Nb' newly defined as it shall be overridden
+although it is yet undefined on input line 33.
+Package acronym Info: Label `acro:Re' newly defined as it shall be overridden
+although it is yet undefined on input line 33.
+Package acronym Info: Label `acro:Ni' newly defined as it shall be overridden
+although it is yet undefined on input line 33.
+Package acronym Info: Label `acro:V' newly defined as it shall be overridden
+although it is yet undefined on input line 33.
+Package acronym Info: Label `acro:S' newly defined as it shall be overridden
+although it is yet undefined on input line 33.
+Package acronym Info: Label `acro:Se' newly defined as it shall be overridden
+although it is yet undefined on input line 33.
+Package acronym Info: Label `acro:Te' newly defined as it shall be overridden
+although it is yet undefined on input line 33.
+Package acronym Info: Label `acro:MoS2' newly defined as it shall be overridden
+
+although it is yet undefined on input line 33.
+Package acronym Info: Label `acro:WSe2' newly defined as it shall be overridden
+
+although it is yet undefined on input line 33.
+Package acronym Info: Label `acro:WS2' newly defined as it shall be overridden
+although it is yet undefined on input line 33.
+<figs/intro/tmdlayered.png, id=40, 174.6525pt x 135.50626pt>
+File: figs/intro/tmdlayered.png Graphic file (type png)
+
+<use figs/intro/tmdlayered.png>
+Package pdftex.def Info: figs/intro/tmdlayered.png used on input line 39.
+(pdftex.def)             Requested size: 170.72655pt x 113.81412pt.
+
+<figs/intro/tmdhexagonal.png, id=41, 249.93375pt x 149.05687pt>
+File: figs/intro/tmdhexagonal.png Graphic file (type png)
+
+<use figs/intro/tmdhexagonal.png>
+Package pdftex.def Info: figs/intro/tmdhexagonal.png used on input line 44.
+(pdftex.def)             Requested size: 170.72305pt x 113.81206pt.
+
+Overfull \hbox (8.55713pt too wide) in paragraph at lines 33--48
+\OT1/cmr/m/n/10 Commonly re-ferred to two-dimensional ma-te-ri-als be-yond grap
+hene, tran-si-tion metal dichalco-genides (TMDs)
+ []
+
+[2 <./figs/intro/graphene_honeycomb.png> <./figs/intro/graphene_bandgap.png>]
+<figs/intro/mos2_bandstructure.png, id=48, 590.205pt x 408.02437pt>
+File: figs/intro/mos2_bandstructure.png Graphic file (type png)
+
+<use figs/intro/mos2_bandstructure.png>
+Package pdftex.def Info: figs/intro/mos2_bandstructure.png used on input line 5
+3.
+(pdftex.def)             Requested size: 227.62137pt x 142.26279pt.
+Package acronym Info: Label `acro:DFT' newly defined as it shall be overridden
+although it is yet undefined on input line 77.
+Package acronym Info: Label `acro:SB' newly defined as it shall be overridden
+although it is yet undefined on input line 87.
+Package acronym Info: Label `acro:SBH' newly defined as it shall be overridden
+although it is yet undefined on input line 87.
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+[3 <./figs/intro/tmdlayered.png> <./figs/intro/tmdhexagonal.png>]
+Package acronym Info: Label `acro:BP' newly defined as it shall be overridden
+although it is yet undefined on input line 89.
+ [4 <./figs/intro/mos2_bandstructure.png>]) [5]
+\openout2 = `chapters/experimental.aux'.
+
+ (./chapters/experimental.tex
+Chapter 2.
+Package acronym Info: Label `acro:SiO2' newly defined as it shall be overridden
+
+although it is yet undefined on input line 4.
+Package acronym Info: Label `acro:Au' newly defined as it shall be overridden
+although it is yet undefined on input line 4.
+<figs/experimental/plain_wafer.png, id=63, 245.41687pt x 243.15843pt>
+File: figs/experimental/plain_wafer.png Graphic file (type png)
+
+<use figs/experimental/plain_wafer.png>
+Package pdftex.def Info: figs/experimental/plain_wafer.png used on input line 9
+.
+(pdftex.def)             Requested size: 71.1316pt x 71.13004pt.
+
+<figs/experimental/si_sio2_diagram.png, id=64, 227.34938pt x 106.89937pt>
+File: figs/experimental/si_sio2_diagram.png Graphic file (type png)
+
+<use figs/experimental/si_sio2_diagram.png>
+Package pdftex.def Info: figs/experimental/si_sio2_diagram.png used on input li
+ne 16.
+(pdftex.def)             Requested size: 92.47147pt x 49.7925pt.
+
+<figs/experimental/photolithography_bay.png, id=65, 3276.24pt x 2457.18pt>
+File: figs/experimental/photolithography_bay.png Graphic file (type png)
+
+<use figs/experimental/photolithography_bay.png>
+Package pdftex.def Info: figs/experimental/photolithography_bay.png used on inp
+ut line 23.
+(pdftex.def)             Requested size: 85.3352pt x 56.87762pt.
+
+<figs/experimental/main_alignment_5x.png, id=66, 616.704pt x 462.528pt>
+File: figs/experimental/main_alignment_5x.png Graphic file (type png)
+
+<use figs/experimental/main_alignment_5x.png>
+Package pdftex.def Info: figs/experimental/main_alignment_5x.png used on input 
+line 35.
+(pdftex.def)             Requested size: 142.26239pt x 113.81085pt.
+
+<figs/experimental/main_alignment_10x.png, id=67, 616.704pt x 462.528pt>
+File: figs/experimental/main_alignment_10x.png Graphic file (type png)
+
+<use figs/experimental/main_alignment_10x.png>
+Package pdftex.def Info: figs/experimental/main_alignment_10x.png used on input
+ line 40.
+(pdftex.def)             Requested size: 142.26239pt x 113.81085pt.
+
+<figs/experimental/main_alignment_50x.png, id=68, 616.704pt x 462.528pt>
+File: figs/experimental/main_alignment_50x.png Graphic file (type png)
+
+<use figs/experimental/main_alignment_50x.png>
+Package pdftex.def Info: figs/experimental/main_alignment_50x.png used on input
+ line 45.
+(pdftex.def)             Requested size: 142.26239pt x 113.81085pt.
+
+<figs/experimental/main_alignment_100x.png, id=69, 616.704pt x 462.528pt>
+File: figs/experimental/main_alignment_100x.png Graphic file (type png)
+
+<use figs/experimental/main_alignment_100x.png>
+Package pdftex.def Info: figs/experimental/main_alignment_100x.png used on inpu
+t line 50.
+(pdftex.def)             Requested size: 142.26239pt x 113.81085pt.
+Package acronym Info: Label `acro:IPA' newly defined as it shall be overridden
+although it is yet undefined on input line 56.
+Package acronym Info: Label `acro:N2' newly defined as it shall be overridden
+although it is yet undefined on input line 56.
+
+<figs/experimental/exfoliation_step1.png, id=70, 141.1674pt x 127.1952pt>
+File: figs/experimental/exfoliation_step1.png Graphic file (type png)
+
+<use figs/experimental/exfoliation_step1.png>
+Package pdftex.def Info: figs/experimental/exfoliation_step1.png used on input 
+line 67.
+(pdftex.def)             Requested size: 85.35806pt x 56.90543pt.
+
+<figs/experimental/exfoliation_step2.png, id=71, 127.677pt x 127.677pt>
+File: figs/experimental/exfoliation_step2.png Graphic file (type png)
+
+<use figs/experimental/exfoliation_step2.png>
+Package pdftex.def Info: figs/experimental/exfoliation_step2.png used on input 
+line 72.
+(pdftex.def)             Requested size: 85.36pt x 56.90472pt.
+
+<figs/experimental/exfoliation_step3.png, id=72, 127.1952pt x 127.1952pt>
+File: figs/experimental/exfoliation_step3.png Graphic file (type png)
+
+<use figs/experimental/exfoliation_step3.png>
+Package pdftex.def Info: figs/experimental/exfoliation_step3.png used on input 
+line 77.
+(pdftex.def)             Requested size: 85.36201pt x 56.90543pt.
+Package acronym Info: Label `acro:PDMS' newly defined as it shall be overridden
+
+although it is yet undefined on input line 82.
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--83
+
+ []
+
+[6
+
+
+
+ <./figs/experimental/plain_wafer.png> <./figs/experimental/si_sio2_diagram.png
+> <./figs/experimental/photolithography_bay.png>] [7 <./figs/experimental/main_
+alignment_5x.png> <./figs/experimental/main_alignment_10x.png> <./figs/experime
+ntal/main_alignment_50x.png> <./figs/experimental/main_alignment_100x.png>]
+Package acronym Info: Label `acro:PC' newly defined as it shall be overridden
+although it is yet undefined on input line 85.
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+<figs/experimental/transfer_stage_setup.png, id=83, 200.9106pt x 163.3302pt>
+File: figs/experimental/transfer_stage_setup.png Graphic file (type png)
+
+<use figs/experimental/transfer_stage_setup.png>
+Package pdftex.def Info: figs/experimental/transfer_stage_setup.png used on inp
+ut line 95.
+(pdftex.def)             Requested size: 199.17186pt x 142.26309pt.
+ [8 <./figs/experimental/exfoliation_step1.png> <./figs/experimental/exfoliatio
+n_step2.png> <./figs/experimental/exfoliation_step3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+Package acronym Info: Label `acro:DI' newly defined as it shall be overridden
+although it is yet undefined on input line 102.
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+[9 <./figs/experimental/transfer_stage_setup.png>]
+Package acronym Info: Label `acro:STM' newly defined as it shall be overridden
+although it is yet undefined on input line 107.
+Package acronym Info: Label `acro:TEM' newly defined as it shall be overridden
+although it is yet undefined on input line 107.
+Package acronym Info: Label `acro:AFM' newly defined as it shall be overridden
+although it is yet undefined on input line 107.
+Package acronym Info: Label `acro:MFM' newly defined as it shall be overridden
+although it is yet undefined on input line 107.
+
+<figs/experimental/optical_microscope_front_view.png, id=94, 2457.18pt x 3276.2
+4pt>
+File: figs/experimental/optical_microscope_front_view.png Graphic file (type pn
+g)
+ <use figs/experimental/optical_microscope_front_view.png>
+Package pdftex.def Info: figs/experimental/optical_microscope_front_view.png us
+ed on input line 115.
+(pdftex.def)             Requested size: 99.58273pt x 142.22534pt.
+
+<figs/experimental/optical_microscope_side_view.png, id=95, 2457.18pt x 3276.24
+pt>
+File: figs/experimental/optical_microscope_side_view.png Graphic file (type png
+)
+ <use figs/experimental/optical_microscope_side_view.png>
+Package pdftex.def Info: figs/experimental/optical_microscope_side_view.png use
+d on input line 120.
+(pdftex.def)             Requested size: 99.58273pt x 142.22534pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+<figs/experimental/AFM_front_view.png, id=96, 2457.18pt x 3276.24pt>
+File: figs/experimental/AFM_front_view.png Graphic file (type png)
+
+<use figs/experimental/AFM_front_view.png>
+Package pdftex.def Info: figs/experimental/AFM_front_view.png used on input lin
+e 133.
+(pdftex.def)             Requested size: 113.79277pt x 113.78027pt.
+
+<figs/experimental/AFM_tip.png, id=97, 196.735pt x 165.61874pt>
+File: figs/experimental/AFM_tip.png Graphic file (type png)
+
+<use figs/experimental/AFM_tip.png>
+Package pdftex.def Info: figs/experimental/AFM_tip.png used on input line 138.
+(pdftex.def)             Requested size: 113.80917pt x 113.80952pt.
+Package acronym Info: Label `acro:EBL' newly defined as it shall be overridden
+although it is yet undefined on input line 143.
+ [10 <./figs/experimental/optical_microscope_front_view.png> <./figs/experiment
+al/optical_microscope_side_view.png>]
+Package acronym Info: Label `acro:NPGS' newly defined as it shall be overridden
+
+although it is yet undefined on input line 145.
+Package acronym Info: Label `acro:PMMA' newly defined as it shall be overridden
+
+although it is yet undefined on input line 146.
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--147
+
+ []
+
+Package acronym Info: Label `acro:MIBK' newly defined as it shall be overridden
+
+although it is yet undefined on input line 149.
+Package acronym Info: Label `acro:MEK' newly defined as it shall be overridden
+although it is yet undefined on input line 149.
+<figs/experimental/SEM.png, id=101, 520.94624pt x 220.57407pt>
+File: figs/experimental/SEM.png Graphic file (type png)
+
+<use figs/experimental/SEM.png>
+Package pdftex.def Info: figs/experimental/SEM.png used on input line 152.
+(pdftex.def)             Requested size: 199.16988pt x 113.81062pt.
+ [11 <./figs/experimental/AFM_front_view.png> <./figs/experimental/AFM_tip.png>
+]
+<figs/experimental/ebeam_developed_10x.png, id=105, 616.704pt x 462.528pt>
+File: figs/experimental/ebeam_developed_10x.png Graphic file (type png)
+
+<use figs/experimental/ebeam_developed_10x.png>
+Package pdftex.def Info: figs/experimental/ebeam_developed_10x.png used on inpu
+t line 162.
+(pdftex.def)             Requested size: 142.26239pt x 113.81085pt.
+
+<figs/experimental/ebeam_developed_100x.png, id=106, 616.704pt x 462.528pt>
+File: figs/experimental/ebeam_developed_100x.png Graphic file (type png)
+
+<use figs/experimental/ebeam_developed_100x.png>
+Package pdftex.def Info: figs/experimental/ebeam_developed_100x.png used on inp
+ut line 167.
+(pdftex.def)             Requested size: 142.26239pt x 113.81085pt.
+Package acronym Info: Label `acro:BJD' newly defined as it shall be overridden
+although it is yet undefined on input line 173.
+Package acronym Info: Label `acro:Ti' newly defined as it shall be overridden
+although it is yet undefined on input line 173.
+
+<figs/experimental/liftoff_10x.png, id=107, 616.704pt x 462.528pt>
+File: figs/experimental/liftoff_10x.png Graphic file (type png)
+
+<use figs/experimental/liftoff_10x.png>
+Package pdftex.def Info: figs/experimental/liftoff_10x.png used on input line 1
+93.
+(pdftex.def)             Requested size: 142.26239pt x 113.81085pt.
+
+<figs/experimental/liftoff_100x.png, id=108, 616.704pt x 462.528pt>
+File: figs/experimental/liftoff_100x.png Graphic file (type png)
+
+<use figs/experimental/liftoff_100x.png>
+Package pdftex.def Info: figs/experimental/liftoff_100x.png used on input line 
+198.
+(pdftex.def)             Requested size: 142.26239pt x 113.81085pt.
+Package acronym Info: Label `acro:PPMS' newly defined as it shall be overridden
+
+although it is yet undefined on input line 207.
+
+<figs/experimental/measurement_setup.png, id=109, 2457.18pt x 3276.24pt>
+File: figs/experimental/measurement_setup.png Graphic file (type png)
+
+<use figs/experimental/measurement_setup.png>
+Package pdftex.def Info: figs/experimental/measurement_setup.png used on input 
+line 213.
+(pdftex.def)             Requested size: 113.79277pt x 113.78027pt.
+
+<figs/experimental/vacuum_measurement.png, id=110, 3276.24pt x 2457.18pt>
+File: figs/experimental/vacuum_measurement.png Graphic file (type png)
+
+<use figs/experimental/vacuum_measurement.png>
+Package pdftex.def Info: figs/experimental/vacuum_measurement.png used on input
+ line 218.
+(pdftex.def)             Requested size: 113.78027pt x 113.79277pt.
+
+<figs/experimental/ppms.png, id=111, 1204.5pt x 1606.0pt>
+File: figs/experimental/ppms.png Graphic file (type png)
+
+<use figs/experimental/ppms.png>
+Package pdftex.def Info: figs/experimental/ppms.png used on input line 223.
+(pdftex.def)             Requested size: 113.80379pt x 170.70569pt.
+ [12 <./figs/experimental/SEM.png> <./figs/experimental/ebeam_developed_10x.png
+> <./figs/experimental/ebeam_developed_100x.png>]) [13 <./figs/experimental/lif
+toff_10x.png> <./figs/experimental/liftoff_100x.png> <./figs/experimental/measu
+rement_setup.png> <./figs/experimental/vacuum_measurement.png> <./figs/experime
+ntal/ppms.png>]
+\openout2 = `chapters/results.aux'.
+
+ (./chapters/results.tex
+Chapter 3.
+Package acronym Info: Label `acro:2DEG' newly defined as it shall be overridden
+
+although it is yet undefined on input line 2.
+Package acronym Info: Label `acro:2DHG' newly defined as it shall be overridden
+
+although it is yet undefined on input line 2.
+Package acronym Info: Label `acro:IQHE' newly defined as it shall be overridden
+
+although it is yet undefined on input line 2.
+Package acronym Info: Label `acro:SdH' newly defined as it shall be overridden
+although it is yet undefined on input line 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+Package acronym Info: Label `acro:TLM' newly defined as it shall be overridden
+although it is yet undefined on input line 7.
+
+<figs/results/transmission_line/transmission_device_pic_5-5_21_10232015_no1.png
+, id=121, 362.3136pt x 265.9536pt>
+File: figs/results/transmission_line/transmission_device_pic_5-5_21_10232015_no
+1.png Graphic file (type png)
+
+<use figs/results/transmission_line/transmission_device_pic_5-5_21_10232015_no1
+.png>
+Package pdftex.def Info: figs/results/transmission_line/transmission_device_pic
+_5-5_21_10232015_no1.png used on input line 10.
+(pdftex.def)             Requested size: 199.16805pt x 142.26956pt.
+
+<figs/results/transmission_line/transmission_resistance_plot_pic_5-5_21_1023201
+5_no1.png, id=122, 542.025pt x 416.55624pt>
+File: figs/results/transmission_line/transmission_resistance_plot_pic_5-5_21_10
+232015_no1.png Graphic file (type png)
+
+<use figs/results/transmission_line/transmission_resistance_plot_pic_5-5_21_102
+32015_no1.png>
+Package pdftex.def Info: figs/results/transmission_line/transmission_resistance
+_plot_pic_5-5_21_10232015_no1.png used on input line 28.
+(pdftex.def)             Requested size: 120.91653pt x 99.58145pt.
+
+<figs/results/transmission_line/transmission_resistance_plot_pic_56_21_10232015
+_no2.png, id=123, 542.025pt x 416.55624pt>
+File: figs/results/transmission_line/transmission_resistance_plot_pic_56_21_102
+32015_no2.png Graphic file (type png)
+
+<use figs/results/transmission_line/transmission_resistance_plot_pic_56_21_1023
+2015_no2.png>
+Package pdftex.def Info: figs/results/transmission_line/transmission_resistance
+_plot_pic_56_21_10232015_no2.png used on input line 33.
+(pdftex.def)             Requested size: 120.91653pt x 99.58145pt.
+
+<figs/results/transmission_line/transmission_resistance_plot_pic_-66_21_1118201
+5_no2.png, id=124, 542.025pt x 416.55624pt>
+File: figs/results/transmission_line/transmission_resistance_plot_pic_-66_21_11
+182015_no2.png Graphic file (type png)
+
+<use figs/results/transmission_line/transmission_resistance_plot_pic_-66_21_111
+82015_no2.png>
+Package pdftex.def Info: figs/results/transmission_line/transmission_resistance
+_plot_pic_-66_21_11182015_no2.png used on input line 38.
+(pdftex.def)             Requested size: 120.91653pt x 99.58145pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--43
+
+ []
+
+[14
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+[15 <./figs/results/transmission_line/transmission_device_pic_5-5_21_10232015_n
+o1.png> <./figs/results/transmission_line/transmission_resistance_plot_pic_5-5_
+21_10232015_no1.png> <./figs/results/transmission_line/transmission_resistance_
+plot_pic_56_21_10232015_no2.png> <./figs/results/transmission_line/transmission
+_resistance_plot_pic_-66_21_11182015_no2.png>] [16]
+<figs/results/hall_diagram.png, id=140, 363.60844pt x 280.04625pt>
+File: figs/results/hall_diagram.png Graphic file (type png)
+
+<use figs/results/hall_diagram.png>
+Package pdftex.def Info: figs/results/hall_diagram.png used on input line 100.
+(pdftex.def)             Requested size: 227.62643pt x 170.72112pt.
+
+<figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no1.png, id=1
+41, 616.704pt x 462.528pt>
+File: figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no1.png 
+Graphic file (type png)
+
+<use figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no1.png>
+Package pdftex.def Info: figs/results/hall_bar_doped_channel/hall_bar_device_pi
+c_11192015_no1.png used on input line 110.
+(pdftex.def)             Requested size: 120.9202pt x 99.58272pt.
+
+<figs/results/hall_bar_doped_channel/Vds-Id_1V_-1V-Vbg_20V_-70V_T1-D_T5_S_300K_
+plot_modified_11192015_no2.png, id=142, 542.025pt x 416.55624pt>
+File: figs/results/hall_bar_doped_channel/Vds-Id_1V_-1V-Vbg_20V_-70V_T1-D_T5_S_
+300K_plot_modified_11192015_no2.png Graphic file (type png)
+
+<use figs/results/hall_bar_doped_channel/Vds-Id_1V_-1V-Vbg_20V_-70V_T1-D_T5_S_3
+00K_plot_modified_11192015_no2.png>
+Package pdftex.def Info: figs/results/hall_bar_doped_channel/Vds-Id_1V_-1V-Vbg_
+20V_-70V_T1-D_T5_S_300K_plot_modified_11192015_no2.png used on input line 115.
+(pdftex.def)             Requested size: 120.91653pt x 99.58145pt.
+
+<figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no1_conduct_v
+s_Vbg_all_temps.png, id=143, 542.025pt x 463.7325pt>
+File: figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no1_cond
+uct_vs_Vbg_all_temps.png Graphic file (type png)
+
+<use figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no1_condu
+ct_vs_Vbg_all_temps.png>
+Package pdftex.def Info: figs/results/hall_bar_doped_channel/hall_bar_device_pi
+c_11192015_no1_conduct_vs_Vbg_all_temps.png used on input line 120.
+(pdftex.def)             Requested size: 120.91653pt x 99.58025pt.
+
+<figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no1_mu_hall_v
+s_Vbg_all_temps.png, id=144, 542.025pt x 416.55624pt>
+File: figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no1_mu_h
+all_vs_Vbg_all_temps.png Graphic file (type png)
+
+<use figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no1_mu_ha
+ll_vs_Vbg_all_temps.png>
+Package pdftex.def Info: figs/results/hall_bar_doped_channel/hall_bar_device_pi
+c_11192015_no1_mu_hall_vs_Vbg_all_temps.png used on input line 126.
+(pdftex.def)             Requested size: 120.91653pt x 99.58145pt.
+
+<figs/results/hall_bar_doped_channel/HallMobility_Vs_T_for_fixed_carrier_consen
+trations_plot_modified_11192015_no2.png, id=145, 542.025pt x 416.55624pt>
+File: figs/results/hall_bar_doped_channel/HallMobility_Vs_T_for_fixed_carrier_c
+onsentrations_plot_modified_11192015_no2.png Graphic file (type png)
+
+<use figs/results/hall_bar_doped_channel/HallMobility_Vs_T_for_fixed_carrier_co
+nsentrations_plot_modified_11192015_no2.png>
+Package pdftex.def Info: figs/results/hall_bar_doped_channel/HallMobility_Vs_T_
+for_fixed_carrier_consentrations_plot_modified_11192015_no2.png used on input l
+ine 131.
+(pdftex.def)             Requested size: 120.91653pt x 99.58145pt.
+
+<figs/results/hall_bar_doped_channel/Charge_density_Vs_Vbg_different_Temp_plot_
+modified_11192015_no1.png, id=146, 542.025pt x 416.55624pt>
+File: figs/results/hall_bar_doped_channel/Charge_density_Vs_Vbg_different_Temp_
+plot_modified_11192015_no1.png Graphic file (type png)
+
+<use figs/results/hall_bar_doped_channel/Charge_density_Vs_Vbg_different_Temp_p
+lot_modified_11192015_no1.png>
+Package pdftex.def Info: figs/results/hall_bar_doped_channel/Charge_density_Vs_
+Vbg_different_Temp_plot_modified_11192015_no1.png used on input line 136.
+(pdftex.def)             Requested size: 120.91653pt x 99.58145pt.
+ [17 <./figs/results/hall_diagram.png>]
+<figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate_5-5_
+21_no1.png, id=151, 187.902pt x 193.2018pt>
+File: figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate
+_5-5_21_no1.png Graphic file (type png)
+
+<use figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate_
+5-5_21_no1.png>
+Package pdftex.def Info: figs/results/hall_bar_doped_channel_doped_contacts/pWS
+e2_on_hBN_substrate_5-5_21_no1.png used on input line 178.
+(pdftex.def)             Requested size: 85.35791pt x 106.70056pt.
+
+<figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate_with
+_top_hBN_5-5_21_no1.png, id=152, 179.2296pt x 193.6836pt>
+File: figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate
+_with_top_hBN_5-5_21_no1.png Graphic file (type png)
+
+<use figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate_
+with_top_hBN_5-5_21_no1.png>
+Package pdftex.def Info: figs/results/hall_bar_doped_channel_doped_contacts/pWS
+e2_on_hBN_substrate_with_top_hBN_5-5_21_no1.png used on input line 183.
+(pdftex.def)             Requested size: 85.35918pt x 106.69771pt.
+
+<figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate_with
+_top_hBN_doped_contact_transfer_5-5_21_no1.png, id=153, 165.2574pt x 199.4652pt
+>
+File: figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate
+_with_top_hBN_doped_contact_transfer_5-5_21_no1.png Graphic file (type png)
+
+<use figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_substrate_
+with_top_hBN_doped_contact_transfer_5-5_21_no1.png>
+Package pdftex.def Info: figs/results/hall_bar_doped_channel_doped_contacts/pWS
+e2_on_hBN_substrate_with_top_hBN_doped_contact_transfer_5-5_21_no1.png used on 
+input line 188.
+(pdftex.def)             Requested size: 85.35939pt x 106.69913pt.
+
+<figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_device_with_electrode
+s_5-5_21_no1.png, id=154, 295.8252pt x 211.992pt>
+File: figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_device_with_elec
+trodes_5-5_21_no1.png Graphic file (type png)
+
+<use figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_device_with_elect
+rodes_5-5_21_no1.png>
+Package pdftex.def Info: figs/results/hall_bar_doped_channel_doped_contacts/pWS
+e2_device_with_electrodes_5-5_21_no1.png used on input line 193.
+(pdftex.def)             Requested size: 85.35828pt x 106.7009pt.
+
+<figs/results/hall_bar_doped_channel_doped_contacts/Vds-Id_Vds_1V_-1V-Vbg_-20V_
+-100V_T2-T3_300K-04_plot_before_anneal_5-5_21_no1.png, id=155, 542.025pt x 416.
+55624pt>
+File: figs/results/hall_bar_doped_channel_doped_contacts/Vds-Id_Vds_1V_-1V-Vbg_
+-20V_-100V_T2-T3_300K-04_plot_before_anneal_5-5_21_no1.png Graphic file (type p
+ng)
+
+<use figs/results/hall_bar_doped_channel_doped_contacts/Vds-Id_Vds_1V_-1V-Vbg_-
+20V_-100V_T2-T3_300K-04_plot_before_anneal_5-5_21_no1.png>
+Package pdftex.def Info: figs/results/hall_bar_doped_channel_doped_contacts/Vds
+-Id_Vds_1V_-1V-Vbg_-20V_-100V_T2-T3_300K-04_plot_before_anneal_5-5_21_no1.png u
+sed on input line 198.
+(pdftex.def)             Requested size: 120.91653pt x 99.58145pt.
+
+<figs/results/hall_bar_doped_channel_doped_contacts/Vds-Id_Vds_1V_-1V-Vbg_-30V_
+-100V_T2-T3_10K-03_plot_before_anneal_5-5_21_no1.png, id=156, 542.025pt x 416.5
+5624pt>
+File: figs/results/hall_bar_doped_channel_doped_contacts/Vds-Id_Vds_1V_-1V-Vbg_
+-30V_-100V_T2-T3_10K-03_plot_before_anneal_5-5_21_no1.png Graphic file (type pn
+g)
+
+<use figs/results/hall_bar_doped_channel_doped_contacts/Vds-Id_Vds_1V_-1V-Vbg_-
+30V_-100V_T2-T3_10K-03_plot_before_anneal_5-5_21_no1.png>
+Package pdftex.def Info: figs/results/hall_bar_doped_channel_doped_contacts/Vds
+-Id_Vds_1V_-1V-Vbg_-30V_-100V_T2-T3_10K-03_plot_before_anneal_5-5_21_no1.png us
+ed on input line 202.
+(pdftex.def)             Requested size: 120.91653pt x 99.58145pt.
+
+<figs/results/hall_bar_doped_channel_doped_contacts/Two_Probe_FE_Mobility_Vs_T_
+Vds_-1V_-50mV_plot_pre_anneal_5-5_21_no1.png, id=157, 542.025pt x 416.55624pt>
+File: figs/results/hall_bar_doped_channel_doped_contacts/Two_Probe_FE_Mobility_
+Vs_T_Vds_-1V_-50mV_plot_pre_anneal_5-5_21_no1.png Graphic file (type png)
+
+<use figs/results/hall_bar_doped_channel_doped_contacts/Two_Probe_FE_Mobility_V
+s_T_Vds_-1V_-50mV_plot_pre_anneal_5-5_21_no1.png>
+Package pdftex.def Info: figs/results/hall_bar_doped_channel_doped_contacts/Two
+_Probe_FE_Mobility_Vs_T_Vds_-1V_-50mV_plot_pre_anneal_5-5_21_no1.png used on in
+put line 206.
+(pdftex.def)             Requested size: 120.91653pt x 99.58145pt.
+
+<figs/results/hall_bar_doped_channel_doped_contacts/Vds-Id_Vds_1V_-1V-Vbg_-20V_
+-100V_T2-T3_300K-13_plot_after_anneal_5-5_21_no1.png, id=158, 542.025pt x 416.5
+5624pt>
+File: figs/results/hall_bar_doped_channel_doped_contacts/Vds-Id_Vds_1V_-1V-Vbg_
+-20V_-100V_T2-T3_300K-13_plot_after_anneal_5-5_21_no1.png Graphic file (type pn
+g)
+
+<use figs/results/hall_bar_doped_channel_doped_contacts/Vds-Id_Vds_1V_-1V-Vbg_-
+20V_-100V_T2-T3_300K-13_plot_after_anneal_5-5_21_no1.png>
+Package pdftex.def Info: figs/results/hall_bar_doped_channel_doped_contacts/Vds
+-Id_Vds_1V_-1V-Vbg_-20V_-100V_T2-T3_300K-13_plot_after_anneal_5-5_21_no1.png us
+ed on input line 212.
+(pdftex.def)             Requested size: 120.91653pt x 99.58145pt.
+
+<figs/results/hall_bar_doped_channel_doped_contacts/Vds-Id_Vds_1V_-1V-Vbg_-30V_
+-100V_T2-T3_10K-03_plot_after_anneal_5-5_21_no1.png, id=159, 542.025pt x 416.55
+624pt>
+File: figs/results/hall_bar_doped_channel_doped_contacts/Vds-Id_Vds_1V_-1V-Vbg_
+-30V_-100V_T2-T3_10K-03_plot_after_anneal_5-5_21_no1.png Graphic file (type png
+)
+
+<use figs/results/hall_bar_doped_channel_doped_contacts/Vds-Id_Vds_1V_-1V-Vbg_-
+30V_-100V_T2-T3_10K-03_plot_after_anneal_5-5_21_no1.png>
+Package pdftex.def Info: figs/results/hall_bar_doped_channel_doped_contacts/Vds
+-Id_Vds_1V_-1V-Vbg_-30V_-100V_T2-T3_10K-03_plot_after_anneal_5-5_21_no1.png use
+d on input line 216.
+(pdftex.def)             Requested size: 120.91653pt x 99.58145pt.
+
+<figs/results/hall_bar_doped_channel_doped_contacts/Two_Probe_FE_Mobility_Vs_T_
+Vds_-1V_-50mV_plot_post_anneal_5-5_21_no1.png, id=160, 542.025pt x 416.55624pt>
+File: figs/results/hall_bar_doped_channel_doped_contacts/Two_Probe_FE_Mobility_
+Vs_T_Vds_-1V_-50mV_plot_post_anneal_5-5_21_no1.png Graphic file (type png)
+
+<use figs/results/hall_bar_doped_channel_doped_contacts/Two_Probe_FE_Mobility_V
+s_T_Vds_-1V_-50mV_plot_post_anneal_5-5_21_no1.png>
+Package pdftex.def Info: figs/results/hall_bar_doped_channel_doped_contacts/Two
+_Probe_FE_Mobility_Vs_T_Vds_-1V_-50mV_plot_post_anneal_5-5_21_no1.png used on i
+nput line 220.
+(pdftex.def)             Requested size: 120.91653pt x 99.58145pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--225
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--225
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--225
+
+ []
+
+[18 <./figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no1.png
+> <./figs/results/hall_bar_doped_channel/Vds-Id_1V_-1V-Vbg_20V_-70V_T1-D_T5_S_3
+00K_plot_modified_11192015_no2.png> <./figs/results/hall_bar_doped_channel/hall
+_bar_device_pic_11192015_no1_conduct_vs_Vbg_all_temps.png> <./figs/results/hall
+_bar_doped_channel/hall_bar_device_pic_11192015_no1_mu_hall_vs_Vbg_all_temps.pn
+g> <./figs/results/hall_bar_doped_channel/HallMobility_Vs_T_for_fixed_carrier_c
+onsentrations_plot_modified_11192015_no2.png> <./figs/results/hall_bar_doped_ch
+annel/Charge_density_Vs_Vbg_different_Temp_plot_modified_11192015_no1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
+
+ []
+
+) [19] [20 <./figs/results/hall_bar_doped_channel_doped_contacts/pWSe2_on_hBN_s
+ubstrate_5-5_21_no1.png> <./figs/results/hall_bar_doped_channel_doped_contacts/
+pWSe2_on_hBN_substrate_with_top_hBN_5-5_21_no1.png> <./figs/results/hall_bar_do
+ped_channel_doped_contacts/pWSe2_on_hBN_substrate_with_top_hBN_doped_contact_tr
+ansfer_5-5_21_no1.png> <./figs/results/hall_bar_doped_channel_doped_contacts/pW
+Se2_device_with_electrodes_5-5_21_no1.png> <./figs/results/hall_bar_doped_chann
+el_doped_contacts/Vds-Id_Vds_1V_-1V-Vbg_-20V_-100V_T2-T3_300K-04_plot_before_an
+neal_5-5_21_no1.png> <./figs/results/hall_bar_doped_channel_doped_contacts/Vds-
+Id_Vds_1V_-1V-Vbg_-30V_-100V_T2-T3_10K-03_plot_before_anneal_5-5_21_no1.png> <.
+/figs/results/hall_bar_doped_channel_doped_contacts/Two_Probe_FE_Mobility_Vs_T_
+Vds_-1V_-50mV_plot_pre_anneal_5-5_21_no1.png> <./figs/results/hall_bar_doped_ch
+annel_doped_contacts/Vds-Id_Vds_1V_-1V-Vbg_-20V_-100V_T2-T3_300K-13_plot_after_
+anneal_5-5_21_no1.png> <./figs/results/hall_bar_doped_channel_doped_contacts/Vd
+s-Id_Vds_1V_-1V-Vbg_-30V_-100V_T2-T3_10K-03_plot_after_anneal_5-5_21_no1.png> <
+./figs/results/hall_bar_doped_channel_doped_contacts/Two_Probe_FE_Mobility_Vs_T
+_Vds_-1V_-50mV_plot_post_anneal_5-5_21_no1.png>]
+\openout2 = `chapters/future.aux'.
+
+ (./chapters/future.tex
+Chapter 4.
+Package acronym Info: Label `acro:2DES' newly defined as it shall be overridden
+
+although it is yet undefined on input line 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+[21
+
+
+
+]
+<figs/future/IQHE_data_RHOxy_RHOxx.png, id=192, 292.84406pt x 219.82124pt>
+File: figs/future/IQHE_data_RHOxy_RHOxx.png Graphic file (type png)
+
+<use figs/future/IQHE_data_RHOxy_RHOxx.png>
+Package pdftex.def Info: figs/future/IQHE_data_RHOxy_RHOxx.png used on input li
+ne 35.
+(pdftex.def)             Requested size: 142.2705pt x 142.26828pt.
+Package acronym Info: Label `acro:QHE' newly defined as it shall be overridden
+although it is yet undefined on input line 42.
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+[22 <./figs/future/IQHE_data_RHOxy_RHOxx.png>]
+Package acronym Info: Label `acro:TFT' newly defined as it shall be overridden
+although it is yet undefined on input line 49.
+) [23] [24] (./prospectus.bbl
+[25
+
+
+] [26]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+ [27] [28] [29] [30]) [31] [32
+
+
+]
+\openout2 = `backmatter/acronyms.aux'.
+
+ (./backmatter/acronyms.tex [33
+
+])
+[34] (./prospectus.aux (./frontmatter/title.aux) (./frontmatter/abstract.aux)
+(./frontmatter/acknowledgements.aux) (./chapters/intro.aux)
+(./chapters/experimental.aux) (./chapters/results.aux) (./chapters/future.aux)
+(./backmatter/acronyms.aux)) ) 
+Here is how much of TeX's memory you used:
+ 28907 strings out of 493109
+ 611839 string characters out of 6138587
+ 606531 words of memory out of 5000000
+ 31821 multiletter control sequences out of 15000+600000
+ 13819 words of font info for 52 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 62i,17n,69p,10402b,758s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2014/texmf-dist/fonts/enc/dvips/cm-su
+per/cm-super-ts1.enc}<c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmbx10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.p
+fb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb><c:/tex
+live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2014
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2014/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2014/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2014/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.
+pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/tex
+live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2014
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2014/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2014/texmf-dist/fonts/t
+ype1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2014/texmf-dist/fonts/type1
+/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/pub
+lic/amsfonts/symbols/msbm7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/c
+m-super/sfrm0700.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sf
+rm1000.pfb>
+Output written on prospectus.pdf (41 pages, 18775288 bytes).
+PDF statistics:
+ 301 PDF objects out of 1000 (max. 8388607)
+ 155 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 263 words of extra memory for PDF output out of 10000 (max. 10000000)
+

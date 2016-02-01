@@ -11,44 +11,44 @@ A level-1 auxiliary file: chapters/future.aux
 The style file: unsrt.bst
 A level-1 auxiliary file: backmatter/acronyms.aux
 Database file #1: refs/database.bib
-You've used 108 entries,
+You've used 114 entries,
             1791 wiz_defined-function locations,
-            1185 strings with 25035 characters,
-and the built_in function-call counts, 25877 in all, are:
-= -- 2156
-> -- 1451
+            1216 strings with 26564 characters,
+and the built_in function-call counts, 27746 in all, are:
+= -- 2298
+> -- 1592
 < -- 7
-+ -- 529
-- -- 421
-* -- 2045
-:= -- 4301
-add.period$ -- 330
-call.type$ -- 108
-change.case$ -- 103
++ -- 578
+- -- 464
+* -- 2229
+:= -- 4620
+add.period$ -- 348
+call.type$ -- 114
+change.case$ -- 109
 chr.to.int$ -- 0
-cite$ -- 108
-duplicate$ -- 969
-empty$ -- 2385
-format.name$ -- 421
-if$ -- 5561
+cite$ -- 114
+duplicate$ -- 1023
+empty$ -- 2535
+format.name$ -- 464
+if$ -- 5943
 int.to.chr$ -- 0
-int.to.str$ -- 108
-missing$ -- 109
-newline$ -- 549
-num.names$ -- 108
-pop$ -- 210
+int.to.str$ -- 114
+missing$ -- 115
+newline$ -- 579
+num.names$ -- 114
+pop$ -- 216
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 377
+skip$ -- 395
 stack$ -- 0
-substring$ -- 1838
-swap$ -- 138
+substring$ -- 1998
+swap$ -- 144
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 231
-width$ -- 111
-write$ -- 1195
+while$ -- 247
+width$ -- 117
+write$ -- 1261

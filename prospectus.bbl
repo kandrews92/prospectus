@@ -635,4 +635,44 @@ Nathaniel Gillgren, Darshana Wickramaratne, Yanmeng Shi, Tim Espiritu, Jiawei
   few-layer phosphorene heterostructures.
 \newblock {\em 2D Materials}, 2(1):011001, 2015.
 
+\bibitem{Li_PhysRevB2013}
+Xiaodong Li, Jeffrey~T Mullen, Zhenghe Jin, Kostyantyn~M Borysenko,
+  M~Buongiorno Nardelli, and Ki~Wook Kim.
+\newblock Intrinsic electrical transport properties of monolayer silicene and
+  mos 2 from first principles.
+\newblock {\em Physical Review B}, 87(11):115418, 2013.
+
+\bibitem{Radisavljevic_NatureNano2011}
+Branimir Radisavljevic, Aleksandra Radenovic, Jacopo Brivio, V~Giacometti, and
+  A~Kis.
+\newblock Single-layer mos2 transistors.
+\newblock {\em Nature nanotechnology}, 6(3):147--150, 2011.
+
+\bibitem{Kappera_APLmat2014}
+Rajesh Kappera, Damien Voiry, Sibel~Ebru Yalcin, Wesley Jen, Muharrem Acerce,
+  Sol Torrel, Brittany Branch, Sidong Lei, Weibing Chen, Sina Najmaei, et~al.
+\newblock Metallic 1t phase source/drain electrodes for field effect
+  transistors from chemical vapor deposited mos2.
+\newblock {\em APL Materials}, 2(9):092516, 2014.
+
+\bibitem{Liu_NanoLett2013}
+Wei Liu, Jiahao Kang, Deblina Sarkar, Yasin Khatami, Debdeep Jena, and Kaustav
+  Banerjee.
+\newblock Role of metal contacts in designing high-performance monolayer n-type
+  wse2 field effect transistors.
+\newblock {\em Nano letters}, 13(5):1983--1990, 2013.
+
+\bibitem{Das_NanoLett2014}
+Saptarshi Das, Richard Gulotty, Anirudha~V Sumant, and Andreas Roelofs.
+\newblock All two-dimensional, flexible, transparent, and thinnest thin film
+  transistor.
+\newblock {\em Nano letters}, 14(5):2861--2866, 2014.
+
+\bibitem{Bhimanapati_ACSnano2015}
+Ganesh~R Bhimanapati, Zhong Lin, Vincent Meunier, Yeonwoong Jung, Judy Cha,
+  Saptarshi Das, Di~Xiao, Youngwoo Son, Michael~S Strano, Valentino~R Cooper,
+  et~al.
+\newblock Recent advances in two-dimensional materials beyond graphene.
+\newblock {\em ACS nano}, 9(12):11509--11539, 2015.
+
 \end{thebibliography}

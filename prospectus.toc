@@ -33,5 +33,5 @@
 \contentsline {section}{\numberline {4.2}Shubnikov-de Haas Oscillations}{23}
 \contentsline {section}{\numberline {4.3}Performance Limits in \acp {TMD}}{23}
 \contentsline {section}{\numberline {4.4}Conclusion}{23}
-\contentsline {chapter}{References}{24}
-\contentsline {chapter}{Appendices}{30}
+\contentsline {chapter}{References}{25}
+\contentsline {chapter}{Appendices}{32}
