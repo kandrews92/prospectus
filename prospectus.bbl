@@ -387,6 +387,47 @@ Mojtaba Farmanbar and Geert Brocks.
 \newblock Ohmic contacts to 2d semiconductors through van der waals bonding.
 \newblock {\em arXiv preprint arXiv:1601.02163}, 2016.
 
+\bibitem{Keyes_PhysRev1953}
+Robert~W Keyes.
+\newblock The electrical properties of black phosphorus.
+\newblock {\em Physical Review}, 92(3):580, 1953.
+
+\bibitem{Maruyama_PhysB1981}
+Y~Maruyama, S~Suzuki, K~Kobayashi, and S~Tanuma.
+\newblock Synthesis and some properties of black phosphorus single crystals.
+\newblock {\em Physica B+ C}, 105(1):99--102, 1981.
+
+\bibitem{Tran_PhysRevB2014}
+Vy~Tran, Ryan Soklaski, Yufeng Liang, and Li~Yang.
+\newblock Layer-controlled band gap and anisotropic excitons in few-layer black
+  phosphorus.
+\newblock {\em Phys. Rev. B}, 89:235319, Jun 2014.
+
+\bibitem{Li_NatureNano2014}
+Likai Li, Yijun Yu, Guo~Jun Ye, Qingqin Ge, Xuedong Ou, Hua Wu, Donglai Feng,
+  Xian~Hui Chen, and Yuanbo Zhang.
+\newblock Black phosphorus field-effect transistors.
+\newblock {\em Nature nanotechnology}, 9(5):372--377, 2014.
+
+\bibitem{Koenig_AppPhysLett2014}
+Steven~P Koenig, Rostislav~A Doganov, Hennrik Schmidt, AH~Castro Neto, and
+  Barbaros Oezyilmaz.
+\newblock Electric field effect in ultrathin black phosphorus.
+\newblock {\em Applied Physics Letters}, 104(10):103106, 2014.
+
+\bibitem{Xia_NatureComm2014}
+Fengnian Xia, Han Wang, and Yichen Jia.
+\newblock Rediscovering black phosphorus as an anisotropic layered material for
+  optoelectronics and electronics.
+\newblock {\em Nature communications}, 5, 2014.
+
+\bibitem{Li_NatureNano2015}
+Likai Li, Guo~Jun Ye, Vy~Tran, Ruixiang Fei, Guorui Chen, Huichao Wang, Jian
+  Wang, Kenji Watanabe, Takashi Taniguchi, Li~Yang, et~al.
+\newblock Quantum oscillations in a two-dimensional electron gas in black
+  phosphorus thin films.
+\newblock {\em Nature nanotechnology}, 2015.
+
 \bibitem{Choi_AppPhysLett2004}
 Rino Choi, Chang~Seok Kang, Hag-Ju Cho, Young-Hee Kim, Mohammad~S. Akbar, and
   Jack~C. Lee.
@@ -466,13 +507,6 @@ NR~Pradhan, D~Rhodes, S~Memaran, JM~Poumirol, D~Smirnov, S~Talapatra, S~Feng,
 \newblock Hall and field-effect mobilities in few layered p-wse2 field-effect
   transistors.
 \newblock {\em Scientific reports}, 5, 2015.
-
-\bibitem{Li_NatureNano2015}
-Likai Li, Guo~Jun Ye, Vy~Tran, Ruixiang Fei, Guorui Chen, Huichao Wang, Jian
-  Wang, Kenji Watanabe, Takashi Taniguchi, Li~Yang, et~al.
-\newblock Quantum oscillations in a two-dimensional electron gas in black
-  phosphorus thin films.
-\newblock {\em Nature nanotechnology}, 2015.
 
 \bibitem{Stassen_AppPhysLett2004}
 A.~F. {Stassen}, R.~W.~I. {de Boer}, N.~N. {Iosad}, and A.~F. {Morpurgo}.
@@ -573,6 +607,11 @@ LD~Landau.
 \newblock See appendix to d. shoenberg.
 \newblock In {\em Proc. Roy. Soc. A}, volume 170, page 341, 1939.
 
+\bibitem{Shoenberg_Magnet1984}
+David Shoenberg.
+\newblock {\em Magnetic oscillations in metals}.
+\newblock Cambridge University Press, 1984.
+
 \bibitem{Das_Wiley1996}
 Sankar Das~Sarma and Aron Pinczuk.
 \newblock Perspectives in quantum hall effects: Novel quantum liquids in
@@ -595,10 +634,5 @@ Nathaniel Gillgren, Darshana Wickramaratne, Yanmeng Shi, Tim Espiritu, Jiawei
 \newblock Gate tunable quantum oscillations in air-stable and high mobility
   few-layer phosphorene heterostructures.
 \newblock {\em 2D Materials}, 2(1):011001, 2015.
-
-\bibitem{Shoenberg_Magnet1984}
-David Shoenberg.
-\newblock {\em Magnetic oscillations in metals}.
-\newblock Cambridge University Press, 1984.
 
 \end{thebibliography}

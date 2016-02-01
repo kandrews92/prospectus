@@ -1,37 +1,37 @@
 \contentsline {section}{List of Figures}{v}
 \contentsline {section}{List of Tables}{vi}
 \contentsline {chapter}{\numberline {1}Introduction}{1}
-\contentsline {section}{\numberline {1.1}Birth of Integrated Circuits}{1}
+\contentsline {section}{\numberline {1.1}Early Semiconductors}{1}
 \contentsline {section}{\numberline {1.2}Graphene as a New Two-dimensional Material}{1}
 \contentsline {subsection}{\numberline {1.2.1}Properties of Graphene}{1}
 \contentsline {subsection}{\numberline {1.2.2}Band Structure of Graphene}{2}
 \contentsline {section}{\numberline {1.3}Two-dimensional Materials: Transition Metal Dichalcogenides}{3}
 \contentsline {subsection}{\numberline {1.3.1}Band Structures of \acp {TMD}}{3}
 \contentsline {section}{\numberline {1.4}Current Challenges in \acp {TMD} and Beyond}{3}
-\contentsline {chapter}{\numberline {2}Experimental Details}{5}
-\contentsline {section}{\numberline {2.1}Substrate Preperation}{5}
-\contentsline {subsection}{\numberline {2.1.1}Substrate Cleaning}{5}
-\contentsline {section}{\numberline {2.2}Exfoliation}{6}
-\contentsline {section}{\numberline {2.3}Device Synthesis}{7}
-\contentsline {subsection}{\numberline {2.3.1}\acs {PDMS} Transfer}{7}
-\contentsline {subsection}{\numberline {2.3.2}Polycarbonate Pickup Method}{8}
-\contentsline {section}{\numberline {2.4}Characterization}{9}
-\contentsline {subsection}{\numberline {2.4.1}Optical Characterization}{9}
-\contentsline {subsection}{\numberline {2.4.2}AFM Characterization}{9}
-\contentsline {section}{\numberline {2.5}Device Fabrication}{10}
-\contentsline {subsection}{\numberline {2.5.1}Device Design}{10}
-\contentsline {subsection}{\numberline {2.5.2}Electron Beam Lithography}{10}
-\contentsline {subsection}{\numberline {2.5.3}Metal Deposition}{11}
-\contentsline {section}{\numberline {2.6}Electrical Measurements and Characterization}{11}
-\contentsline {subsection}{\numberline {2.6.1}Measurement Devices}{12}
-\contentsline {chapter}{\numberline {3}Intrinsic Channel Properties and Scattering Mechanisms}{13}
-\contentsline {section}{\numberline {3.1}$p$-type \ch {WSe2} Semiconductor Contact Resistance}{13}
-\contentsline {section}{\numberline {3.2}$p$-type \ch {WSe2} Hall Effect Measurements}{15}
-\contentsline {section}{\numberline {3.3}$p$-type \ch {WSe2} Field-Effect Mobility}{16}
+\contentsline {chapter}{\numberline {2}Experimental Details}{6}
+\contentsline {section}{\numberline {2.1}Substrate Preperation}{6}
+\contentsline {subsection}{\numberline {2.1.1}Substrate Cleaning}{6}
+\contentsline {section}{\numberline {2.2}Exfoliation}{7}
+\contentsline {section}{\numberline {2.3}Device Synthesis}{8}
+\contentsline {subsection}{\numberline {2.3.1}\acs {PDMS} Transfer}{8}
+\contentsline {subsection}{\numberline {2.3.2}Polycarbonate Pickup Method}{9}
+\contentsline {section}{\numberline {2.4}Characterization}{10}
+\contentsline {subsection}{\numberline {2.4.1}Optical Characterization}{10}
+\contentsline {subsection}{\numberline {2.4.2}AFM Characterization}{10}
+\contentsline {section}{\numberline {2.5}Device Fabrication}{11}
+\contentsline {subsection}{\numberline {2.5.1}Device Design}{11}
+\contentsline {subsection}{\numberline {2.5.2}Electron Beam Lithography}{11}
+\contentsline {subsection}{\numberline {2.5.3}Metal Deposition}{12}
+\contentsline {section}{\numberline {2.6}Electrical Measurements and Characterization}{12}
+\contentsline {subsection}{\numberline {2.6.1}Measurement Devices}{13}
+\contentsline {chapter}{\numberline {3}Intrinsic Channel Properties and Scattering Mechanisms}{14}
+\contentsline {section}{\numberline {3.1}$p$-type \ch {WSe2} Semiconductor Contact Resistance}{14}
+\contentsline {section}{\numberline {3.2}$p$-type \ch {WSe2} Hall Effect Measurements}{16}
+\contentsline {section}{\numberline {3.3}$p$-type \ch {WSe2} Field-Effect Mobility}{17}
 \contentsline {chapter}{\numberline {4}Future Works and Conclusion}{21}
-\contentsline {section}{\numberline {4.1}Performance Limits in \acp {TMD}}{21}
-\contentsline {section}{\numberline {4.2}Integer Quantum Hall Effects}{21}
-\contentsline {section}{\numberline {4.3}Shubnikov-de Haas Oscillations}{23}
-\contentsline {section}{\numberline {4.4}Limitations}{23}
+\contentsline {section}{\numberline {4.1}Integer Quantum Hall Effects}{21}
+\contentsline {section}{\numberline {4.2}Shubnikov-de Haas Oscillations}{23}
+\contentsline {section}{\numberline {4.3}Performance Limits in \acp {TMD}}{23}
+\contentsline {section}{\numberline {4.4}Conclusion}{23}
 \contentsline {chapter}{References}{24}
 \contentsline {chapter}{Appendices}{30}
