@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.33pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Review of correlation}{3}{0}{1}
+\beamer@sectionintoc {2}{Regression lines}{7}{0}{2}
+\beamer@sectionintoc {3}{Interpretation}{13}{0}{3}
+\beamer@subsectionintoc {3}{1}{Is there really a correlation?}{13}{0}{3}
+\beamer@subsectionintoc {3}{2}{Causal relations}{22}{0}{3}

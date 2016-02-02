@@ -1,0 +1,717 @@
+% $Header: /cvsroot/latex-beamer/latex-beamer/solutions/generic-talks/generic-ornate-15min-45min.en.tex,v 1.4 2004/10/07 20:53:08 tantau Exp $
+
+\documentclass{beamer}
+
+% This file is a solution template for:
+
+% - Giving a talk on some subject.
+% - The talk is between 15min and 45min long.
+% - Style is ornate.
+
+
+\mode<presentation>
+{
+  \usetheme{Warsaw}
+  % or ...
+
+  \setbeamercovered{transparent}
+  % or whatever (possibly just delete it)
+}
+
+
+\usepackage[english]{babel}
+% or whatever
+
+\usepackage[latin1]{inputenc}
+% or whatever
+
+\usepackage{times}
+\usepackage[T1]{fontenc}
+% Or whatever. Note that the encoding and the font should match. If T1
+% does not look nice, try deleting the line with the fontenc.
+
+
+\title[Lecture 8] % (optional, use only with long paper titles)
+{Mathematics 1000, Winter 2008}
+
+\subtitle
+{Lecture 8} % (optional)
+
+\author[S Zhang] % (optional, use only with lots of authors)
+{Sheng Zhang} %\inst{1}} % \and S.~Another\inst{2}}
+% - Use the \inst{?} command only if the authors have different
+%   affiliation.
+
+%%%  \institute[Wayne State University] % (optional, but mostly needed)
+%%%  {
+  %%%  %\inst{1}%
+  %%%  Department of Mathematics\\
+  %%%  Wayne State University}
+  %%%  % \and
+  %%%  % \inst{2}%
+  %%%  % Department of Theoretical Philosophy\\
+  %%%  % University of Elsewhere}
+%%%  % - Use the \inst command only if there are several affiliations.
+%%%  % - Keep it simple, no one is interested in your street address.
+
+\date[Short Occasion] % (optional)
+{February 4, 2007}
+
+\subject{MAT1000}
+\begin{document}
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+\begin{frame}
+  \frametitle{Today's Topics}
+  \tableofcontents
+\end{frame}
+
+\section{Review of correlation}
+
+\begin{frame}{Properties of $r$}
+\begin{itemize}
+\item
+Always between $-1$ and $1$
+\vfill
+\item
+$r > 0 $  $\longrightarrow$  positive relation
+\item
+$r < 0 $  $\longrightarrow$  negative relation
+\vfill
+\smallskip
+\item
+Close to $1$ or close to $-1$ $\longrightarrow$  strong correlation
+\item
+Close to $0$ $\longrightarrow$ weak correlation
+\end{itemize}
+\end{frame}
+
+\begin{frame}{More properties of $r$}
+\begin{itemize}
+\item
+Does not depend on units used
+\pause
+\vfill
+\item Can be affected by outliers
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Caution}
+Think about whether the value of
+$r$ calculated by your calculator makes sense in view of
+the picture as well as the context.
+\end{frame}
+
+\section{Regression lines}
+
+\begin{frame}{Warning}
+
+The book writes the equation of the regression line as
+                                  $$y = a + bx$$
+
+Many calculators use    $y = ax + b$
+
+\vfill
+\alert{These are inconsistent!}  The meanings of $a$ and $b$
+are reversed.
+
+\vfill
+If you are used to    $y = mx + b$  then your $b$ is
+the same as the calculator's.  It is not the book's $b$.  
+\end{frame}
+
+\begin{frame}{The Least-Squares Regression Line}
+
+This is the line that `best' fits the data in a specific,
+technical sense.  
+
+\vfill
+
+The slope of this line is positive when the the correlation is
+positive. 
+
+\vfill
+But the size of the slope depends on the scale used for the
+parameters.
+
+\vfill
+The size of the correlation $r$ tells you how well the straight
+regression line fits the data.
+\end{frame}
+
+\begin{frame}{Example:  Beer and Blood Alcohol Concentration}
+$r = .89$,  $m = .018$
+\includegraphics[width=3.5in]{beers.pdf}
+
+\end{frame}
+
+%%% 
+%%% \begin{frame}{Large correlation, small slope}
+%%% The correlation $r$ is $0.8943$.
+%%% 
+%%% The slope $m$ of the regression line is
+%%% $$\displaystyle r \frac{s_y}{s_x} = 0.8943 \times \frac{0.04414}{2.1975}$$
+%%% 
+%%% This is approximately $0.01796$.
+%%% 
+%%% In this example, the correlation is large (.89).
+%%% 
+%%% \vfill
+%%% 
+%%% But the slope of the regression line is only .018.
+%%% \end{frame}
+
+%%%  \begin{frame}{Formula for least squares regression line} 
+%%%  $$y = mx + b$$
+%%%  where
+%%%  $$m = r \frac{s_y}{s_x}$$
+%%%  and
+%%%  $$b = \bar{y} - m \bar{x}$$
+%%%  %%%  %%%  
+%%%  \vfill
+%%%  $r =$ correlation \\
+%%%  $s_x =$  standard deviation for $x$ \\
+%%%  $s_y =$  standard deviation for $y$
+%%%  
+%%%  \vfill
+%%%  $\bar{x} = $ average $x$ value \\
+%%%  $\bar{y} = $ average $y$ value
+%%%  \end{frame}
+
+\begin{frame}{Relation between slope and correlation}
+$$m = r \frac{s_y}{s_x}$$
+
+\noindent
+$m =$ slope \\
+$r =$ correlation\\
+$s_x =$  standard deviation for $x$ \\
+$s_y =$  standard deviation for $y$
+
+\vfill
+If $s_y$ is much larger than $s_x$, then $m$ can be big
+even if $r$ is small.
+
+\vfill
+If $s_y$ is much smaller than $s_x$, then $m$ can be small
+even if $r$ is large.
+\end{frame}
+
+\begin{frame}{Remember}
+
+There will be such a least squares regression line, whether or not it has any significance!
+
+\vfill
+When it is meaningful, we can use the regression line to
+make predictions.
+
+\vfill
+Interpretation is critical.
+\end{frame}
+
+\begin{frame}{Example}
+
+\includegraphics[width=4in]{speedfuel2.pdf}
+%  << Excel chart >>  "Speed and fuel consumption" with trendline
+%  correlation = -0.17
+
+\end{frame}
+
+\section{Interpretation} 
+\subsection{Is there really a correlation?}
+\begin{frame}{Interpreting Correlation and Regression}
+
+
+The regression line can be strongly influenced by
+a small number of outliers, sometimes even by just
+one outlier.
+
+\vfill
+To minimize the sum of squares, when there is 
+a clump of points and one outlier, the trend line
+will join that outlier to the middle of the clump.  
+\end{frame}
+
+
+\begin{frame}{Outliers Example 1}
+\includegraphics[width=4in]{exp1.pdf}
+\end{frame}
+
+\begin{frame}{Outliers Example 1, with regression line}
+\includegraphics[width=4in]{exp1L.pdf}
+\end{frame}
+
+\begin{frame}{Outliers Example 2}
+\includegraphics[width=4in]{exp2.pdf}
+\end{frame}
+
+\begin{frame}{Outliers Example 2, with regression line}
+\includegraphics[width=4in]{exp2L.pdf}
+\end{frame}
+
+\begin{frame}{Outliers Example 3}
+\includegraphics[width=4in]{exp3.pdf}
+\end{frame}
+
+\begin{frame}{Outliers Example 3, with regression line}
+\includegraphics[width=4in]{exp3L.pdf}
+\end{frame}
+
+\begin{frame}{Marriage-Divorce Rates, All States}
+\includegraphics[width=4in]{divorceall.pdf}
+\end{frame}
+%  \end{document}
+
+\begin{frame}{Marriage-Divorce Rates, w/o Hawaii and Nevada}
+\includegraphics[width=4in]{divorcenovegas.pdf}
+\end{frame}
+
+\subsection{Causal relations}
+
+\begin{frame}{Causal relations}
+
+We have a scatterplot and a correlation.
+What can we conclude from this?
+
+\vfill
+If the correlation is close to 0 or is strongly
+influenced by outliers, then the correct answer is
+``not much.''
+
+\vfill
+We'll focus now on situations where the correlation
+is high and is not influenced by outliers.
+\end{frame}
+
+\begin{frame}{Be careful!}
+This stage can be especially tricky and contentious.
+
+\vfill
+People seem to have a tendency to see a cause when
+there may be only a high correlation.
+\end{frame}
+
+\begin{frame}{Example:  Pocket change}
+There is a statistical correlation between
+an individual's height and the amount of money in
+that person's pocket.
+
+\pause
+\vfill
+Why do taller people tend to carry more money in
+their pockets?
+
+\pause
+\vfill
+Are they less afraid of being robbed?
+
+\pause
+\vfill
+Or is there some other factor at work?
+\end{frame}
+
+\begin{frame}{The underlying cause}
+There are two types of people.
+
+\pause
+\vfill
+One type tends to be taller and carry money in their
+pockets.
+
+\pause
+\vfill
+The other type tends to be shorter and carry money in
+their purses.
+\end{frame}
+
+
+\begin{frame}{Some slightly  more subtle examples}
+
+From the book:
+
+\begin{itemize}
+\item
+Children who listen to Mozart tend to score higher
+in tests of verbal skills.
+
+\item
+Countries where people spend more time watching
+television have higher life expectancies.
+
+\item
+People who drink large amounts of diet soda
+are heavier for their height than people who 
+do not.
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Example:  a cancer scare}
+
+A 1979 study found a strong correlation between 
+exposure to strong electromagnetic fields and 
+incidence of childhood leukemia.
+
+\vfill
+This was initially interpreted as evidence that
+these fields posed a health hazard.
+
+\vfill
+More extensive investigations have indicated
+that ``although some of the correlations remain
+we [researchers at the University of Texas] now 
+do not think that this type of radiation causes 
+cancer.''
+
+\vfill
+{\tt \normalsize
+% http://
+www.utexas.edu/courses/bio301d/Topics/EMF/Text.html
+}
+\end{frame}
+
+\begin{frame}{A tough call}
+Determining the direction of the causal relationship
+is sometimes tricky.
+
+\vfill
+Health and wealth are correlated, but which causes which?
+\end{frame}
+
+\begin{frame}{Global warming}
+Is there a link between human activities, such as burning
+fossil fuels (e.g., gasoline), and increasing global temperatures?
+
+\vfill
+This has been a highly contentious question.
+
+\vfill
+Last week, the IPCC, the Intergovernmental Panel on Climate
+Change, issued a report that concluded there is almost certainly
+such a causal link.
+
+\end{frame}
+
+\begin{frame}
+\includegraphics[width = 4in]{ipcc22.pdf}
+\end{frame}
+
+\begin{frame}
+For most people, this should be a definitive answer to the
+question.
+
+\vfill
+It is not difficult to find people with apparently good credentials
+who dispute that conclusion.
+\end{frame}
+
+\begin{frame}
+\includegraphics[width=4in]{marshall.pdf}
+\end{frame}
+
+
+\begin{frame}
+That the oil industry lobbying group
+is offering generous payments to people who will
+make such statements is of course rather suspicious.  
+\end{frame}
+
+\begin{frame}
+\includegraphics[width=4in]{bribe2.pdf}
+\end{frame}
+
+\begin{frame}
+Unfortunately, sorting through sophisticated, but possibly
+dishonest, claims is beyond the current scope of this course.
+
+\vfill
+The best we can hope for this semester is to be able to spot some
+of the cruder fakes.
+\end{frame}
+
+\begin{frame}{Looking ahead}
+
+Chapter 7 concerns how to gather data.
+
+\vfill
+If you want to know something about all of the
+states, you can just list them all.
+
+\vfill
+But if you want to know something about all of
+the students at Wayne State University, it is 
+probably impractical to ask every one of them.
+\end{frame}
+
+\begin{frame}{Sampling techniques}
+
+We'll be looking at sampling techniques, ways
+to look at a relatively small number of cases in
+order to get information about the whole.
+
+\vfill
+We'll see where the `margin of error' comes from
+in survey results and polls.
+\end{frame}
+
+\end{document}
+
+
+**********************
+
+Slide 1:
+Lecture 8
+
+Slide 2:
+Announcements
+The Chapter 6 Quiz will be Wednesday, October 4.
+Chapter 7 homework assignments are now posted on the website.
+The four week deadline is Monday.  After October 2, you cannot get a W grade in any class at Wayne State University.
+
+
+Slide 3:
+The Least-Squares Regression Line
+
+This is the line that “best” fits the data in a specific,
+technical sense.  
+
+The equation of the line can be calculated using the
+correlation, the standard deviations, and the means
+of the variables.
+
+Calculators and computers have built in programs to
+do this calculation.
+
+Slide 4:
+
+<< pdf file >>   "The trendline minimizes the sum of the squares ..."
+
+Slide 5:
+
+The least-squares regression line always exists.
+
+Sometimes, it is not very useful.
+
+Here’s an example from an exercise (#7) that was
+not part of the homework.
+
+Slide 6:
+
+<< Excel chart >>  "Speed and fuel consumption"
+
+Slide 7:
+
+<< Excel chart >>  "Speed and fuel consumption" with trendline
+correlation = -0.17
+
+Slide 8:
+
+If we use the regression line to calculate the fuel
+consumption at 160 km/hr, which is about 100 mph,
+we get
+
+y = -0.0147 x 160  + 11.058
+   = 8.71 liters per 100 km
+
+This is about 2.3 gallons per 100 miles,
+more than 40 miles per gallon.
+
+
+Slide 9:
+
+Based on the graph, we would not expect this
+to be a realistic estimate.
+
+However, if we restrict our attention to speeds
+of 60 km/hr (roughly 40 mph) or more, the
+data points do align much better.
+
+Slide 10:
+
+<< Excel chart >>  "Speed and fuel consumption, highway speeds"
+
+Slide 11:
+
+<< Excel chart >>  "Speed and fuel consumption, highway speeds"
+  with trendline
+
+correlation  =  0.99
+
+Slide 12:
+
+Note the improvement in correlation, from -.17 to .99.
+
+Working with this set of data, we can make a prediction
+for the gas mileage at 100 mph with considerably more
+confidence.
+
+
+Slide 13:
+
+If we use the new regression line to calculate the fuel
+consumption at 160 km/hr, which is about 100 mph,
+we get
+
+y = -0.0773 x 160  + 0.8131
+   = 13.18 liters per 100 km
+
+This is about 3.5 gallons per 60 miles,
+about 17 miles per gallon.
+
+
+Slide 14:
+
+Interpreting Correlation and Regression
+
+Rule number one:  Watch out for outliers!
+
+The regression line can be strongly influenced by
+a small number of outliers, sometimes even by just
+one outlier.
+
+Slide 15:
+
+<< Excel chart >>  "Number of Beers Consumed and BAC"
+Actual data
+
+
+Slide 16:
+<< Excel chart >>  "Number of Beers Consumed and BAC"
+(different from above)
+One incorrect data point
+
+Slide 17:
+
+To minimize the sum of squares, when there is 
+a clump of points and one outlier, the trend line
+will join that outlier to the middle of the clump.
+
+Slide 18:
+
+<< Excel chart >>  unlabeled, 7 points 0 - 250 by 0 - 120
+
+Slide 19:
+
+<< Excel chart >>  unlabeled, 7 points 0 - 250 by 0 - 120
+with trendline
+
+correlation = .98
+
+
+Slide 20:
+
+<< Excel chart >>  unlabeled, different 7 points 0 - 250 by 0 - 120
+
+Slide 21:
+
+<< Excel chart >>  as in Slide 20,
+with trendline
+correlation = -.61
+
+Slide 22:
+
+<< Excel chart >>  unlabeled, a third set of 7 points 0 - 250 by 0 - 120
+
+Slide 23:
+
+<< Excel chart >>  as in Slide 22,
+with trendline
+correlation = .97
+
+Slide 24:
+
+Interpretation
+
+We have seen that strong correlations can be influenced
+by outliers.
+
+Another thing to watch for is imputing a causal 
+relationship to what appears to be a genuinely high
+correlation.
+
+Slide 25:
+
+One famous statistical correlation is the one between
+an individual’s height and the amount of money in
+that person’s pocket.
+
+Why do taller people tend to carry more money in
+their pockets?
+
+Are they less afraid of being robbed?
+
+Or is there some other factor at work?
+
+Is there a type of person who tends to be taller
+and also carry more pocket change?
+
+
+Slide 26:
+
+In this case, it isn’t hard to figure out what is going
+on, but sometimes it’s harder to do so.
+
+The book discusses several famous examples:
+
+Children who listen to Mozart tend to score higher
+in tests of verbal skills.
+
+Countries where people spend more time watching
+television have higher life expectancies.
+
+People who drink large amounts of diet soda
+are heavier for their height than people who 
+do not.
+
+Slide 27:
+
+A 1979 study found a strong correlation between 
+exposure to strong electromagnetic fields and 
+incidence of childhood leukemia.
+
+This was initially interpreted as evidence that
+these fields posed a health hazard.
+
+More extensive investigations have indicated
+that “although some of the correlations remain
+we [researchers at the University of Texas] now 
+do not think that this type of radiation causes 
+cancer.”
+
+http://www.utexas.edu/courses/bio301d/Topics/EMF/Text.html
+
+Slide 28:
+
+Determining the direction of the causal relationship
+is sometimes tricky.
+
+For example, a study on the health and wealth of
+nations considered the positive correlation between 
+health and per capita income (which has long been 
+known), raising the possibility that the wealth was
+a consequence of the health, contrary to the 
+conventional wisdom that wealth determined health.
+
+Slide 29:
+
+Looking ahead
+
+Chapter 7 concerns how to gather data.
+
+If you want to know something about all of the
+states, you can just list them all.
+
+But if you want to know something about all of
+the students at Wayne State University, it is 
+probably impractical to ask every one of them.
+
+Slide 30:
+
+We’ll be looking at sampling techniques, ways
+to look at a relatively small number of cases in
+order to get information about the whole.
+
+We’ll see where the “margin of error” comes from
+in survey results and polls.
+
