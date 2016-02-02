@@ -3,52 +3,52 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: prospectus.aux
 A level-1 auxiliary file: frontmatter/title.aux
 A level-1 auxiliary file: frontmatter/abstract.aux
-A level-1 auxiliary file: frontmatter/acknowledgements.aux
 A level-1 auxiliary file: chapters/intro.aux
 A level-1 auxiliary file: chapters/experimental.aux
 A level-1 auxiliary file: chapters/results.aux
 A level-1 auxiliary file: chapters/future.aux
 The style file: unsrt.bst
 A level-1 auxiliary file: backmatter/acronyms.aux
+A level-1 auxiliary file: backmatter/acknowledgements.aux
 Database file #1: refs/database.bib
-You've used 116 entries,
+You've used 117 entries,
             1791 wiz_defined-function locations,
-            1228 strings with 27125 characters,
-and the built_in function-call counts, 28431 in all, are:
-= -- 2350
-> -- 1647
+            1234 strings with 27294 characters,
+and the built_in function-call counts, 28565 in all, are:
+= -- 2362
+> -- 1651
 < -- 7
-+ -- 597
-- -- 481
++ -- 599
+- -- 482
 * -- 2299
-:= -- 4737
-add.period$ -- 354
-call.type$ -- 116
-change.case$ -- 111
+:= -- 4758
+add.period$ -- 358
+call.type$ -- 117
+change.case$ -- 112
 chr.to.int$ -- 0
-cite$ -- 116
-duplicate$ -- 1041
-empty$ -- 2587
-format.name$ -- 481
-if$ -- 6081
+cite$ -- 117
+duplicate$ -- 1046
+empty$ -- 2605
+format.name$ -- 482
+if$ -- 6113
 int.to.chr$ -- 0
-int.to.str$ -- 116
+int.to.str$ -- 117
 missing$ -- 117
-newline$ -- 589
-num.names$ -- 116
-pop$ -- 218
+newline$ -- 595
+num.names$ -- 117
+pop$ -- 225
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 401
+skip$ -- 403
 stack$ -- 0
 substring$ -- 2060
-swap$ -- 146
+swap$ -- 147
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 253
-width$ -- 119
-write$ -- 1283
+while$ -- 254
+width$ -- 120
+write$ -- 1294

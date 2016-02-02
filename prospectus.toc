@@ -1,5 +1,5 @@
-\contentsline {section}{List of Figures}{v}
-\contentsline {section}{List of Tables}{vi}
+\contentsline {section}{List of Figures}{iv}
+\contentsline {section}{List of Tables}{v}
 \contentsline {chapter}{\numberline {1}Introduction}{1}
 \contentsline {section}{\numberline {1.1}Early Semiconductors}{1}
 \contentsline {section}{\numberline {1.2}Graphene as a New Two-dimensional Material}{1}
@@ -27,11 +27,11 @@
 \contentsline {chapter}{\numberline {3}Intrinsic Channel Properties and Scattering Mechanisms}{14}
 \contentsline {section}{\numberline {3.1}$p$-type \ch {WSe2} Semiconductor Contact Resistance}{14}
 \contentsline {section}{\numberline {3.2}$p$-type \ch {WSe2} Hall Effect Measurements}{16}
-\contentsline {section}{\numberline {3.3}$p$-type \ch {WSe2} Field-Effect Mobility}{18}
-\contentsline {chapter}{\numberline {4}Future Works and Conclusion}{21}
-\contentsline {section}{\numberline {4.1}Integer Quantum Hall Effects}{21}
-\contentsline {section}{\numberline {4.2}Shubnikov-de Haas Oscillations}{23}
-\contentsline {section}{\numberline {4.3}Performance Limits in \acp {TMD}}{23}
-\contentsline {section}{\numberline {4.4}Conclusion}{23}
-\contentsline {chapter}{References}{25}
-\contentsline {chapter}{Appendices}{32}
+\contentsline {section}{\numberline {3.3}$p$-type \ch {WSe2} Field-Effect Mobility}{19}
+\contentsline {chapter}{\numberline {4}Future Works and Conclusion}{22}
+\contentsline {section}{\numberline {4.1}Integer Quantum Hall Effects}{22}
+\contentsline {section}{\numberline {4.2}Shubnikov-de Haas Oscillations}{24}
+\contentsline {section}{\numberline {4.3}Performance Limits in \acp {TMD}}{24}
+\contentsline {section}{\numberline {4.4}Conclusion}{24}
+\contentsline {chapter}{References}{26}
+\contentsline {chapter}{Appendices}{33}
