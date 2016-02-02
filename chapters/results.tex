@@ -4,14 +4,9 @@ Developing low resistance ohmic contacts opens up possibility to study the intri
 \section{$p$-type \ch{WSe2} Semiconductor Contact Resistance}\label{sec:pWSe2_contacts}
 One of the major challenges that still remains in fabricating devices to study intrinsic channel properties and scattering mechanisms is developing high quality $p$-type \ch{WSe2} devices. This is due to the fact that the metal/\ch{WSe2} (or \ch{MoS2}) interface is obstructed by a large \ac{SB} formed by the Fermi level pinning close to the conduction band of the \ch{WSe2} \cite{Chuang_NanoLett2014,Das_NanoLett2012}. \\ \\
 
-\noindent In order to fabricate high quality $p$-type \ch{WSe2} devices, one aspect that must be addressed is how doping affects the \ac{SBH}. In particular, it is important to determine how doping can improve the contacts in devices. To address this issue of contact resistance several devices were fabricated and characterized in order to determine the contact resistance. Using the \ac{TLM} several \ch{WSe2} devices were made with electrodes spaced at varying lengths from the source electrode. 
-\begin{figure}[ht]
-	\centering
-	\includegraphics[height=5cm,width=7cm]{figs/results/transmission_line/transmission_device_pic_5-5_21_10232015_no1}
-	\caption[Transmission line $0.05\%$ \ch{Nb} doped \ch{WSe2} channel device]{$0.05\%$ \ch{Nb} doped \ch{WSe2} channel transmission lines with corresponding channel lengths and widths of $L_{12} = 1.04\unita{\mu m}$ $W_{12} = 4.42\unita{\mu m}$, $L_{23} = 2.04\unita{\mu m}$, $W_{23} = 4.47\unita{\mu m}$, $L_{34} = 3.09\unita{\mu m}$, $W_{34} = 4.90\unita{\mu m}$, $W_{45} = 5.15\unita{\mu m}$, and $L_{45} = 4.27\unita{\mu m}$.}
-	\label{fig:transmission_device_10232015_no1}
-\end{figure}
-Fig.~\ref{fig:transmission_device_10232015_no1} illustrates an example of a transmission line device that was used to characterize the contact resistance. The device shown has a $0.05\%$ \ch{Nb} doped \ch{WSe2} channel. The resistance in general is given by
+\noindent In order to fabricate high quality $p$-type \ch{WSe2} devices, one aspect that must be addressed is how doping affects the \ac{SBH}. In particular, it is important to determine how doping can improve the contacts in devices. To address this issue of contact resistance several devices were fabricated and characterized in order to determine the contact resistance. Using the \ac{TLM} several \ch{WSe2} devices were made with electrodes spaced at varying lengths from the source electrode. \\ \\ 
+
+\noindent Fig.~\ref{fig:transmission_device_10232015_no1} illustrates an example of a transmission line device that was used to characterize the contact resistance. The device shown has a $0.05\%$ \ch{Nb} doped \ch{WSe2} channel. The resistance in general is given by
 \begin{equation}\label{eq:resistance_formula}
 	R = \frac{\rho}{A} l,
 \end{equation}
@@ -23,46 +18,76 @@ where $R_\mathrm{c}$ and $R_\mathrm{ch}$ are the contact and channel resistances
 \begin{figure}[ht]
 	\centering
 	\subfloat[]{
+		\includegraphics[height=4.25cm,width=5.0cm]{figs/results/transmission_line/transmission_device_pic_5-5_21_10232015_no1}
+		\label{fig:transmission_device_10232015_no1}
+	}
+	\subfloat[]{
 		\includegraphics[height=4.25cm,width=5.0cm]{figs/results/transmission_line/transmission_resistance_plot_pic_5-5_21_10232015_no1}
 		\label{fig:tlm_resistance1}
 	}
+
 	%\qquad
 	\subfloat[]{
 		\includegraphics[height=4.25cm,width=5.0cm]{figs/results/transmission_line/transmission_resistance_plot_pic_56_21_10232015_no2}
 		\label{fig:tlm_resistance2}
 	}
-	\qquad
 	\subfloat[]{
 		\includegraphics[height=4.25cm,width=5.0cm]{figs/results/transmission_line/transmission_resistance_plot_pic_-66_21_11182015_no2}
 		\label{fig:tlm_resistance3}
 	}
-	\caption[Contact resistance of $0.05\%$ \ch{Nb} doped \ch{WSe2} channel device]{\protect\subref{fig:tlm_resistance1}-\protect\subref{fig:tlm_resistance3} show the resistance $R (\unita{\Omega\cdot\mu m})$ as a function of $L$, where the contact resistance is found by using a linear fit function. The fits were performed at $T=295\unita{K}$ for $V_{bg}$ of $0\unita{V}$ and $-60\unita{V}$. Note that \protect\subref{fig:tlm_resistance1} refers to the device shown in fig.~\ref{fig:transmission_device_10232015_no1}.}
+	\caption[Contact resistance of $0.05\%$ \ch{Nb} doped \ch{WSe2} channel device]{\protect\subref{fig:transmission_device_10232015_no1} $0.05\%$ \ch{Nb} doped \ch{WSe2} channel transmission lines with corresponding channel lengths and widths of $L_{12} = 1.04\unita{\mu m}$ $W_{12} = 4.42\unita{\mu m}$, $L_{23} = 2.04\unita{\mu m}$, $W_{23} = 4.47\unita{\mu m}$, $L_{34} = 3.09\unita{\mu m}$, $W_{34} = 4.90\unita{\mu m}$, $W_{45} = 5.15\unita{\mu m}$, and $L_{45} = 4.27\unita{\mu m}$. \protect\subref{fig:tlm_resistance1}-\protect\subref{fig:tlm_resistance3} show the resistance $R (\unita{\Omega\cdot\mu m})$ as a function of $L$, where the contact resistance is found by using a linear fit function. The fits were performed at $T=295\unita{K}$ for $V_{bg}$ of $0\unita{V}$ and $-60\unita{V}$. Note that \protect\subref{fig:tlm_resistance1} refers to the device shown in fig.~\protect\subref{fig:transmission_device_10232015_no1}.}
 	\label{fig:tlm_reistance_measurement}
 \end{figure}
 Using this method the resistance as a function of length is shown in figs.~\subref*{fig:tlm_resistance1}, \subref*{fig:tlm_resistance2}, and \subref*{fig:tlm_resistance3} for both $V_{bg}=0\unita{V}$ and $V_{bg}=-60\unita{V}$. From these figures one can interpret the contact resistance of the device as the intercept value with the value, the resulting contact resistances are summarized in table~\ref{table:contact_summary}. The results show linear behavior at room temperature for both backgate voltage of $V_{bg}=0\unita{V}$ and $V_{bg}=-60\unita{V}$. The reported resistance values are larger for lower $V_{bg}$ measurements, this can be explained by the energy mismatch of Fermi levels between the metal contacts and the lightly doped \ch{WSe2}. As the backgate voltage is increased from $V_{bg} = 0\unita{V}$ to $-60\unita{V}$ the \acs{SB} that is present in the contacts has narrowed and as a result of the increased $V_{bg}$ there is more transport across the barrier. The relatively small contact resistance of $2.35\unita{k\Omega\cdot\mu m}$ indicates that low resistance contacts can be achieved at sufficiently high backgate voltage. The contact resistances are on the same order of magnitude measured by Cui \emph{et al.} at $T=300\unita{K}$ at a relatively high backgate voltage ($\sim~0.7-10\unita{\Omega\cdot\mu m}$) \cite{Cui_NatureNano2015}.  \\ \\
 
-\noindent In light of this result, the addition of degenerately doped contacts (like those fabricated in sec.~\ref{sec:pWSe2_hbn}) could further improve the contact resistance. By adding $0.5\%$ \ch{Nb} doped \ch{WSe2} contacts, for example, the Fermi level energy mismatch between the metal and the degenerately doped \ch{WSe2} contact would be decreased, thereby lowering the \acs{SBH} and coupled with sufficiently high backgate voltage, the ability to achieve $< 2\unita{k\Omega\cdot\mu m}$ contact resistance is plausible. 
+\noindent In light of this result, the addition of degenerately doped contacts (like those fabricated in sec.~\ref{sec:pWSe2_hbn}) could further improve the contact resistance. By adding $0.5\%$ \ch{Nb} doped \ch{WSe2} contacts, for example, the Fermi level energy mismatch between the metal and the degenerately doped \ch{WSe2} contact would be decreased, thereby lowering the \acs{SBH} and coupled with sufficiently high backgate voltage, the ability to achieve $< 1\unita{k\Omega\cdot\mu m}$ contact resistance is plausible. \\ \\
+
+\noindent For comparison, using degenerately \ch{Nb} doped ($0.5\%$) \ch{WSe2} channel the contact resistance can be significantly reduced. Table~\ref{table:contact_summary} summarizes the contact resistance for the degenerately doped and lightly doped contacts. Figs.~\subref*{fig:ben_tlm_resistance2} and \subref*{fig:ben_tlm_resistance3} show the normalized resistance as a function of channel length at both $T=295\unita{K}$ and $T=5\unita{K}$. The fact that the contact resistance is still $<0.2\unita{k\Omega\cdot\mu m}$ shows that the contacts are desirable. As the temperature is decreased, usually the contact resistance becomes larger (mostly due to the lack of thermionic emission over the barrier), however, this is not the case here. These results with degenerately doped contacts point towards this method as being a suitable way to fabricate low-resistance devices especially at low temperatures. 
 \begin{table}[ht]
 	\centering
 	\begin{threeparttable}
-		\begin{tabular}{c c c c}
+		\begin{tabular}{c c}
 			\hline\hline
-			$L_\mathrm{min}$ & $L_\mathrm{max}$ & $R_\mathrm{c}(\unita{k\Omega\cdot\mu m})$ at $V_{bg}=0\unita{V}$ & $R_\mathrm{c}(\unita{k\Omega\cdot\mu m})$ at $V_{bg}=-60\unita{V}$ \\ [0.5ex]
+			Doping content of \ch{Nb} & $R_\mathrm{c}(\unita{k\Omega\cdot\mu m})$ \\ [0.5ex]
 			\hline
-			$1.04\unita{\mu m}$ & $4.27\unita{\mu m}$ & $102$\tnote{a} & $2.35$\tnote{a}\\
-			$0.42\unita{\mu m}$ & $3.02\unita{\mu m}$ & $28.4$\tnote{b} & $12.9$\tnote{b}\\
-			$0.43\unita{\mu m}$ & $2.58\unita{\mu m}$ & $11.1$\tnote{c} & $9.65$\tnote{c}\\ [1ex]
+			$0.05\%$ & $2.35$\tnote{a}\\
+			$0.05\%$ & $12.9$\tnote{b}\\
+			$0.05\%$ & $9.65$\tnote{c}\\ 
+			$0.5\%$ & $0.195$\tnote{d}\\ 
+			$0.5\%$ & $0.185$\tnote{e}\\[1ex]
 			\hline
 		\end{tabular}
 		\begin{tablenotes}
-			\item[a] Length and resistance values from fig.~\subref*{fig:tlm_resistance1}.
-			\item[b] Length and resistance values from fig.~\subref*{fig:tlm_resistance2}.
-			\item[c] Length and resistance values from fig.~\subref*{fig:tlm_resistance3}.
+			\item[a] Resistance values from fig.~\subref*{fig:tlm_resistance1}.
+			\item[b] Resistance values from fig.~\subref*{fig:tlm_resistance2}.
+			\item[c] Resistance values from fig.~\subref*{fig:tlm_resistance3}.
+			\item[d] Resistance values from fig.~\subref*{fig:ben_tlm_resistance2}.
+			\item[e] Resistance values from fig.~\subref*{fig:ben_tlm_resistance3}.
 		\end{tablenotes}
-	\caption[Summary of contact resistances for $0.05\%$ \ch{Nb} doped \ch{WSe2} channel]{Summary of contact resistances for $0.05\%$ \ch{Nb} doped \ch{WSe2} channel found using linear fit data from figs.~\ref{fig:tlm_resistance1}, \ref{fig:tlm_resistance2}, and \ref{fig:tlm_resistance3}.}
+	\caption[Summary of contact resistances for $0.05\%$ \ch{Nb} doped \ch{WSe2} channel]{Summary of contact resistances for $0.05\%$ \ch{Nb} doped \ch{WSe2} channel found using linear fit data from figs.~\subref*{fig:tlm_resistance1}, \subref*{fig:tlm_resistance2}, \subref*{fig:tlm_resistance3}, \subref*{fig:ben_tlm_resistance2}, and \subref*{fig:ben_tlm_resistance3}.}
 	\label{table:contact_summary}
 	\end{threeparttable}
 \end{table}
+
+\begin{figure}[ht]
+	\centering
+	\subfloat[]{
+		\includegraphics[height=4.25cm,width=5.0cm]{figs/results/transmission_line/ben_tlm_degenerately_doped_device_pic}
+		\label{fig:ben_tlm_resistance1}
+	}
+	%\qquad
+	\subfloat[]{
+		\includegraphics[height=4.25cm,width=5.0cm]{figs/results/transmission_line/ben_tlm_degenerately_doped_resistance_295K}
+		\label{fig:ben_tlm_resistance2}
+	}
+	%\qquad
+	\subfloat[]{
+		\includegraphics[height=4.25cm,width=5.0cm]{figs/results/transmission_line/ben_tlm_degenerately_doped_resistance_5K}
+		\label{fig:ben_tlm_resistance3}
+	}
+	\caption[Contact resistance of $0.5\%$ \ch{Nb} doped \ch{WSe2} channel device]{\protect\subref{fig:ben_tlm_resistance1} Device structure for \acs{TLM} measurement consisting of a $\sim 18\unita{nm}$ thick degenerately $p$-doped \ch{WSe2} device with \ch{Ti}/\ch{Au} metal contacts. \protect\subref{fig:ben_tlm_resistance2} Normalized total resistance as a function of channel length measured at room temperature $T=295\unita{K}$ and \protect\subref{fig:ben_tlm_resistance3} low temperature $T=5\unita{K}$. (Figure appeared in \cite{Chuang_2016})}
+	\label{fig:ben_tlm_reistance_measurement}
+\end{figure}
 
 \section{$p$-type \ch{WSe2} Hall Effect Measurements}\label{sec:pWSe2_hall}
 In addition to knowing the how doping can be used to lower the \acs{SBH}, doping also affects the intrinsic channel properties. To study how these properties are effected several measurements were taken. First, Hall bar devices were fabricated. These devices were similar to those used in sec.~\ref{sec:pWSe2_contacts}, the channel was doped with the same amount of \ch{Nb}. The only differing aspect of these devices was the electrode design. Fig.~\subref*{fig:hall_bar_device1} shows an example of one such Hall bar device. \\ \\
