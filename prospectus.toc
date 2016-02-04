@@ -28,10 +28,10 @@
 \contentsline {section}{\numberline {3.1}$p$-type \ch {WSe2} Semiconductor Contact Resistance}{14}
 \contentsline {section}{\numberline {3.2}$p$-type \ch {WSe2} Hall Effect Measurements}{17}
 \contentsline {section}{\numberline {3.3}$p$-type \ch {WSe2} Field-Effect Mobility}{19}
-\contentsline {chapter}{\numberline {4}Future Works and Conclusion}{22}
-\contentsline {section}{\numberline {4.1}Integer Quantum Hall Effects}{22}
-\contentsline {section}{\numberline {4.2}Shubnikov-de Haas Oscillations}{24}
-\contentsline {section}{\numberline {4.3}Performance Limits in \acp {TMD}}{24}
-\contentsline {section}{\numberline {4.4}Conclusion}{24}
-\contentsline {chapter}{References}{26}
-\contentsline {chapter}{Appendices}{33}
+\contentsline {chapter}{\numberline {4}Future Works and Conclusion}{24}
+\contentsline {section}{\numberline {4.1}Integer Quantum Hall Effects}{24}
+\contentsline {section}{\numberline {4.2}Shubnikov-de Haas Oscillations}{26}
+\contentsline {section}{\numberline {4.3}Performance Limits in \acp {TMD}}{26}
+\contentsline {section}{\numberline {4.4}Conclusion}{26}
+\contentsline {chapter}{References}{28}
+\contentsline {chapter}{Appendices}{35}

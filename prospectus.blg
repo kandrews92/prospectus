@@ -13,42 +13,42 @@ A level-1 auxiliary file: backmatter/acknowledgements.aux
 Database file #1: refs/database.bib
 You've used 118 entries,
             1791 wiz_defined-function locations,
-            1239 strings with 27647 characters,
-and the built_in function-call counts, 28788 in all, are:
-= -- 2373
+            1239 strings with 27591 characters,
+and the built_in function-call counts, 28843 in all, are:
+= -- 2379
 > -- 1677
 < -- 7
 + -- 608
 - -- 490
-* -- 2315
-:= -- 4798
+* -- 2327
+:= -- 4809
 add.period$ -- 361
 call.type$ -- 118
 change.case$ -- 113
 chr.to.int$ -- 0
 cite$ -- 118
-duplicate$ -- 1051
-empty$ -- 2623
+duplicate$ -- 1055
+empty$ -- 2626
 format.name$ -- 490
-if$ -- 6159
+if$ -- 6169
 int.to.chr$ -- 0
 int.to.str$ -- 118
-missing$ -- 117
+missing$ -- 118
 newline$ -- 600
 num.names$ -- 118
-pop$ -- 232
+pop$ -- 226
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
 skip$ -- 406
 stack$ -- 0
-substring$ -- 2060
+substring$ -- 2072
 swap$ -- 148
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 255
+while$ -- 256
 width$ -- 121
-write$ -- 1304
+write$ -- 1305

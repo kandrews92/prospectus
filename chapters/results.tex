@@ -176,6 +176,19 @@ In an effort to improve on the approaches and results described in secs.~\ref{se
 	\mu_\mathrm{FE} = \frac{L}{w}\frac{d I_{ds}}{d V_{bg}}\frac{1}{C}\frac{1}{V_{ds}},
 \end{equation}
 where $L$ is the length of the channel, $w$ is the width of the channel, $I_{ds}$ is the drain current, $V_{bg}$ is the backgate voltage, $C$ is the capacitence, and $V_{ds}$ is the drain voltage \cite{Stassen_AppPhysLett2004}. The capacitence is dependent largely on the substrate used, generally \ch{Si}/\ch{SiO2} and can vary from substrate to substrate as a result the field-effect mobility can vary slightly depending on the capacitence of the substrate.  \\ \\
+\begin{figure}[ht]
+	\centering
+	\subfloat[]{
+		\includegraphics[height=4cm,width=4.75cm]{figs/-44_54_100x_after_liftoff_two_point_probe_measurement}
+		\label{fig:two_probe}
+	}
+	\qquad
+	\subfloat[]{
+		\includegraphics[height=4cm,width=4.75cm]{figs/-44_54_100x_after_liftoff_four_point_measurement}
+		\label{fig:four_probe}
+	}
+	\caption[Field-effect mobility measurement configuration]{Examples of \protect\subref{fig:two_probe} two-point probe measurement configuration for field-effect mobility measurements and \protect\subref{fig:four_probe} four-point probe configuration.}
+\end{figure}
 %\begin{figure}[ht]
 %	\centering
 %	\subfloat[]{
@@ -256,3 +269,20 @@ where $L$ is the length of the channel, $w$ is the width of the channel, $I_{ds}
 \noindent The field-effect mobility in figs.~\subref*{fig:5-5_21_no1_pre_anneal_mu_fe_vs_temp} and \subref*{fig:5-5_21_no1_post_anneal_mu_fe_vs_temp} increases with decreasing temperature which is expected behavior. The  At high temperatures the mobility is largely dominated by phonon scattering which is decreased with temperature. At lower temperatures phonon scattering is decreased compared to room temperature measurements and thus long-range Coulomb scattering and short-range atomic defects play a large role \cite{Ando_RevModPhys1982}. Another possible scattering mechanism is interface scattering or surface roughness scattering. However, the use of a \hbn substrate as opposed to a \ch{Si}/\ch{SiO2} can minimize this scattering mechanism significantly. Channel defects are another source of scattering present in this device. This is largely due to the doping of the \ch{WSe2} channel which introduces impurities that degrades the mobility across all temperatures. \\ \\
 
 \noindent In summary, the improved mobility due to the fabrication of a lightly doped channel and using degenerately doped contacts provides stepping-stone toward further refined devices. However, this technique is challenging because as doping decreases the contact resistance, it increases the channel scattering. In order to fully understand the balance and relationship between doping and the trade-off with scattering mechanisms further study of various doping strengths is neeeded. With such devices it will become possible to explore the intrinsic property limits of \acp{TMD}.
+\begin{figure}[ht]
+	\centering
+	\subfloat[]{
+		\includegraphics[height=4.5cm,width=5cm]{figs/results/ben/undoped_wse2_degen_doped_contacts}
+		\label{fig:undoped_wse2_pic}
+	}
+	\subfloat[]{
+		\includegraphics[height=4.5cm,width=5cm]{figs/results/ben/conductivity_2d2d_contacts_vs_Vbg_wse2}
+		\label{fig:undoped_wse2_conduct}
+	}
+	\subfloat[]{
+		\includegraphics[height=4.5cm,width=5cm]{figs/results/ben/mu_fe_2d2d_contacts_vs_T_wse2}
+		\label{fig:undoped_wse2_mu_fe}
+	}
+	\caption[Undoped \ch{WSe2} channel with $\ch{Nb}_{0.005}\ch{W}_{0.995}\ch{Se2}$ contacts]{\protect\subref{fig:undoped_wse2_pic} Optical image of the \ch{WSe2} FET with degnerately doped contacts ($\ch{Nb}_{0.005}\ch{W}_{0.995}\ch{Se2}$). Channel \ch{WSe2} is encapsulated in \hbn. The \ch{WSe2} channel is $\sim 3.5\unita{nm}$ thick, $14.8\unita{\mu m}$ long, and $4.7\unita{\mu m}$ wide. \protect\subref{fig:undoped_wse2_conduct} Temperature-dependent two-terminal conductivity of \ch{WSe2} as a function of $V_{bg}$ at $V_{ds}=-50\unita{mV}$. \emph{Inset}: temperature dependence of conductivity at varying gate voltages. \protect\subref{fig:undoped_wse2_mu_fe} Two-terminal field-effect hole mobilities in \ch{WSe2}. \emph{Inset} Linearity of the output characteristics. (Figures originally appeared in \cite{Chuang_2016})}
+	\label{fig:ben_mu_fe_data}
+\end{figure}
