@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  4 FEB 2016 16:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  5 FEB 2016 15:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2322,25 +2322,25 @@ Package pdftex.def Info: figs/intro/mos2_bandstructure.png used on input line 5
 3.
 (pdftex.def)             Requested size: 227.62137pt x 142.26279pt.
 Package acronym Info: Label `acro:DFT' newly defined as it shall be overridden
-although it is yet undefined on input line 77.
+although it is yet undefined on input line 79.
 Package acronym Info: Label `acro:SB' newly defined as it shall be overridden
-although it is yet undefined on input line 87.
+although it is yet undefined on input line 89.
 Package acronym Info: Label `acro:SBH' newly defined as it shall be overridden
-although it is yet undefined on input line 87.
+although it is yet undefined on input line 89.
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--88
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--88
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
 
  []
 
 [3 <./figs/intro/tmdlayered.png> <./figs/intro/tmdhexagonal.png>]
 Package acronym Info: Label `acro:BP' newly defined as it shall be overridden
-although it is yet undefined on input line 89.
- [4 <./figs/intro/mos2_bandstructure.png>]) [5]
+although it is yet undefined on input line 91.
+) [4 <./figs/intro/mos2_bandstructure.png>] [5]
 \openout2 = `chapters/experimental.aux'.
 
  (./chapters/experimental.tex
@@ -3215,10 +3215,10 @@ Missing character: There is no “ in font cmr10!
 (./chapters/experimental.aux) (./chapters/results.aux) (./chapters/future.aux)
 (./backmatter/acronyms.aux) (./backmatter/acknowledgements.aux)) ) 
 Here is how much of TeX's memory you used:
- 29015 strings out of 493109
- 616235 string characters out of 6138587
+ 29020 strings out of 493109
+ 616308 string characters out of 6138587
  609531 words of memory out of 5000000
- 31919 multiletter control sequences out of 15000+600000
+ 31924 multiletter control sequences out of 15000+600000
  13819 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,17n,69p,10402b,758s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3241,7 +3241,7 @@ cmsy7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
 live/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb><c:/texlive/
 2014/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><c:/texlive/2014/texmf
 -dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on prospectus.pdf (44 pages, 19736167 bytes).
+Output written on prospectus.pdf (44 pages, 19741874 bytes).
 PDF statistics:
  327 PDF objects out of 1000 (max. 8388607)
  162 compressed objects within 2 object streams
