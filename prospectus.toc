@@ -26,8 +26,8 @@
 \contentsline {subsection}{\numberline {2.6.1}Measurement Devices}{13}
 \contentsline {chapter}{\numberline {3}Intrinsic Properties and Scattering Mechanisms}{14}
 \contentsline {section}{\numberline {3.1}Approach to Low-Resistance Contacts}{14}
-\contentsline {subsection}{\numberline {3.1.1}Transmission Line Method: \ensuremath {\ch {Nb_{0.0005}}\ch {W_{0.9995}}\ch {Se2}\tmspace +\thinmuskip {.1667em}}}{14}
-\contentsline {subsection}{\numberline {3.1.2}Transmission Line Method: \ensuremath {\ch {Nb_{0.005}}\ch {W_{0.995}}\ch {Se2}\tmspace +\thinmuskip {.1667em}}}{14}
+\contentsline {subsection}{\numberline {3.1.1}Transmission Line Method: \ensuremath {\ch {Nb_{0.0005}}\ch {W_{0.9995}}\ch {Se2}\tmspace +\thinmuskip {.1667em}}}{15}
+\contentsline {subsection}{\numberline {3.1.2}Transmission Line Method: \ensuremath {\ch {Nb_{0.005}}\ch {W_{0.995}}\ch {Se2}\tmspace +\thinmuskip {.1667em}}}{15}
 \contentsline {section}{\numberline {3.2}Field-Effect Mobility and Scattering Mechanisms}{15}
 \contentsline {subsection}{\numberline {3.2.1}Applying Low-Resistance Contacts: Doped Channel}{15}
 \contentsline {subsection}{\numberline {3.2.2}Applying Low-Resistance Contacts: Undoped Channel}{15}

@@ -478,8 +478,25 @@ W~Schottky.
 \newblock {\em Naturwissenschaften}, 26:843, 1938.
 \newblock in German.
 
+\bibitem{Rideout_Solid1975}
+VL~Rideout.
+\newblock A review of the theory and technology for ohmic contacts to group
+  iii--v compound semiconductors.
+\newblock {\em Solid-State Electronics}, 18(6):541--550, 1975.
+
+\bibitem{Rhoderick_Book1988}
+Emlyn~Huw Rhoderick and Richard~H Williams.
+\newblock {\em Metal-semiconductor contacts}, volume 129.
+\newblock Clarendon Press Oxford, 1988.
+
+\bibitem{Cohen_Book2014}
+Simon~S Cohen and Gennady~Sh Gildenblat.
+\newblock {\em Metal--Semiconductor Contacts and Devices: VLSI Electronics
+  Microstructure Science}, volume~13.
+\newblock Academic Press, 2014.
+
 \bibitem{Tung_AppPhysRev2014}
-Raymond T.~Tung (董梓則).
+Raymond~T. Tung.
 \newblock The physics and chemistry of the schottky barrier height.
 \newblock {\em Applied Physics Reviews}, 1(1), 2014.
 
