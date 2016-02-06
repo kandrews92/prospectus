@@ -49,8 +49,8 @@
 
 %---- Roman page numbering for frontmatter
 	\pagenumbering{roman}
-	\include{frontmatter/title}
-	\include{frontmatter/abstract}
+	\include{frontmatter/title} %!!!!!!!!!!!!!uncomment
+	\include{frontmatter/abstract} %!!!!!!!!!!!!!uncomment
 
 	\renewcommand{\contentsname}{Table of Contents}
         \tableofcontents
@@ -78,19 +78,19 @@
 
 %---- End of front matter
 	\pagenumbering{arabic}
-	%\include{chapters/intro} %introduction and preliminary information
-	%\include{chapters/experimental} %experiemental details
+	\include{chapters/intro} %!!!!!!!!!!!!!uncomment
+	\include{chapters/experimental} %!!!!!!!!!!!!!uncomment
 	\include{chapters/results} %chap3
-	%\include{chapters/future} %conclusions
+	\include{chapters/future} %!!!!!!!!!!!!!uncomment
 
 %---- References and bib data
 	%\addcontentsline{toc}{section}{References}
 	\bibliographystyle{unsrt}
 	\bibliography{refs/database}
 
-	\begin{appendices}
-		\include{backmatter/acronyms}
-	\end{appendices}
-	\include{backmatter/acknowledgements}
+	\begin{appendices} 
+		\include{backmatter/acronyms} 
+	\end{appendices} 
+	\include{backmatter/acknowledgements} %!!!!!!!!!!!!!uncomment
 
 \end{document}

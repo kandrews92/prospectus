@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  6 FEB 2016 12:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  6 FEB 2016 13:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -3063,9 +3063,9 @@ s/Vds-Id_Vds_1V_-1V-Vbg_-20V_-100V_T2-T3_300K-13_plot_after_anneal_5-5_21_no1.p
 ng> <./figs/results/hall_bar_doped_channel_doped_contacts/Vds-Id_Vds_1V_-1V-Vbg
 _-30V_-100V_T2-T3_10K-03_plot_after_anneal_5-5_21_no1.png> <./figs/results/hall
 _bar_doped_channel_doped_contacts/Two_Probe_FE_Mobility_Vs_T_Vds_-1V_-50mV_plot
-_post_anneal_5-5_21_no1.png> <./figs/results/ben/undoped_wse2_degen_doped_conta
-cts.png> <./figs/results/ben/conductivity_2d2d_contacts_vs_Vbg_wse2.png> <./fig
-s/results/ben/mu_fe_2d2d_contacts_vs_T_wse2.png>] [18 <./figs/results/hall_diag
+_post_anneal_5-5_21_no1.png>] [18 <./figs/results/ben/undoped_wse2_degen_doped_
+contacts.png> <./figs/results/ben/conductivity_2d2d_contacts_vs_Vbg_wse2.png> <
+./figs/results/ben/mu_fe_2d2d_contacts_vs_T_wse2.png> <./figs/results/hall_diag
 ram.png> <./figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no
 2_doping_scheme.png>] [19 <./figs/results/hall_bar_doped_channel/Vds-Id_1V_-1V-
 Vbg_20V_-70V_T1-D_T5_S_300K_plot_modified_11192015_no2.png> <./figs/results/hal
@@ -3161,7 +3161,7 @@ Missing character: There is no “ in font cmr10!
 Here is how much of TeX's memory you used:
  29104 strings out of 493109
  618222 string characters out of 6138587
- 609280 words of memory out of 5000000
+ 612280 words of memory out of 5000000
  31991 multiletter control sequences out of 15000+600000
  18850 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -3185,7 +3185,7 @@ texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texl
 ive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb><c:/texlive/2
 014/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><c:/texlive/2014/texmf-
 dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on prospectus.pdf (40 pages, 19407301 bytes).
+Output written on prospectus.pdf (40 pages, 19410489 bytes).
 PDF statistics:
  321 PDF objects out of 1000 (max. 8388607)
  153 compressed objects within 2 object streams
