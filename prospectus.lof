@@ -38,40 +38,45 @@
 \contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{13}
 \contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{13}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Contact resistance of $0.05\%$ \ch {Nb} doped \ch {WSe2} channel ($\ensuremath {\ch {Nb_{0.0005}}\ch {W_{0.9995}}\ch {Se2}}$) device}}{15}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces TLM: contact resistances using \ensuremath {\ch {Nb_{0.0005}}\ch {W_{0.9995}}\ch {Se2}\tmspace +\thinmuskip {.1667em}}}}{15}
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{15}
 \contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{15}
 \contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{15}
 \contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{15}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Contact resistance of $0.5\%$ \ch {Nb} doped \ch {WSe2} channel device}}{16}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces TLM: contact resistances using \ensuremath {\ch {Nb_{0.005}}\ch {W_{0.995}}\ch {Se2}\tmspace +\thinmuskip {.1667em}}}}{16}
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{16}
 \contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{16}
 \contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{16}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Hall effect measurement diagram}}{18}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Hall measurement data for $0.05\%$ \ch {Nb} doped \ch {WSe2} channel}}{19}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Field-effect mobility measurement configuration}}{16}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{16}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{16}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Fabrication steps of \ensuremath {\ch {Nb_{0.0001}}\ch {W_{0.9999}}\ch {Se2}\tmspace +\thinmuskip {.1667em}}channel with \ensuremath {\ch {Nb_{0.005}}\ch {W_{0.995}}\ch {Se2}\tmspace +\thinmuskip {.1667em}}\tmspace +\thinmuskip {.1667em} contacts}}{16}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{16}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{16}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{16}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{16}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces shot cap1}}{17}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{17}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{17}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{17}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces short cap2}}{17}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{17}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{17}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{17}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{17}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{17}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{17}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Hall effect measurement diagram}}{18}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Hall bar device optical micrograph using \ensuremath {\ch {Nb_{0.0005}}\ch {W_{0.9995}}\ch {Se2}\tmspace +\thinmuskip {.1667em}}}}{18}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces short cap3}}{19}
 \contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{19}
 \contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{19}
 \contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{19}
 \contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{19}
 \contentsline {subfigure}{\numberline {(e)}{\ignorespaces {}}}{19}
-\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {}}}{19}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Field-effect mobility measurement configuration}}{20}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{20}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{20}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Degenerately doped contacts and lightly doped channel field-effect mobility}}{22}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{22}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{22}
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{22}
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{22}
-\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {}}}{22}
-\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {}}}{22}
-\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {}}}{22}
-\contentsline {subfigure}{\numberline {(h)}{\ignorespaces {}}}{22}
-\contentsline {subfigure}{\numberline {(i)}{\ignorespaces {}}}{22}
-\contentsline {subfigure}{\numberline {(j)}{\ignorespaces {}}}{22}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Undoped \ch {WSe2} channel with $\ch {Nb}_{0.005}\ch {W}_{0.995}\ch {Se2}$ contacts}}{23}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{23}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{23}
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{23}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces short cap 4}}{19}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{19}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{19}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Example data of the Integer Quantum Hall Effect}}{25}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Example data of the Integer Quantum Hall Effect}}{21}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces \ch {MoS2} quantum Hall effect and Shubnikov-de Haas oscillations}}{22}

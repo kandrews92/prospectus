@@ -16,6 +16,7 @@
 \usepackage{float}
 \usepackage{gensymb}
 \usepackage{siunitx}
+\usepackage{booktabs}
 
 %----captions subfigure caption packages---%
 \usepackage{caption}
@@ -28,6 +29,9 @@
 \usepackage[toc,page]{appendix}
 \usepackage[left=2.5cm,top=3cm,right=2.5cm,bottom=3cm,bindingoffset=0.5cm]{geometry}
 \usepackage[printonlyused]{acronym}
+
+%\usepackage[superscript,biblabel]{cite} uncomment for superscript in-text
+%	citations
 
 \usepackage[nottoc,notlof,notlot]{tocbibind}
 \renewcommand\bibname{References}
@@ -74,10 +78,10 @@
 
 %---- End of front matter
 	\pagenumbering{arabic}
-	\include{chapters/intro} %introduction and preliminary information
-	\include{chapters/experimental} %experiemental details
+	%\include{chapters/intro} %introduction and preliminary information
+	%\include{chapters/experimental} %experiemental details
 	\include{chapters/results} %chap3
-	\include{chapters/future} %conclusions
+	%\include{chapters/future} %conclusions
 
 %---- References and bib data
 	%\addcontentsline{toc}{section}{References}

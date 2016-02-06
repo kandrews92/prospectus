@@ -24,14 +24,20 @@
 \contentsline {subsection}{\numberline {2.5.3}Metal Deposition}{12}
 \contentsline {section}{\numberline {2.6}Electrical Measurements and Characterization}{12}
 \contentsline {subsection}{\numberline {2.6.1}Measurement Devices}{13}
-\contentsline {chapter}{\numberline {3}Intrinsic Channel Properties and Scattering Mechanisms}{14}
-\contentsline {section}{\numberline {3.1}$p$-type \ch {WSe2} Semiconductor Contact Resistance}{14}
-\contentsline {section}{\numberline {3.2}$p$-type \ch {WSe2} Hall Effect Measurements}{17}
-\contentsline {section}{\numberline {3.3}$p$-type \ch {WSe2} Field-Effect Mobility}{19}
-\contentsline {chapter}{\numberline {4}Future Works and Conclusion}{24}
-\contentsline {section}{\numberline {4.1}Integer Quantum Hall Effects}{24}
-\contentsline {section}{\numberline {4.2}Shubnikov-de Haas Oscillations}{26}
-\contentsline {section}{\numberline {4.3}Performance Limits in \acp {TMD}}{26}
-\contentsline {section}{\numberline {4.4}Conclusion}{26}
-\contentsline {chapter}{References}{28}
-\contentsline {chapter}{Appendices}{35}
+\contentsline {chapter}{\numberline {3}Intrinsic Properties and Scattering Mechanisms}{14}
+\contentsline {section}{\numberline {3.1}Approach to Low-Resistance Contacts}{14}
+\contentsline {subsection}{\numberline {3.1.1}Transmission Line Method: \ensuremath {\ch {Nb_{0.0005}}\ch {W_{0.9995}}\ch {Se2}\tmspace +\thinmuskip {.1667em}}}{14}
+\contentsline {subsection}{\numberline {3.1.2}Transmission Line Method: \ensuremath {\ch {Nb_{0.005}}\ch {W_{0.995}}\ch {Se2}\tmspace +\thinmuskip {.1667em}}}{14}
+\contentsline {section}{\numberline {3.2}Field-Effect Mobility and Scattering Mechanisms}{15}
+\contentsline {subsection}{\numberline {3.2.1}Applying Low-Resistance Contacts: Doped Channel}{15}
+\contentsline {subsection}{\numberline {3.2.2}Applying Low-Resistance Contacts: Undoped Channel}{15}
+\contentsline {section}{\numberline {3.3}Hall Effect and Applying Low-Resistance Contacts}{15}
+\contentsline {subsection}{\numberline {3.3.1}Hall Effect: \ensuremath {\ch {Nb_{0.0005}}\ch {W_{0.9995}}\ch {Se2}\tmspace +\thinmuskip {.1667em}}}{15}
+\contentsline {subsection}{\numberline {3.3.2}Hall Effect: Extended to Contact Method}{15}
+\contentsline {chapter}{\numberline {4}Future Works and Conclusion}{20}
+\contentsline {section}{\numberline {4.1}Integer Quantum Hall Effects}{20}
+\contentsline {section}{\numberline {4.2}Shubnikov-de Haas Oscillations}{22}
+\contentsline {section}{\numberline {4.3}Performance Limits in \acp {TMD}}{22}
+\contentsline {section}{\numberline {4.4}Conclusion}{23}
+\contentsline {chapter}{References}{24}
+\contentsline {chapter}{Appendices}{31}
