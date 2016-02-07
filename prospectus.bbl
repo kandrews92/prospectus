@@ -500,12 +500,78 @@ Raymond~T. Tung.
 \newblock The physics and chemistry of the schottky barrier height.
 \newblock {\em Applied Physics Reviews}, 1(1), 2014.
 
+\bibitem{Liu_arxiv2016}
+Yuanyue Liu, Paul Stradins, and Su-Huai Wei.
+\newblock Van der waals metal-semiconductor junction: weak fermi level pinning
+  enables effective tuning of schottky barrier.
+\newblock {\em arXiv preprint arXiv:1601.03845}, 2016.
+
+\bibitem{HJ_Chuang_NanoLett2014}
+Hsun-Jen Chuang, Xuebin Tan, Nirmal~Jeevi Ghimire, Meeghage~Madusanka Perera,
+  Bhim Chamlagain, Mark Ming-Cheng Cheng, Jiaqiang Yan, David Mandrus, David
+  Tománek, and Zhixian Zhou.
+\newblock High mobility wse2 p- and n-type field-effect transistors contacted
+  by highly doped graphene for low-resistance contacts.
+\newblock {\em Nano Letters}, 14(6):3594--3601, 2014.
+\newblock PMID: 24844426.
+
+\bibitem{Das_NanoLett2014}
+Saptarshi Das, Richard Gulotty, Anirudha~V Sumant, and Andreas Roelofs.
+\newblock All two-dimensional, flexible, transparent, and thinnest thin film
+  transistor.
+\newblock {\em Nano letters}, 14(5):2861--2866, 2014.
+
+\bibitem{Roy_ACSnano2014}
+Tania Roy, Mahmut Tosun, Jeong~Seuk Kang, Angada~B. Sachid, Sujay~B. Desai,
+  Mark Hettick, Chenming~C. Hu, and Ali Javey.
+\newblock Field-effect transistors built from all two-dimensional material
+  components.
+\newblock {\em ACS Nano}, 8(6):6259--6264, 2014.
+\newblock PMID: 24779528.
+
+\bibitem{Liu_NanoLett2015}
+Yuan Liu, Hao Wu, Hung-Chieh Cheng, Sen Yang, Enbo Zhu, Qiyuan He, Mengning
+  Ding, Dehui Li, Jian Guo, Nathan~O Weiss, et~al.
+\newblock Toward barrier free contact to molybdenum disulfide using graphene
+  electrodes.
+\newblock {\em Nano letters}, 15(5):3030--3034, 2015.
+
 \bibitem{Chuang_2016}
 Hsun-Jen Chuang, Bhim~Prasad Chamlagain, Michael Koehler, Meeghage~Madusanka
   Perera, Jiaqiang Yan, David Mandrus, David Tomanek, and Zhixian Zhou.
 \newblock Low-resistance 2d/2d ohmic contacts: A universal approach to
   high-performance wse2, mos2, and mose2 transistors.
 \newblock {\em Nano Letters}, 0(ja):null, 0.
+
+\bibitem{Schroder_Semiconductor2006}
+Dieter~K. Schroder.
+\newblock {\em {S}emiconductor {M}aterial and {D}evice {C}haracterization}.
+\newblock {J}ohn {W}iley and {S}ons, {I}nc., Hoboken, New Jersey, 3rd edition,
+  2006.
+
+\bibitem{Yang_NanoLett2014}
+Lingming Yang, Kausik Majumdar, Han Liu, Yuchen Du, Heng Wu, Michael
+  Hatzistergos, PY~Hung, Robert Tieckelmann, Wilman Tsai, Chris Hobbs, et~al.
+\newblock Chloride molecular doping technique on 2d materials: Ws2 and mos2.
+\newblock {\em Nano letters}, 14(11):6275--6280, 2014.
+
+\bibitem{Leong_ACSnano2014}
+Wei~Sun Leong, Xin Luo, Yida Li, Khoong~Hong Khoo, Su~Ying Quek, and John~TL
+  Thong.
+\newblock Low resistance metal contacts to mos2 devices with
+  nickel-etched-graphene electrodes.
+\newblock {\em ACS nano}, 9(1):869--877, 2014.
+
+\bibitem{Stassen_AppPhysLett2004}
+A.~F. {Stassen}, R.~W.~I. {de Boer}, N.~N. {Iosad}, and A.~F. {Morpurgo}.
+\newblock {Influence of the gate dielectric on the mobility of rubrene
+  single-crystal field-effect transistors}.
+\newblock {\em Applied Physics Letters}, 85:3899, oct 2004.
+
+\bibitem{Valdes_IRE1954}
+Leopoldo~B Valdes.
+\newblock Resistivity measurements on germanium for transistors.
+\newblock {\em Proceedings of the IRE}, 42(2):420--427, 1954.
 
 \bibitem{HallEffectNIST}
 Thurber {W}.{R}.
@@ -669,12 +735,6 @@ Wei Liu, Jiahao Kang, Deblina Sarkar, Yasin Khatami, Debdeep Jena, and Kaustav
 \newblock Role of metal contacts in designing high-performance monolayer n-type
   wse2 field effect transistors.
 \newblock {\em Nano letters}, 13(5):1983--1990, 2013.
-
-\bibitem{Das_NanoLett2014}
-Saptarshi Das, Richard Gulotty, Anirudha~V Sumant, and Andreas Roelofs.
-\newblock All two-dimensional, flexible, transparent, and thinnest thin film
-  transistor.
-\newblock {\em Nano letters}, 14(5):2861--2866, 2014.
 
 \bibitem{Li_NanoLett2013}
 Song-Lin Li, Katsunori Wakabayashi, Yong Xu, Shu Nakaharai, Katsuyoshi Komatsu,
