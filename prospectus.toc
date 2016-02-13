@@ -33,8 +33,8 @@
 \contentsline {subsection}{\numberline {3.2.1}Applying Low-Resistance Contacts: Doped Channel}{18}
 \contentsline {subsection}{\numberline {3.2.2}Applying Low-Resistance Contacts: Undoped Channel}{18}
 \contentsline {section}{\numberline {3.3}Hall Effect and Applying Low-Resistance Contacts}{18}
-\contentsline {subsection}{\numberline {3.3.1}Hall Effect: \ensuremath {\ch {Nb_{0.0005}}\ch {W_{0.9995}}\ch {Se2}\tmspace +\thinmuskip {.1667em}}}{18}
-\contentsline {subsection}{\numberline {3.3.2}Hall Effect: Extended to Contact Method}{18}
+\contentsline {subsection}{\numberline {3.3.1}Hall Effect: \ensuremath {\ch {Nb_{0.0005}}\ch {W_{0.9995}}\ch {Se2}\tmspace +\thinmuskip {.1667em}}}{20}
+\contentsline {subsection}{\numberline {3.3.2}Hall Effect: Extended to Contact Method}{21}
 \contentsline {chapter}{\numberline {4}Future Works and Conclusion}{22}
 \contentsline {section}{\numberline {4.1}Integer Quantum Hall Effects}{22}
 \contentsline {section}{\numberline {4.2}Shubnikov-de Haas Oscillations}{24}

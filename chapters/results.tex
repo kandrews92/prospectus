@@ -118,6 +118,7 @@ where $L$ is the length of the channel (the distance between the source and drai
 \end{figure}
 
 \subsection{Applying Low-Resistance Contacts: Doped Channel}\label{subsec:mufe_doped_channel}
+Start here$\ldots$
 \begin{figure}[ht]
 	\centering
 	\subfloat[]{
@@ -199,6 +200,31 @@ where $L$ is the length of the channel (the distance between the source and drai
 \end{figure}
 
 \section{Hall Effect and Applying Low-Resistance Contacts}\label{sec:hall_effect_intro}
+The field-effect mobility $\mu_\mathrm{FE}$ is one quantity to characterize the quality of a device. Another widely used quantity is the Hall mobility $\mu_H$. The Hall mobility is measured using the Hall effect. This quantity is useful because it directly gives several values that are not readily calcuable from using the field-effect mobility, such as resistivity $\rho$, mobility $\mu$, and (charge) carrier density $n$ \cite{Schroder_Semiconductor2006}. Consider the setup shown in fig.~\ref{fig:hall_diagram}, where $L$ is taken to be in the $x$-direction, width $w$ in the $y$-direction, thickness $t$ in the $z$-direction, and $e$ denotes a charge carrier which can either be an electron or a hole. The current $I$ flows in the positive $x$-direction and is given by
+\begin{equation}\label{eq:current}
+	I = J w t = n e v_x w t,
+\end{equation}
+where $J$ is the current density in the $x$-direction, $n$ is the charge carrier number density, and $v_x$ is the charge carrier drift velocity in the positive $x$-direction. The current $I$ is a result of the application of an electric field $E_x$ along the positive $x$-direction. In the presence of a magnetic field $B$ applied in the positive $z$-direction the charge carrier will experience a Lorentz for that deflects them towards one side of the device. As a result there is an accumulation of charges along one side of the device which in turn creates a transverse electric field $E_y$ \cite{Melissinos_Experiments1966}. This transverse electric field is given by
+\begin{equation}\label{eq:Ey}
+	E_y = v_x B.
+\end{equation}
+The accumulation of charges on one side of the device creates a potential differnece that is related to the this transverse electric field and be used to find the Hall voltage $V_H$ by integrating across the width of the device to arrive at
+\begin{equation}\label{eq:V_H}
+	V_H = -\frac{IB}{t}\left(\frac{1}{ne}\right).
+\end{equation}
+From eq.~\ref{eq:RH} the Hall coefficient is found to be
+\begin{equation}\label{eq:RH}
+	R_H = \frac{1}{ne} = \frac{V_H t}{IB}.
+\end{equation}
+Since $e$ refers to either electrons or holes, the sign of $R_H$ would also vary in accord with the proper carrier being described in the given circumstance. Furthermore, the conductivity is given by
+\begin{equation}\label{eq:sigma}
+	\sigma = n e \mu_H,
+\end{equation}
+where $\sigma$ is the conductivity and $\mu_H$ denotes the Hall mobility. Thus, an expression for the Hall mobility can be found by combining eqs.~\ref{eq:RH} and \ref{eq:sigma} to give
+\begin{equation}\label{eq:mu_H}
+	\mu_H = \abs{R_H}\sigma = \frac{\sigma V_H t}{IB}.
+\end{equation}
+As stated above, the result from eqs.~\ref{eq:RH} and \ref{eq:mu_H} give a direct relation using measurable and calcuable quantities to the carrier density, resistivity ($\rho=\sigma^{-1}$), and the hall mobility. Using this method, one can further characterize a device's behavior to better understand the mechanisms that control and limit the performance at high and low temperatures as well as the effects of doping the channel, and how this information can be used to further improve the performance of the device.
 \begin{figure}[ht]
 	\centering
 	\includegraphics[height=6cm,width=8cm]{figs/results/hall_diagram}
@@ -207,6 +233,7 @@ where $L$ is the length of the channel (the distance between the source and drai
 \end{figure}
 
 \subsection{Hall Effect: \lightlyfive}\label{subsec:hall_lightly}
+In order to perform the Hall measurement the device design is important. There need to be electrodes that are properly aligned parallel to one another in order to measure the longitudinal conductance (resistivity $\rho_{xx}=\sigma_{xx}^{-1}$) $\sigma_{xx}$ and the transverse conductivity (resistivity $\rho_{xy}=\sigma_{xy}^{-1}$) $\sigma_{xy}$ (the conductivity used to measure the Hall mobility). Fig.~\ref{fig:hall_bar_device1} shows an optical micrograph of the design used for the Hall measurement in this case. Note that the channel material used here was lightly doped \ch{WSe2} ($\lightlyfive$). Fig.~\subref*{fig:11192015_ohmic_contacts} shows the $IV$ characteristic curve of the device as a function of $V_{ds}$ for several backgate voltages at $T=300\unita{K}$. This shows that the device exhibits linear and ohmic contacts at this temperature. Fig.~\subref*{fig:11192015_conduct_vs_temp}.
 \begin{figure}[ht]
 	\centering
 	\includegraphics[height=4.5cm,width=6.0cm]{figs/results/hall_bar_doped_channel/hall_bar_device_pic_11192015_no2_doping_scheme}
@@ -246,17 +273,17 @@ where $L$ is the length of the channel (the distance between the source and drai
 
 \subsection{Hall Effect: Extended to Contact Method}\label{subsec:hall_degenerate}
 
-\begin{figure}[ht]
-	\centering
-	\subfloat[]{
-		\includegraphics[height=4.75cm,width=5.5cm]{figs/results/ben/pWSe2_hall}
-		\label{fig:pWSe2_hall}
-	}
-	\qquad
-	\subfloat[]{
-		\includegraphics[height=4.75cm,width=5.5cm]{figs/results/ben/pWSe2_cap}
-		\label{fig:pWSe2_cap}
-	}
-	\caption[Hall effect measurement with 2D/2D contacts to determine capacitance]{\protect\subref{fig:pWSe2_hall} Optical microgrpah of \ch{WSe2} Hall bar device encapsulated in \hbn with degenerate 2D/2D contacts. \protect\subref{fig:pWSe2_cap} Hole density as a function of $V_{bg}$ at $T=300\unita{K}$ extracted from Hall effect measurement. Figures appeared in ref.~\cite{Chuang_2016}.}
-	\label{fig:pWSe2_hall_ben}
-\end{figure}
+%\begin{figure}[ht]
+%	\centering
+%	\subfloat[]{
+%		\includegraphics[height=4.75cm,width=5.5cm]{figs/results/ben/pWSe2_hall}
+%		\label{fig:pWSe2_hall}
+%	}
+%	\qquad
+%	\subfloat[]{
+%		\includegraphics[height=4.75cm,width=5.5cm]{figs/results/ben/pWSe2_cap}
+%		\label{fig:pWSe2_cap}
+%	}
+%	\caption[Hall effect measurement with 2D/2D contacts to determine capacitance]{\protect\subref{fig:pWSe2_hall} Optical microgrpah of \ch{WSe2} Hall bar device encapsulated in \hbn with degenerate 2D/2D contacts. \protect\subref{fig:pWSe2_cap} Hole density as a function of $V_{bg}$ at $T=300\unita{K}$ extracted from Hall effect measurement. Figures appeared in ref.~\cite{Chuang_2016}.}
+%	\label{fig:pWSe2_hall_ben}
+%\end{figure}
