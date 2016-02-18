@@ -35,11 +35,11 @@
 \contentsline {subsection}{\numberline {3.2.3}Discussion of Two-Probe Measurement Results in Doped and Undoped Channels}{20}
 \contentsline {section}{\numberline {3.3}Hall Effect and Applying Low-Resistance Contacts}{21}
 \contentsline {subsection}{\numberline {3.3.1}Hall Effect: \ensuremath {\ch {Nb_{0.0005}}\ch {W_{0.9995}}\ch {Se2}\tmspace +\thinmuskip {.1667em}}}{22}
-\contentsline {subsection}{\numberline {3.3.2}Hall Effect: Discussion and Improvements}{22}
+\contentsline {subsection}{\numberline {3.3.2}Hall Effect: Discussion and Improvements}{23}
 \contentsline {chapter}{\numberline {4}Future Works and Conclusion}{25}
 \contentsline {section}{\numberline {4.1}Integer Quantum Hall Effects}{25}
 \contentsline {section}{\numberline {4.2}Shubnikov-de Haas Oscillations}{27}
-\contentsline {section}{\numberline {4.3}Performance Limits in \acp {TMD}}{27}
+\contentsline {section}{\numberline {4.3}Performance Limits in \acp {TMD}}{28}
 \contentsline {section}{\numberline {4.4}Conclusion}{28}
 \contentsline {chapter}{References}{29}
 \contentsline {chapter}{Appendices}{37}
