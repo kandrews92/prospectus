@@ -6,8 +6,8 @@
 \contentsline {subsection}{\numberline {1.2.1}Properties of Graphene}{1}
 \contentsline {subsection}{\numberline {1.2.2}Band Structure of Graphene}{2}
 \contentsline {section}{\numberline {1.3}Two-dimensional Materials: Transition Metal Dichalcogenides}{3}
-\contentsline {subsection}{\numberline {1.3.1}Band Structures of \acp {TMD}}{3}
-\contentsline {section}{\numberline {1.4}Current Challenges in \acp {TMD} and Beyond}{3}
+\contentsline {subsection}{\numberline {1.3.1}Band Structures of \acp {TMD}}{4}
+\contentsline {section}{\numberline {1.4}Current Challenges in \acp {TMD} and Beyond}{4}
 \contentsline {chapter}{\numberline {2}Experimental Details}{6}
 \contentsline {section}{\numberline {2.1}Substrate Preperation}{6}
 \contentsline {subsection}{\numberline {2.1.1}Substrate Cleaning}{6}
@@ -27,18 +27,19 @@
 \contentsline {chapter}{\numberline {3}Intrinsic Properties and Scattering Mechanisms}{14}
 \contentsline {section}{\numberline {3.1}Approach to Low-Resistance Contacts}{14}
 \contentsline {subsection}{\numberline {3.1.1}Transmission Line Method: \ensuremath {\ch {Nb_{0.0005}}\ch {W_{0.9995}}\ch {Se2}\tmspace +\thinmuskip {.1667em}}}{15}
-\contentsline {subsection}{\numberline {3.1.2}Transmission Line Method: \ensuremath {\ch {Nb_{0.005}}\ch {W_{0.995}}\ch {Se2}\tmspace +\thinmuskip {.1667em}}}{15}
-\contentsline {subsection}{\numberline {3.1.3}Discussion of Results for Light and Degenerately Doped Contacts}{16}
-\contentsline {section}{\numberline {3.2}Field-Effect Mobility and Scattering Mechanisms}{17}
+\contentsline {subsection}{\numberline {3.1.2}Transmission Line Method: \ensuremath {\ch {Nb_{0.005}}\ch {W_{0.995}}\ch {Se2}\tmspace +\thinmuskip {.1667em}}}{16}
+\contentsline {subsection}{\numberline {3.1.3}Discussion of Results for Light and Degenerately Doped Contacts}{17}
+\contentsline {section}{\numberline {3.2}Field-Effect Mobility and Scattering Mechanisms}{18}
 \contentsline {subsection}{\numberline {3.2.1}Applying Low-Resistance Contacts: Doped Channel}{18}
-\contentsline {subsection}{\numberline {3.2.2}Applying Low-Resistance Contacts: Undoped Channel}{18}
-\contentsline {section}{\numberline {3.3}Hall Effect and Applying Low-Resistance Contacts}{18}
-\contentsline {subsection}{\numberline {3.3.1}Hall Effect: \ensuremath {\ch {Nb_{0.0005}}\ch {W_{0.9995}}\ch {Se2}\tmspace +\thinmuskip {.1667em}}}{20}
+\contentsline {subsection}{\numberline {3.2.2}Applying Low-Resistance Contacts: Undoped Channel}{19}
+\contentsline {subsection}{\numberline {3.2.3}Discussion of Two-Probe Measurement Results in Doped and Undoped Channels}{20}
+\contentsline {section}{\numberline {3.3}Hall Effect and Applying Low-Resistance Contacts}{21}
+\contentsline {subsection}{\numberline {3.3.1}Hall Effect: \ensuremath {\ch {Nb_{0.0005}}\ch {W_{0.9995}}\ch {Se2}\tmspace +\thinmuskip {.1667em}}}{22}
 \contentsline {subsection}{\numberline {3.3.2}Hall Effect: Discussion and Improvements}{22}
-\contentsline {chapter}{\numberline {4}Future Works and Conclusion}{23}
-\contentsline {section}{\numberline {4.1}Integer Quantum Hall Effects}{23}
-\contentsline {section}{\numberline {4.2}Shubnikov-de Haas Oscillations}{25}
-\contentsline {section}{\numberline {4.3}Performance Limits in \acp {TMD}}{25}
-\contentsline {section}{\numberline {4.4}Conclusion}{26}
-\contentsline {chapter}{References}{27}
-\contentsline {chapter}{Appendices}{35}
+\contentsline {chapter}{\numberline {4}Future Works and Conclusion}{25}
+\contentsline {section}{\numberline {4.1}Integer Quantum Hall Effects}{25}
+\contentsline {section}{\numberline {4.2}Shubnikov-de Haas Oscillations}{27}
+\contentsline {section}{\numberline {4.3}Performance Limits in \acp {TMD}}{27}
+\contentsline {section}{\numberline {4.4}Conclusion}{28}
+\contentsline {chapter}{References}{29}
+\contentsline {chapter}{Appendices}{37}

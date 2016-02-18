@@ -259,31 +259,6 @@ F.~R. Gamble and B.~G. Silbernagel.
   implications.
 \newblock {\em The Journal of Chemical Physics}, 63(6):2544--2552, 1975.
 
-\bibitem{Cheng_NanoLett2014}
-Rui Cheng, Dehui Li, Hailong Zhou, Chen Wang, Anxiang Yin, Shan Jiang, Yuan
-  Liu, Yu~Chen, Yu~Huang, and Xiangfeng Duan.
-\newblock Electroluminescence and photocurrent generation from atomically sharp
-  wse2/mos2 heterojunction p--n diodes.
-\newblock {\em Nano letters}, 14(10):5590--5597, 2014.
-
-\bibitem{Conley_NanoLett2013}
-Hiram~J Conley, Bin Wang, Jed~I Ziegler, Richard~F Haglund~Jr, Sokrates~T
-  Pantelides, and Kirill~I Bolotin.
-\newblock Bandgap engineering of strained monolayer and bilayer mos2.
-\newblock {\em Nano letters}, 13(8):3626--3630, 2013.
-
-\bibitem{Lee_Nanoscale2014}
-Seunghyun Lee and Zhaohui Zhong.
-\newblock Nanoelectronic circuits based on two-dimensional atomic layer
-  crystals.
-\newblock {\em Nanoscale}, 6(22):13283--13300, 2014.
-
-\bibitem{Splendiani_Nanolett2010}
-Andrea Splendiani, Liang Sun, Yuanbo Zhang, Tianshu Li, Jonghwan Kim, Chi-Yung
-  Chim, Giulia Galli, and Feng Wang.
-\newblock Emerging photoluminescence in monolayer mos2.
-\newblock {\em Nano letters}, 10(4):1271--1275, 2010.
-
 \bibitem{Kubota_Science2007}
 Yoichi Kubota, Kenji Watanabe, Osamu Tsuda, and Takashi Taniguchi.
 \newblock Deep ultraviolet light-emitting hexagonal boron nitride synthesized
@@ -340,6 +315,31 @@ Qing~Hua Wang, Kourosh Kalantar-Zadeh, Andras Kis, Jonathan~N Coleman, and
 \newblock Electronics and optoelectronics of two-dimensional transition metal
   dichalcogenides.
 \newblock {\em Nature nanotechnology}, 7(11):699--712, 2012.
+
+\bibitem{Cheng_NanoLett2014}
+Rui Cheng, Dehui Li, Hailong Zhou, Chen Wang, Anxiang Yin, Shan Jiang, Yuan
+  Liu, Yu~Chen, Yu~Huang, and Xiangfeng Duan.
+\newblock Electroluminescence and photocurrent generation from atomically sharp
+  wse2/mos2 heterojunction p--n diodes.
+\newblock {\em Nano letters}, 14(10):5590--5597, 2014.
+
+\bibitem{Conley_NanoLett2013}
+Hiram~J Conley, Bin Wang, Jed~I Ziegler, Richard~F Haglund~Jr, Sokrates~T
+  Pantelides, and Kirill~I Bolotin.
+\newblock Bandgap engineering of strained monolayer and bilayer mos2.
+\newblock {\em Nano letters}, 13(8):3626--3630, 2013.
+
+\bibitem{Lee_Nanoscale2014}
+Seunghyun Lee and Zhaohui Zhong.
+\newblock Nanoelectronic circuits based on two-dimensional atomic layer
+  crystals.
+\newblock {\em Nanoscale}, 6(22):13283--13300, 2014.
+
+\bibitem{Splendiani_Nanolett2010}
+Andrea Splendiani, Liang Sun, Yuanbo Zhang, Tianshu Li, Jonghwan Kim, Chi-Yung
+  Chim, Giulia Galli, and Feng Wang.
+\newblock Emerging photoluminescence in monolayer mos2.
+\newblock {\em Nano letters}, 10(4):1271--1275, 2010.
 
 \bibitem{Fang_NanoLett2012}
 Hui Fang, Steven Chuang, Ting~Chia Chang, Kuniharu Takei, Toshitake Takahashi,
@@ -573,6 +573,26 @@ Leopoldo~B Valdes.
 \newblock Resistivity measurements on germanium for transistors.
 \newblock {\em Proceedings of the IRE}, 42(2):420--427, 1954.
 
+\bibitem{Britton_NanoLett2013}
+Britton W.~H. Baugher, Hugh O.~H. Churchill, Yafang Yang, and Pablo
+  Jarillo-Herrero.
+\newblock Intrinsic electronic transport properties of high-quality monolayer
+  and bilayer mos2.
+\newblock {\em Nano Letters}, 13(9):4212--4216, 2013.
+\newblock PMID: 23930826.
+
+\bibitem{Pradhan_SciReports2015}
+NR~Pradhan, D~Rhodes, S~Memaran, JM~Poumirol, D~Smirnov, S~Talapatra, S~Feng,
+  N~Perea-Lopez, AL~Elias, M~Terrones, et~al.
+\newblock Hall and field-effect mobilities in few layered p-wse2 field-effect
+  transistors.
+\newblock {\em Scientific reports}, 5, 2015.
+
+\bibitem{Ando_RevModPhys1982}
+Tsuneya Ando, Alan~B Fowler, and Frank Stern.
+\newblock Electronic properties of two-dimensional systems.
+\newblock {\em Reviews of Modern Physics}, 54(2):437, 1982.
+
 \bibitem{Melissinos_Experiments1966}
 Adrian~Constantin Melissinos and Adrian~C Melissinos.
 \newblock {\em Experiments in modern physics}, volume 114.
@@ -598,11 +618,6 @@ K.~v. Klitzing, G.~Dorda, and M.~Pepper.
 \newblock New method for high-accuracy determination of the fine-structure
   constant based on quantized hall resistance.
 \newblock {\em Phys. Rev. Lett.}, 45:494--497, Aug 1980.
-
-\bibitem{Ando_RevModPhys1982}
-Tsuneya Ando, Alan~B Fowler, and Frank Stern.
-\newblock Electronic properties of two-dimensional systems.
-\newblock {\em Reviews of Modern Physics}, 54(2):437, 1982.
 
 \bibitem{Goerbig_2009}
 M.~O. {Goerbig}.
