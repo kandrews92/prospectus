@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  18 FEB 2016 11:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  22 FEB 2016 11:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2215,7 +2215,12 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 {c:/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
 \openout2 = `frontmatter/abstract.aux'.
 
- (./frontmatter/abstract.tex) [1
+ (./frontmatter/abstract.tex
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+) [1
 
 
 ] (./prospectus.toc
@@ -2228,8 +2233,7 @@ although it is yet undefined on input line 9.
 \tf@toc=\write5
 \openout5 = `prospectus.toc'.
 
- [3]
-(./prospectus.lof)
+ [3] (./prospectus.lof)
 \tf@lof=\write6
 \openout6 = `prospectus.lof'.
 
@@ -2239,7 +2243,8 @@ although it is yet undefined on input line 9.
 \tf@lot=\write7
 \openout7 = `prospectus.lot'.
 
- [5
+
+[5
 
 ]
 \openout2 = `chapters/intro.aux'.
@@ -3203,7 +3208,7 @@ texlive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texl
 ive/2014/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb><c:/texlive/2
 014/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><c:/texlive/2014/texmf-
 dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on prospectus.pdf (46 pages, 19384722 bytes).
+Output written on prospectus.pdf (46 pages, 19874205 bytes).
 PDF statistics:
  336 PDF objects out of 1000 (max. 8388607)
  166 compressed objects within 2 object streams
